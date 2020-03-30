@@ -1003,3 +1003,570 @@
   "🙉": {
     "name": "hear-no-evil monkey",
     "slug": "hear_no_evil_monkey",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🙊": {
+    "name": "speak-no-evil monkey",
+    "slug": "speak_no_evil_monkey",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💌": {
+    "name": "love letter",
+    "slug": "love_letter",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💘": {
+    "name": "heart with arrow",
+    "slug": "heart_with_arrow",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💝": {
+    "name": "heart with ribbon",
+    "slug": "heart_with_ribbon",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💖": {
+    "name": "sparkling heart",
+    "slug": "sparkling_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💗": {
+    "name": "growing heart",
+    "slug": "growing_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💓": {
+    "name": "beating heart",
+    "slug": "beating_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💞": {
+    "name": "revolving hearts",
+    "slug": "revolving_hearts",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💕": {
+    "name": "two hearts",
+    "slug": "two_hearts",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💟": {
+    "name": "heart decoration",
+    "slug": "heart_decoration",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "❣️": {
+    "name": "heart exclamation",
+    "slug": "heart_exclamation",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "💔": {
+    "name": "broken heart",
+    "slug": "broken_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "❤️‍🔥": {
+    "name": "heart on fire",
+    "slug": "heart_on_fire",
+    "group": "Smileys & Emotion",
+    "emoji_version": "13.1",
+    "unicode_version": "13.1",
+    "skin_tone_support": false
+  },
+  "❤️‍🩹": {
+    "name": "mending heart",
+    "slug": "mending_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "13.1",
+    "unicode_version": "13.1",
+    "skin_tone_support": false
+  },
+  "❤️": {
+    "name": "red heart",
+    "slug": "red_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🩷": {
+    "name": "pink heart",
+    "slug": "pink_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🧡": {
+    "name": "orange heart",
+    "slug": "orange_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "💛": {
+    "name": "yellow heart",
+    "slug": "yellow_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💚": {
+    "name": "green heart",
+    "slug": "green_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💙": {
+    "name": "blue heart",
+    "slug": "blue_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🩵": {
+    "name": "light blue heart",
+    "slug": "light_blue_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "💜": {
+    "name": "purple heart",
+    "slug": "purple_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🤎": {
+    "name": "brown heart",
+    "slug": "brown_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🖤": {
+    "name": "black heart",
+    "slug": "black_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🩶": {
+    "name": "grey heart",
+    "slug": "grey_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🤍": {
+    "name": "white heart",
+    "slug": "white_heart",
+    "group": "Smileys & Emotion",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "💋": {
+    "name": "kiss mark",
+    "slug": "kiss_mark",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💯": {
+    "name": "hundred points",
+    "slug": "hundred_points",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💢": {
+    "name": "anger symbol",
+    "slug": "anger_symbol",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💥": {
+    "name": "collision",
+    "slug": "collision",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💫": {
+    "name": "dizzy",
+    "slug": "dizzy",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💦": {
+    "name": "sweat droplets",
+    "slug": "sweat_droplets",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💨": {
+    "name": "dashing away",
+    "slug": "dashing_away",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🕳️": {
+    "name": "hole",
+    "slug": "hole",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "💬": {
+    "name": "speech balloon",
+    "slug": "speech_balloon",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👁️‍🗨️": {
+    "name": "eye in speech bubble",
+    "slug": "eye_in_speech_bubble",
+    "group": "Smileys & Emotion",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🗨️": {
+    "name": "left speech bubble",
+    "slug": "left_speech_bubble",
+    "group": "Smileys & Emotion",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🗯️": {
+    "name": "right anger bubble",
+    "slug": "right_anger_bubble",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "💭": {
+    "name": "thought balloon",
+    "slug": "thought_balloon",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "💤": {
+    "name": "ZZZ",
+    "slug": "zzz",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👋": {
+    "name": "waving hand",
+    "slug": "waving_hand",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🤚": {
+    "name": "raised back of hand",
+    "slug": "raised_back_of_hand",
+    "group": "People & Body",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "3.0"
+  },
+  "🖐️": {
+    "name": "hand with fingers splayed",
+    "slug": "hand_with_fingers_splayed",
+    "group": "People & Body",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "✋": {
+    "name": "raised hand",
+    "slug": "raised_hand",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🖖": {
+    "name": "vulcan salute",
+    "slug": "vulcan_salute",
+    "group": "People & Body",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🫱": {
+    "name": "rightwards hand",
+    "slug": "rightwards_hand",
+    "group": "People & Body",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "14.0"
+  },
+  "🫲": {
+    "name": "leftwards hand",
+    "slug": "leftwards_hand",
+    "group": "People & Body",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "14.0"
+  },
+  "🫳": {
+    "name": "palm down hand",
+    "slug": "palm_down_hand",
+    "group": "People & Body",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "14.0"
+  },
+  "🫴": {
+    "name": "palm up hand",
+    "slug": "palm_up_hand",
+    "group": "People & Body",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "14.0"
+  },
+  "🫷": {
+    "name": "leftwards pushing hand",
+    "slug": "leftwards_pushing_hand",
+    "group": "People & Body",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "15.0"
+  },
+  "🫸": {
+    "name": "rightwards pushing hand",
+    "slug": "rightwards_pushing_hand",
+    "group": "People & Body",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "15.0"
+  },
+  "👌": {
+    "name": "OK hand",
+    "slug": "ok_hand",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🤌": {
+    "name": "pinched fingers",
+    "slug": "pinched_fingers",
+    "group": "People & Body",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "13.0"
+  },
+  "🤏": {
+    "name": "pinching hand",
+    "slug": "pinching_hand",
+    "group": "People & Body",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "12.0"
+  },
+  "✌️": {
+    "name": "victory hand",
+    "slug": "victory_hand",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🤞": {
+    "name": "crossed fingers",
+    "slug": "crossed_fingers",
+    "group": "People & Body",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "3.0"
+  },
+  "🫰": {
+    "name": "hand with index finger and thumb crossed",
+    "slug": "hand_with_index_finger_and_thumb_crossed",
+    "group": "People & Body",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "14.0"
+  },
+  "🤟": {
+    "name": "love-you gesture",
+    "slug": "love_you_gesture",
+    "group": "People & Body",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "5.0"
+  },
+  "🤘": {
+    "name": "sign of the horns",
+    "slug": "sign_of_the_horns",
+    "group": "People & Body",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🤙": {
+    "name": "call me hand",
+    "slug": "call_me_hand",
+    "group": "People & Body",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "3.0"
+  },
+  "👈": {
+    "name": "backhand index pointing left",
+    "slug": "backhand_index_pointing_left",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "👉": {
+    "name": "backhand index pointing right",
+    "slug": "backhand_index_pointing_right",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "👆": {
+    "name": "backhand index pointing up",
+    "slug": "backhand_index_pointing_up",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🖕": {
+    "name": "middle finger",
+    "slug": "middle_finger",
+    "group": "People & Body",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "👇": {
+    "name": "backhand index pointing down",
+    "slug": "backhand_index_pointing_down",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "☝️": {
+    "name": "index pointing up",
+    "slug": "index_pointing_up",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🫵": {
+    "name": "index pointing at the viewer",
+    "slug": "index_pointing_at_the_viewer",
+    "group": "People & Body",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "14.0"
