@@ -442,3 +442,564 @@
   },
   "😷": {
     "name": "face with medical mask",
+    "slug": "face_with_medical_mask",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🤒": {
+    "name": "face with thermometer",
+    "slug": "face_with_thermometer",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🤕": {
+    "name": "face with head-bandage",
+    "slug": "face_with_head_bandage",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🤢": {
+    "name": "nauseated face",
+    "slug": "nauseated_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🤮": {
+    "name": "face vomiting",
+    "slug": "face_vomiting",
+    "group": "Smileys & Emotion",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🤧": {
+    "name": "sneezing face",
+    "slug": "sneezing_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🥵": {
+    "name": "hot face",
+    "slug": "hot_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🥶": {
+    "name": "cold face",
+    "slug": "cold_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🥴": {
+    "name": "woozy face",
+    "slug": "woozy_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "😵": {
+    "name": "face with crossed-out eyes",
+    "slug": "face_with_crossed_out_eyes",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😵‍💫": {
+    "name": "face with spiral eyes",
+    "slug": "face_with_spiral_eyes",
+    "group": "Smileys & Emotion",
+    "emoji_version": "13.1",
+    "unicode_version": "13.1",
+    "skin_tone_support": false
+  },
+  "🤯": {
+    "name": "exploding head",
+    "slug": "exploding_head",
+    "group": "Smileys & Emotion",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🤠": {
+    "name": "cowboy hat face",
+    "slug": "cowboy_hat_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🥳": {
+    "name": "partying face",
+    "slug": "partying_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🥸": {
+    "name": "disguised face",
+    "slug": "disguised_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "😎": {
+    "name": "smiling face with sunglasses",
+    "slug": "smiling_face_with_sunglasses",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🤓": {
+    "name": "nerd face",
+    "slug": "nerd_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🧐": {
+    "name": "face with monocle",
+    "slug": "face_with_monocle",
+    "group": "Smileys & Emotion",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "😕": {
+    "name": "confused face",
+    "slug": "confused_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🫤": {
+    "name": "face with diagonal mouth",
+    "slug": "face_with_diagonal_mouth",
+    "group": "Smileys & Emotion",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "😟": {
+    "name": "worried face",
+    "slug": "worried_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🙁": {
+    "name": "slightly frowning face",
+    "slug": "slightly_frowning_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "☹️": {
+    "name": "frowning face",
+    "slug": "frowning_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "😮": {
+    "name": "face with open mouth",
+    "slug": "face_with_open_mouth",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "😯": {
+    "name": "hushed face",
+    "slug": "hushed_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "😲": {
+    "name": "astonished face",
+    "slug": "astonished_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😳": {
+    "name": "flushed face",
+    "slug": "flushed_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥺": {
+    "name": "pleading face",
+    "slug": "pleading_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🥹": {
+    "name": "face holding back tears",
+    "slug": "face_holding_back_tears",
+    "group": "Smileys & Emotion",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "😦": {
+    "name": "frowning face with open mouth",
+    "slug": "frowning_face_with_open_mouth",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "😧": {
+    "name": "anguished face",
+    "slug": "anguished_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "😨": {
+    "name": "fearful face",
+    "slug": "fearful_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😰": {
+    "name": "anxious face with sweat",
+    "slug": "anxious_face_with_sweat",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😥": {
+    "name": "sad but relieved face",
+    "slug": "sad_but_relieved_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😢": {
+    "name": "crying face",
+    "slug": "crying_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😭": {
+    "name": "loudly crying face",
+    "slug": "loudly_crying_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😱": {
+    "name": "face screaming in fear",
+    "slug": "face_screaming_in_fear",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😖": {
+    "name": "confounded face",
+    "slug": "confounded_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😣": {
+    "name": "persevering face",
+    "slug": "persevering_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😞": {
+    "name": "disappointed face",
+    "slug": "disappointed_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😓": {
+    "name": "downcast face with sweat",
+    "slug": "downcast_face_with_sweat",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😩": {
+    "name": "weary face",
+    "slug": "weary_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😫": {
+    "name": "tired face",
+    "slug": "tired_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥱": {
+    "name": "yawning face",
+    "slug": "yawning_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "😤": {
+    "name": "face with steam from nose",
+    "slug": "face_with_steam_from_nose",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😡": {
+    "name": "enraged face",
+    "slug": "enraged_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😠": {
+    "name": "angry face",
+    "slug": "angry_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🤬": {
+    "name": "face with symbols on mouth",
+    "slug": "face_with_symbols_on_mouth",
+    "group": "Smileys & Emotion",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "😈": {
+    "name": "smiling face with horns",
+    "slug": "smiling_face_with_horns",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "👿": {
+    "name": "angry face with horns",
+    "slug": "angry_face_with_horns",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💀": {
+    "name": "skull",
+    "slug": "skull",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "☠️": {
+    "name": "skull and crossbones",
+    "slug": "skull_and_crossbones",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "💩": {
+    "name": "pile of poo",
+    "slug": "pile_of_poo",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🤡": {
+    "name": "clown face",
+    "slug": "clown_face",
+    "group": "Smileys & Emotion",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "👹": {
+    "name": "ogre",
+    "slug": "ogre",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👺": {
+    "name": "goblin",
+    "slug": "goblin",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👻": {
+    "name": "ghost",
+    "slug": "ghost",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👽": {
+    "name": "alien",
+    "slug": "alien",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👾": {
+    "name": "alien monster",
+    "slug": "alien_monster",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🤖": {
+    "name": "robot",
+    "slug": "robot",
+    "group": "Smileys & Emotion",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "😺": {
+    "name": "grinning cat",
+    "slug": "grinning_cat",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😸": {
+    "name": "grinning cat with smiling eyes",
+    "slug": "grinning_cat_with_smiling_eyes",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😹": {
+    "name": "cat with tears of joy",
+    "slug": "cat_with_tears_of_joy",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😻": {
+    "name": "smiling cat with heart-eyes",
+    "slug": "smiling_cat_with_heart_eyes",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😼": {
+    "name": "cat with wry smile",
+    "slug": "cat_with_wry_smile",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😽": {
+    "name": "kissing cat",
+    "slug": "kissing_cat",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🙀": {
+    "name": "weary cat",
+    "slug": "weary_cat",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😿": {
+    "name": "crying cat",
+    "slug": "crying_cat",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "😾": {
+    "name": "pouting cat",
+    "slug": "pouting_cat",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🙈": {
+    "name": "see-no-evil monkey",
+    "slug": "see_no_evil_monkey",
+    "group": "Smileys & Emotion",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🙉": {
+    "name": "hear-no-evil monkey",
+    "slug": "hear_no_evil_monkey",
