@@ -4387,3 +4387,512 @@
   },
   "👩‍👩‍👧": {
     "name": "family woman, woman, girl",
+    "slug": "family_woman_woman_girl",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👩‍👩‍👧‍👦": {
+    "name": "family woman, woman, girl, boy",
+    "slug": "family_woman_woman_girl_boy",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👩‍👩‍👦‍👦": {
+    "name": "family woman, woman, boy, boy",
+    "slug": "family_woman_woman_boy_boy",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👩‍👩‍👧‍👧": {
+    "name": "family woman, woman, girl, girl",
+    "slug": "family_woman_woman_girl_girl",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👨‍👦": {
+    "name": "family man, boy",
+    "slug": "family_man_boy",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "👨‍👦‍👦": {
+    "name": "family man, boy, boy",
+    "slug": "family_man_boy_boy",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "👨‍👧": {
+    "name": "family man, girl",
+    "slug": "family_man_girl",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "👨‍👧‍👦": {
+    "name": "family man, girl, boy",
+    "slug": "family_man_girl_boy",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "👨‍👧‍👧": {
+    "name": "family man, girl, girl",
+    "slug": "family_man_girl_girl",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "👩‍👦": {
+    "name": "family woman, boy",
+    "slug": "family_woman_boy",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "👩‍👦‍👦": {
+    "name": "family woman, boy, boy",
+    "slug": "family_woman_boy_boy",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "👩‍👧": {
+    "name": "family woman, girl",
+    "slug": "family_woman_girl",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "👩‍👧‍👦": {
+    "name": "family woman, girl, boy",
+    "slug": "family_woman_girl_boy",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "👩‍👧‍👧": {
+    "name": "family woman, girl, girl",
+    "slug": "family_woman_girl_girl",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "🗣️": {
+    "name": "speaking head",
+    "slug": "speaking_head",
+    "group": "People & Body",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "👤": {
+    "name": "bust in silhouette",
+    "slug": "bust_in_silhouette",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👥": {
+    "name": "busts in silhouette",
+    "slug": "busts_in_silhouette",
+    "group": "People & Body",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🫂": {
+    "name": "people hugging",
+    "slug": "people_hugging",
+    "group": "People & Body",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "👣": {
+    "name": "footprints",
+    "slug": "footprints",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐵": {
+    "name": "monkey face",
+    "slug": "monkey_face",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐒": {
+    "name": "monkey",
+    "slug": "monkey",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦍": {
+    "name": "gorilla",
+    "slug": "gorilla",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🦧": {
+    "name": "orangutan",
+    "slug": "orangutan",
+    "group": "Animals & Nature",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🐶": {
+    "name": "dog face",
+    "slug": "dog_face",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐕": {
+    "name": "dog",
+    "slug": "dog",
+    "group": "Animals & Nature",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🦮": {
+    "name": "guide dog",
+    "slug": "guide_dog",
+    "group": "Animals & Nature",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🐕‍🦺": {
+    "name": "service dog",
+    "slug": "service_dog",
+    "group": "Animals & Nature",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🐩": {
+    "name": "poodle",
+    "slug": "poodle",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐺": {
+    "name": "wolf",
+    "slug": "wolf",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦊": {
+    "name": "fox",
+    "slug": "fox",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🦝": {
+    "name": "raccoon",
+    "slug": "raccoon",
+    "group": "Animals & Nature",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🐱": {
+    "name": "cat face",
+    "slug": "cat_face",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐈": {
+    "name": "cat",
+    "slug": "cat",
+    "group": "Animals & Nature",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🐈‍⬛": {
+    "name": "black cat",
+    "slug": "black_cat",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🦁": {
+    "name": "lion",
+    "slug": "lion",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐯": {
+    "name": "tiger face",
+    "slug": "tiger_face",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐅": {
+    "name": "tiger",
+    "slug": "tiger",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐆": {
+    "name": "leopard",
+    "slug": "leopard",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐴": {
+    "name": "horse face",
+    "slug": "horse_face",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🫎": {
+    "name": "moose",
+    "slug": "moose",
+    "group": "Animals & Nature",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🫏": {
+    "name": "donkey",
+    "slug": "donkey",
+    "group": "Animals & Nature",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🐎": {
+    "name": "horse",
+    "slug": "horse",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦄": {
+    "name": "unicorn",
+    "slug": "unicorn",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🦓": {
+    "name": "zebra",
+    "slug": "zebra",
+    "group": "Animals & Nature",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🦌": {
+    "name": "deer",
+    "slug": "deer",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🦬": {
+    "name": "bison",
+    "slug": "bison",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🐮": {
+    "name": "cow face",
+    "slug": "cow_face",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐂": {
+    "name": "ox",
+    "slug": "ox",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐃": {
+    "name": "water buffalo",
+    "slug": "water_buffalo",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐄": {
+    "name": "cow",
+    "slug": "cow",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐷": {
+    "name": "pig face",
+    "slug": "pig_face",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐖": {
+    "name": "pig",
+    "slug": "pig",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐗": {
+    "name": "boar",
+    "slug": "boar",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐽": {
+    "name": "pig nose",
+    "slug": "pig_nose",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐏": {
+    "name": "ram",
+    "slug": "ram",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐑": {
+    "name": "ewe",
+    "slug": "ewe",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐐": {
+    "name": "goat",
+    "slug": "goat",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐪": {
+    "name": "camel",
+    "slug": "camel",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐫": {
+    "name": "two-hump camel",
+    "slug": "two_hump_camel",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦙": {
+    "name": "llama",
+    "slug": "llama",
+    "group": "Animals & Nature",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🦒": {
+    "name": "giraffe",
+    "slug": "giraffe",
+    "group": "Animals & Nature",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🐘": {
+    "name": "elephant",
+    "slug": "elephant",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦣": {
+    "name": "mammoth",
+    "slug": "mammoth",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🦏": {
+    "name": "rhinoceros",
+    "slug": "rhinoceros",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
