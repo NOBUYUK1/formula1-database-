@@ -3823,3 +3823,567 @@
     "unicode_version": "0.6",
     "skin_tone_support": true,
     "skin_tone_support_unicode_version": "1.0"
+  },
+  "🏄‍♂️": {
+    "name": "man surfing",
+    "slug": "man_surfing",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🏄‍♀️": {
+    "name": "woman surfing",
+    "slug": "woman_surfing",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🚣": {
+    "name": "person rowing boat",
+    "slug": "person_rowing_boat",
+    "group": "People & Body",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🚣‍♂️": {
+    "name": "man rowing boat",
+    "slug": "man_rowing_boat",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🚣‍♀️": {
+    "name": "woman rowing boat",
+    "slug": "woman_rowing_boat",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🏊": {
+    "name": "person swimming",
+    "slug": "person_swimming",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🏊‍♂️": {
+    "name": "man swimming",
+    "slug": "man_swimming",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🏊‍♀️": {
+    "name": "woman swimming",
+    "slug": "woman_swimming",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "⛹️": {
+    "name": "person bouncing ball",
+    "slug": "person_bouncing_ball",
+    "group": "People & Body",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "2.0"
+  },
+  "⛹️‍♂️": {
+    "name": "man bouncing ball",
+    "slug": "man_bouncing_ball",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "⛹️‍♀️": {
+    "name": "woman bouncing ball",
+    "slug": "woman_bouncing_ball",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🏋️": {
+    "name": "person lifting weights",
+    "slug": "person_lifting_weights",
+    "group": "People & Body",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "2.0"
+  },
+  "🏋️‍♂️": {
+    "name": "man lifting weights",
+    "slug": "man_lifting_weights",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🏋️‍♀️": {
+    "name": "woman lifting weights",
+    "slug": "woman_lifting_weights",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🚴": {
+    "name": "person biking",
+    "slug": "person_biking",
+    "group": "People & Body",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🚴‍♂️": {
+    "name": "man biking",
+    "slug": "man_biking",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🚴‍♀️": {
+    "name": "woman biking",
+    "slug": "woman_biking",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🚵": {
+    "name": "person mountain biking",
+    "slug": "person_mountain_biking",
+    "group": "People & Body",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🚵‍♂️": {
+    "name": "man mountain biking",
+    "slug": "man_mountain_biking",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🚵‍♀️": {
+    "name": "woman mountain biking",
+    "slug": "woman_mountain_biking",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🤸": {
+    "name": "person cartwheeling",
+    "slug": "person_cartwheeling",
+    "group": "People & Body",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "3.0"
+  },
+  "🤸‍♂️": {
+    "name": "man cartwheeling",
+    "slug": "man_cartwheeling",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🤸‍♀️": {
+    "name": "woman cartwheeling",
+    "slug": "woman_cartwheeling",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🤼": {
+    "name": "people wrestling",
+    "slug": "people_wrestling",
+    "group": "People & Body",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🤼‍♂️": {
+    "name": "men wrestling",
+    "slug": "men_wrestling",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "🤼‍♀️": {
+    "name": "women wrestling",
+    "slug": "women_wrestling",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "🤽": {
+    "name": "person playing water polo",
+    "slug": "person_playing_water_polo",
+    "group": "People & Body",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "3.0"
+  },
+  "🤽‍♂️": {
+    "name": "man playing water polo",
+    "slug": "man_playing_water_polo",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🤽‍♀️": {
+    "name": "woman playing water polo",
+    "slug": "woman_playing_water_polo",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🤾": {
+    "name": "person playing handball",
+    "slug": "person_playing_handball",
+    "group": "People & Body",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "3.0"
+  },
+  "🤾‍♂️": {
+    "name": "man playing handball",
+    "slug": "man_playing_handball",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🤾‍♀️": {
+    "name": "woman playing handball",
+    "slug": "woman_playing_handball",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🤹": {
+    "name": "person juggling",
+    "slug": "person_juggling",
+    "group": "People & Body",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "3.0"
+  },
+  "🤹‍♂️": {
+    "name": "man juggling",
+    "slug": "man_juggling",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🤹‍♀️": {
+    "name": "woman juggling",
+    "slug": "woman_juggling",
+    "group": "People & Body",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🧘": {
+    "name": "person in lotus position",
+    "slug": "person_in_lotus_position",
+    "group": "People & Body",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "5.0"
+  },
+  "🧘‍♂️": {
+    "name": "man in lotus position",
+    "slug": "man_in_lotus_position",
+    "group": "People & Body",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "5.0"
+  },
+  "🧘‍♀️": {
+    "name": "woman in lotus position",
+    "slug": "woman_in_lotus_position",
+    "group": "People & Body",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "5.0"
+  },
+  "🛀": {
+    "name": "person taking bath",
+    "slug": "person_taking_bath",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "1.0"
+  },
+  "🛌": {
+    "name": "person in bed",
+    "slug": "person_in_bed",
+    "group": "People & Body",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "4.0"
+  },
+  "🧑‍🤝‍🧑": {
+    "name": "people holding hands",
+    "slug": "people_holding_hands",
+    "group": "People & Body",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "12.0"
+  },
+  "👭": {
+    "name": "women holding hands",
+    "slug": "women_holding_hands",
+    "group": "People & Body",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "12.0"
+  },
+  "👫": {
+    "name": "woman and man holding hands",
+    "slug": "woman_and_man_holding_hands",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "12.0"
+  },
+  "👬": {
+    "name": "men holding hands",
+    "slug": "men_holding_hands",
+    "group": "People & Body",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "12.0"
+  },
+  "💏": {
+    "name": "kiss",
+    "slug": "kiss",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "13.1"
+  },
+  "👩‍❤️‍💋‍👨": {
+    "name": "kiss woman, man",
+    "slug": "kiss_woman_man",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "13.1"
+  },
+  "👨‍❤️‍💋‍👨": {
+    "name": "kiss man, man",
+    "slug": "kiss_man_man",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "13.1"
+  },
+  "👩‍❤️‍💋‍👩": {
+    "name": "kiss woman, woman",
+    "slug": "kiss_woman_woman",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "13.1"
+  },
+  "💑": {
+    "name": "couple with heart",
+    "slug": "couple_with_heart",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "13.1"
+  },
+  "👩‍❤️‍👨": {
+    "name": "couple with heart woman, man",
+    "slug": "couple_with_heart_woman_man",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "13.1"
+  },
+  "👨‍❤️‍👨": {
+    "name": "couple with heart man, man",
+    "slug": "couple_with_heart_man_man",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "13.1"
+  },
+  "👩‍❤️‍👩": {
+    "name": "couple with heart woman, woman",
+    "slug": "couple_with_heart_woman_woman",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": true,
+    "skin_tone_support_unicode_version": "13.1"
+  },
+  "👪": {
+    "name": "family",
+    "slug": "family",
+    "group": "People & Body",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👨‍👩‍👦": {
+    "name": "family man, woman, boy",
+    "slug": "family_man_woman_boy",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👨‍👩‍👧": {
+    "name": "family man, woman, girl",
+    "slug": "family_man_woman_girl",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👨‍👩‍👧‍👦": {
+    "name": "family man, woman, girl, boy",
+    "slug": "family_man_woman_girl_boy",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👨‍👩‍👦‍👦": {
+    "name": "family man, woman, boy, boy",
+    "slug": "family_man_woman_boy_boy",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👨‍👩‍👧‍👧": {
+    "name": "family man, woman, girl, girl",
+    "slug": "family_man_woman_girl_girl",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👨‍👨‍👦": {
+    "name": "family man, man, boy",
+    "slug": "family_man_man_boy",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👨‍👨‍👧": {
+    "name": "family man, man, girl",
+    "slug": "family_man_man_girl",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👨‍👨‍👧‍👦": {
+    "name": "family man, man, girl, boy",
+    "slug": "family_man_man_girl_boy",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👨‍👨‍👦‍👦": {
+    "name": "family man, man, boy, boy",
+    "slug": "family_man_man_boy_boy",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👨‍👨‍👧‍👧": {
+    "name": "family man, man, girl, girl",
+    "slug": "family_man_man_girl_girl",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👩‍👩‍👦": {
+    "name": "family woman, woman, boy",
+    "slug": "family_woman_woman_boy",
+    "group": "People & Body",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "👩‍👩‍👧": {
+    "name": "family woman, woman, girl",
