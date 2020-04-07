@@ -5962,3 +5962,542 @@
     "skin_tone_support": false
   },
   "🥒": {
+    "name": "cucumber",
+    "slug": "cucumber",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🥬": {
+    "name": "leafy green",
+    "slug": "leafy_green",
+    "group": "Food & Drink",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🥦": {
+    "name": "broccoli",
+    "slug": "broccoli",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🧄": {
+    "name": "garlic",
+    "slug": "garlic",
+    "group": "Food & Drink",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🧅": {
+    "name": "onion",
+    "slug": "onion",
+    "group": "Food & Drink",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🥜": {
+    "name": "peanuts",
+    "slug": "peanuts",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🫘": {
+    "name": "beans",
+    "slug": "beans",
+    "group": "Food & Drink",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🌰": {
+    "name": "chestnut",
+    "slug": "chestnut",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🫚": {
+    "name": "ginger root",
+    "slug": "ginger_root",
+    "group": "Food & Drink",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🫛": {
+    "name": "pea pod",
+    "slug": "pea_pod",
+    "group": "Food & Drink",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🍞": {
+    "name": "bread",
+    "slug": "bread",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥐": {
+    "name": "croissant",
+    "slug": "croissant",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🥖": {
+    "name": "baguette bread",
+    "slug": "baguette_bread",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🫓": {
+    "name": "flatbread",
+    "slug": "flatbread",
+    "group": "Food & Drink",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🥨": {
+    "name": "pretzel",
+    "slug": "pretzel",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🥯": {
+    "name": "bagel",
+    "slug": "bagel",
+    "group": "Food & Drink",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🥞": {
+    "name": "pancakes",
+    "slug": "pancakes",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🧇": {
+    "name": "waffle",
+    "slug": "waffle",
+    "group": "Food & Drink",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🧀": {
+    "name": "cheese wedge",
+    "slug": "cheese_wedge",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🍖": {
+    "name": "meat on bone",
+    "slug": "meat_on_bone",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍗": {
+    "name": "poultry leg",
+    "slug": "poultry_leg",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥩": {
+    "name": "cut of meat",
+    "slug": "cut_of_meat",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🥓": {
+    "name": "bacon",
+    "slug": "bacon",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🍔": {
+    "name": "hamburger",
+    "slug": "hamburger",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍟": {
+    "name": "french fries",
+    "slug": "french_fries",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍕": {
+    "name": "pizza",
+    "slug": "pizza",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌭": {
+    "name": "hot dog",
+    "slug": "hot_dog",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🥪": {
+    "name": "sandwich",
+    "slug": "sandwich",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🌮": {
+    "name": "taco",
+    "slug": "taco",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🌯": {
+    "name": "burrito",
+    "slug": "burrito",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🫔": {
+    "name": "tamale",
+    "slug": "tamale",
+    "group": "Food & Drink",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🥙": {
+    "name": "stuffed flatbread",
+    "slug": "stuffed_flatbread",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🧆": {
+    "name": "falafel",
+    "slug": "falafel",
+    "group": "Food & Drink",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🥚": {
+    "name": "egg",
+    "slug": "egg",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🍳": {
+    "name": "cooking",
+    "slug": "cooking",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥘": {
+    "name": "shallow pan of food",
+    "slug": "shallow_pan_of_food",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🍲": {
+    "name": "pot of food",
+    "slug": "pot_of_food",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🫕": {
+    "name": "fondue",
+    "slug": "fondue",
+    "group": "Food & Drink",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🥣": {
+    "name": "bowl with spoon",
+    "slug": "bowl_with_spoon",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🥗": {
+    "name": "green salad",
+    "slug": "green_salad",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🍿": {
+    "name": "popcorn",
+    "slug": "popcorn",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🧈": {
+    "name": "butter",
+    "slug": "butter",
+    "group": "Food & Drink",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🧂": {
+    "name": "salt",
+    "slug": "salt",
+    "group": "Food & Drink",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🥫": {
+    "name": "canned food",
+    "slug": "canned_food",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🍱": {
+    "name": "bento box",
+    "slug": "bento_box",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍘": {
+    "name": "rice cracker",
+    "slug": "rice_cracker",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍙": {
+    "name": "rice ball",
+    "slug": "rice_ball",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍚": {
+    "name": "cooked rice",
+    "slug": "cooked_rice",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍛": {
+    "name": "curry rice",
+    "slug": "curry_rice",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍜": {
+    "name": "steaming bowl",
+    "slug": "steaming_bowl",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍝": {
+    "name": "spaghetti",
+    "slug": "spaghetti",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍠": {
+    "name": "roasted sweet potato",
+    "slug": "roasted_sweet_potato",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍢": {
+    "name": "oden",
+    "slug": "oden",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍣": {
+    "name": "sushi",
+    "slug": "sushi",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍤": {
+    "name": "fried shrimp",
+    "slug": "fried_shrimp",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍥": {
+    "name": "fish cake with swirl",
+    "slug": "fish_cake_with_swirl",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥮": {
+    "name": "moon cake",
+    "slug": "moon_cake",
+    "group": "Food & Drink",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🍡": {
+    "name": "dango",
+    "slug": "dango",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥟": {
+    "name": "dumpling",
+    "slug": "dumpling",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🥠": {
+    "name": "fortune cookie",
+    "slug": "fortune_cookie",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🥡": {
+    "name": "takeout box",
+    "slug": "takeout_box",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🦀": {
+    "name": "crab",
+    "slug": "crab",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🦞": {
+    "name": "lobster",
+    "slug": "lobster",
+    "group": "Food & Drink",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🦐": {
+    "name": "shrimp",
+    "slug": "shrimp",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🦑": {
+    "name": "squid",
+    "slug": "squid",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🦪": {
+    "name": "oyster",
+    "slug": "oyster",
+    "group": "Food & Drink",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🍦": {
+    "name": "soft ice cream",
+    "slug": "soft_ice_cream",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍧": {
+    "name": "shaved ice",
+    "slug": "shaved_ice",
+    "group": "Food & Drink",
