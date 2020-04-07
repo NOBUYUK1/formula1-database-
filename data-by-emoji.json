@@ -5417,3 +5417,548 @@
     "unicode_version": "3.0",
     "skin_tone_support": false
   },
+  "🐛": {
+    "name": "bug",
+    "slug": "bug",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐜": {
+    "name": "ant",
+    "slug": "ant",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐝": {
+    "name": "honeybee",
+    "slug": "honeybee",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪲": {
+    "name": "beetle",
+    "slug": "beetle",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🐞": {
+    "name": "lady beetle",
+    "slug": "lady_beetle",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦗": {
+    "name": "cricket",
+    "slug": "cricket",
+    "group": "Animals & Nature",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🪳": {
+    "name": "cockroach",
+    "slug": "cockroach",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🕷️": {
+    "name": "spider",
+    "slug": "spider",
+    "group": "Animals & Nature",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🕸️": {
+    "name": "spider web",
+    "slug": "spider_web",
+    "group": "Animals & Nature",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🦂": {
+    "name": "scorpion",
+    "slug": "scorpion",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🦟": {
+    "name": "mosquito",
+    "slug": "mosquito",
+    "group": "Animals & Nature",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🪰": {
+    "name": "fly",
+    "slug": "fly",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🪱": {
+    "name": "worm",
+    "slug": "worm",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🦠": {
+    "name": "microbe",
+    "slug": "microbe",
+    "group": "Animals & Nature",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "💐": {
+    "name": "bouquet",
+    "slug": "bouquet",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌸": {
+    "name": "cherry blossom",
+    "slug": "cherry_blossom",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💮": {
+    "name": "white flower",
+    "slug": "white_flower",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪷": {
+    "name": "lotus",
+    "slug": "lotus",
+    "group": "Animals & Nature",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🏵️": {
+    "name": "rosette",
+    "slug": "rosette",
+    "group": "Animals & Nature",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌹": {
+    "name": "rose",
+    "slug": "rose",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥀": {
+    "name": "wilted flower",
+    "slug": "wilted_flower",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🌺": {
+    "name": "hibiscus",
+    "slug": "hibiscus",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌻": {
+    "name": "sunflower",
+    "slug": "sunflower",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌼": {
+    "name": "blossom",
+    "slug": "blossom",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌷": {
+    "name": "tulip",
+    "slug": "tulip",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪻": {
+    "name": "hyacinth",
+    "slug": "hyacinth",
+    "group": "Animals & Nature",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🌱": {
+    "name": "seedling",
+    "slug": "seedling",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪴": {
+    "name": "potted plant",
+    "slug": "potted_plant",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🌲": {
+    "name": "evergreen tree",
+    "slug": "evergreen_tree",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🌳": {
+    "name": "deciduous tree",
+    "slug": "deciduous_tree",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🌴": {
+    "name": "palm tree",
+    "slug": "palm_tree",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌵": {
+    "name": "cactus",
+    "slug": "cactus",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌾": {
+    "name": "sheaf of rice",
+    "slug": "sheaf_of_rice",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌿": {
+    "name": "herb",
+    "slug": "herb",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "☘️": {
+    "name": "shamrock",
+    "slug": "shamrock",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🍀": {
+    "name": "four leaf clover",
+    "slug": "four_leaf_clover",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍁": {
+    "name": "maple leaf",
+    "slug": "maple_leaf",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍂": {
+    "name": "fallen leaf",
+    "slug": "fallen_leaf",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍃": {
+    "name": "leaf fluttering in wind",
+    "slug": "leaf_fluttering_in_wind",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪹": {
+    "name": "empty nest",
+    "slug": "empty_nest",
+    "group": "Animals & Nature",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🪺": {
+    "name": "nest with eggs",
+    "slug": "nest_with_eggs",
+    "group": "Animals & Nature",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🍄": {
+    "name": "mushroom",
+    "slug": "mushroom",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍇": {
+    "name": "grapes",
+    "slug": "grapes",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍈": {
+    "name": "melon",
+    "slug": "melon",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍉": {
+    "name": "watermelon",
+    "slug": "watermelon",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍊": {
+    "name": "tangerine",
+    "slug": "tangerine",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍋": {
+    "name": "lemon",
+    "slug": "lemon",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🍌": {
+    "name": "banana",
+    "slug": "banana",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍍": {
+    "name": "pineapple",
+    "slug": "pineapple",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥭": {
+    "name": "mango",
+    "slug": "mango",
+    "group": "Food & Drink",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🍎": {
+    "name": "red apple",
+    "slug": "red_apple",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍏": {
+    "name": "green apple",
+    "slug": "green_apple",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍐": {
+    "name": "pear",
+    "slug": "pear",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🍑": {
+    "name": "peach",
+    "slug": "peach",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍒": {
+    "name": "cherries",
+    "slug": "cherries",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍓": {
+    "name": "strawberry",
+    "slug": "strawberry",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🫐": {
+    "name": "blueberries",
+    "slug": "blueberries",
+    "group": "Food & Drink",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🥝": {
+    "name": "kiwi fruit",
+    "slug": "kiwi_fruit",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🍅": {
+    "name": "tomato",
+    "slug": "tomato",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🫒": {
+    "name": "olive",
+    "slug": "olive",
+    "group": "Food & Drink",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🥥": {
+    "name": "coconut",
+    "slug": "coconut",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🥑": {
+    "name": "avocado",
+    "slug": "avocado",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🍆": {
+    "name": "eggplant",
+    "slug": "eggplant",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥔": {
+    "name": "potato",
+    "slug": "potato",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🥕": {
+    "name": "carrot",
+    "slug": "carrot",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🌽": {
+    "name": "ear of corn",
+    "slug": "ear_of_corn",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌶️": {
+    "name": "hot pepper",
+    "slug": "hot_pepper",
+    "group": "Food & Drink",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🫑": {
+    "name": "bell pepper",
+    "slug": "bell_pepper",
+    "group": "Food & Drink",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🥒": {
