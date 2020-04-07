@@ -4896,3 +4896,524 @@
     "emoji_version": "3.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
+  },
+  "🦛": {
+    "name": "hippopotamus",
+    "slug": "hippopotamus",
+    "group": "Animals & Nature",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🐭": {
+    "name": "mouse face",
+    "slug": "mouse_face",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐁": {
+    "name": "mouse",
+    "slug": "mouse",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐀": {
+    "name": "rat",
+    "slug": "rat",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐹": {
+    "name": "hamster",
+    "slug": "hamster",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐰": {
+    "name": "rabbit face",
+    "slug": "rabbit_face",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐇": {
+    "name": "rabbit",
+    "slug": "rabbit",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐿️": {
+    "name": "chipmunk",
+    "slug": "chipmunk",
+    "group": "Animals & Nature",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🦫": {
+    "name": "beaver",
+    "slug": "beaver",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🦔": {
+    "name": "hedgehog",
+    "slug": "hedgehog",
+    "group": "Animals & Nature",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🦇": {
+    "name": "bat",
+    "slug": "bat",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🐻": {
+    "name": "bear",
+    "slug": "bear",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐻‍❄️": {
+    "name": "polar bear",
+    "slug": "polar_bear",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🐨": {
+    "name": "koala",
+    "slug": "koala",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐼": {
+    "name": "panda",
+    "slug": "panda",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦥": {
+    "name": "sloth",
+    "slug": "sloth",
+    "group": "Animals & Nature",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🦦": {
+    "name": "otter",
+    "slug": "otter",
+    "group": "Animals & Nature",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🦨": {
+    "name": "skunk",
+    "slug": "skunk",
+    "group": "Animals & Nature",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🦘": {
+    "name": "kangaroo",
+    "slug": "kangaroo",
+    "group": "Animals & Nature",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🦡": {
+    "name": "badger",
+    "slug": "badger",
+    "group": "Animals & Nature",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🐾": {
+    "name": "paw prints",
+    "slug": "paw_prints",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦃": {
+    "name": "turkey",
+    "slug": "turkey",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐔": {
+    "name": "chicken",
+    "slug": "chicken",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐓": {
+    "name": "rooster",
+    "slug": "rooster",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐣": {
+    "name": "hatching chick",
+    "slug": "hatching_chick",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐤": {
+    "name": "baby chick",
+    "slug": "baby_chick",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐥": {
+    "name": "front-facing baby chick",
+    "slug": "front_facing_baby_chick",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐦": {
+    "name": "bird",
+    "slug": "bird",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐧": {
+    "name": "penguin",
+    "slug": "penguin",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🕊️": {
+    "name": "dove",
+    "slug": "dove",
+    "group": "Animals & Nature",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🦅": {
+    "name": "eagle",
+    "slug": "eagle",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🦆": {
+    "name": "duck",
+    "slug": "duck",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🦢": {
+    "name": "swan",
+    "slug": "swan",
+    "group": "Animals & Nature",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🦉": {
+    "name": "owl",
+    "slug": "owl",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🦤": {
+    "name": "dodo",
+    "slug": "dodo",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🪶": {
+    "name": "feather",
+    "slug": "feather",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🦩": {
+    "name": "flamingo",
+    "slug": "flamingo",
+    "group": "Animals & Nature",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🦚": {
+    "name": "peacock",
+    "slug": "peacock",
+    "group": "Animals & Nature",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🦜": {
+    "name": "parrot",
+    "slug": "parrot",
+    "group": "Animals & Nature",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🪽": {
+    "name": "wing",
+    "slug": "wing",
+    "group": "Animals & Nature",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🐦‍⬛": {
+    "name": "black bird",
+    "slug": "black_bird",
+    "group": "Animals & Nature",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🪿": {
+    "name": "goose",
+    "slug": "goose",
+    "group": "Animals & Nature",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🐸": {
+    "name": "frog",
+    "slug": "frog",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐊": {
+    "name": "crocodile",
+    "slug": "crocodile",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐢": {
+    "name": "turtle",
+    "slug": "turtle",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦎": {
+    "name": "lizard",
+    "slug": "lizard",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🐍": {
+    "name": "snake",
+    "slug": "snake",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐲": {
+    "name": "dragon face",
+    "slug": "dragon_face",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐉": {
+    "name": "dragon",
+    "slug": "dragon",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🦕": {
+    "name": "sauropod",
+    "slug": "sauropod",
+    "group": "Animals & Nature",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🦖": {
+    "name": "T-Rex",
+    "slug": "t_rex",
+    "group": "Animals & Nature",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🐳": {
+    "name": "spouting whale",
+    "slug": "spouting_whale",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐋": {
+    "name": "whale",
+    "slug": "whale",
+    "group": "Animals & Nature",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🐬": {
+    "name": "dolphin",
+    "slug": "dolphin",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦭": {
+    "name": "seal",
+    "slug": "seal",
+    "group": "Animals & Nature",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🐟": {
+    "name": "fish",
+    "slug": "fish",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐠": {
+    "name": "tropical fish",
+    "slug": "tropical_fish",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐡": {
+    "name": "blowfish",
+    "slug": "blowfish",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦈": {
+    "name": "shark",
+    "slug": "shark",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🐙": {
+    "name": "octopus",
+    "slug": "octopus",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🐚": {
+    "name": "spiral shell",
+    "slug": "spiral_shell",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪸": {
+    "name": "coral",
+    "slug": "coral",
+    "group": "Animals & Nature",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🪼": {
+    "name": "jellyfish",
+    "slug": "jellyfish",
+    "group": "Animals & Nature",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🐌": {
+    "name": "snail",
+    "slug": "snail",
+    "group": "Animals & Nature",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🦋": {
+    "name": "butterfly",
+    "slug": "butterfly",
+    "group": "Animals & Nature",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
