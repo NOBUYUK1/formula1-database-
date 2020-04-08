@@ -7095,3 +7095,519 @@
     "group": "Travel & Places",
     "emoji_version": "0.6",
     "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏫": {
+    "name": "school",
+    "slug": "school",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏬": {
+    "name": "department store",
+    "slug": "department_store",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏭": {
+    "name": "factory",
+    "slug": "factory",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏯": {
+    "name": "Japanese castle",
+    "slug": "japanese_castle",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏰": {
+    "name": "castle",
+    "slug": "castle",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💒": {
+    "name": "wedding",
+    "slug": "wedding",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🗼": {
+    "name": "Tokyo tower",
+    "slug": "tokyo_tower",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🗽": {
+    "name": "Statue of Liberty",
+    "slug": "statue_of_liberty",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⛪": {
+    "name": "church",
+    "slug": "church",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🕌": {
+    "name": "mosque",
+    "slug": "mosque",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🛕": {
+    "name": "hindu temple",
+    "slug": "hindu_temple",
+    "group": "Travel & Places",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🕍": {
+    "name": "synagogue",
+    "slug": "synagogue",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "⛩️": {
+    "name": "shinto shrine",
+    "slug": "shinto_shrine",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🕋": {
+    "name": "kaaba",
+    "slug": "kaaba",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "⛲": {
+    "name": "fountain",
+    "slug": "fountain",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⛺": {
+    "name": "tent",
+    "slug": "tent",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌁": {
+    "name": "foggy",
+    "slug": "foggy",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌃": {
+    "name": "night with stars",
+    "slug": "night_with_stars",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏙️": {
+    "name": "cityscape",
+    "slug": "cityscape",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌄": {
+    "name": "sunrise over mountains",
+    "slug": "sunrise_over_mountains",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌅": {
+    "name": "sunrise",
+    "slug": "sunrise",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌆": {
+    "name": "cityscape at dusk",
+    "slug": "cityscape_at_dusk",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌇": {
+    "name": "sunset",
+    "slug": "sunset",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌉": {
+    "name": "bridge at night",
+    "slug": "bridge_at_night",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♨️": {
+    "name": "hot springs",
+    "slug": "hot_springs",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎠": {
+    "name": "carousel horse",
+    "slug": "carousel_horse",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🛝": {
+    "name": "playground slide",
+    "slug": "playground_slide",
+    "group": "Travel & Places",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🎡": {
+    "name": "ferris wheel",
+    "slug": "ferris_wheel",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎢": {
+    "name": "roller coaster",
+    "slug": "roller_coaster",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💈": {
+    "name": "barber pole",
+    "slug": "barber_pole",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎪": {
+    "name": "circus tent",
+    "slug": "circus_tent",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚂": {
+    "name": "locomotive",
+    "slug": "locomotive",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚃": {
+    "name": "railway car",
+    "slug": "railway_car",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚄": {
+    "name": "high-speed train",
+    "slug": "high_speed_train",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚅": {
+    "name": "bullet train",
+    "slug": "bullet_train",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚆": {
+    "name": "train",
+    "slug": "train",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚇": {
+    "name": "metro",
+    "slug": "metro",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚈": {
+    "name": "light rail",
+    "slug": "light_rail",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚉": {
+    "name": "station",
+    "slug": "station",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚊": {
+    "name": "tram",
+    "slug": "tram",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚝": {
+    "name": "monorail",
+    "slug": "monorail",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚞": {
+    "name": "mountain railway",
+    "slug": "mountain_railway",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚋": {
+    "name": "tram car",
+    "slug": "tram_car",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚌": {
+    "name": "bus",
+    "slug": "bus",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚍": {
+    "name": "oncoming bus",
+    "slug": "oncoming_bus",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🚎": {
+    "name": "trolleybus",
+    "slug": "trolleybus",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚐": {
+    "name": "minibus",
+    "slug": "minibus",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚑": {
+    "name": "ambulance",
+    "slug": "ambulance",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚒": {
+    "name": "fire engine",
+    "slug": "fire_engine",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚓": {
+    "name": "police car",
+    "slug": "police_car",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚔": {
+    "name": "oncoming police car",
+    "slug": "oncoming_police_car",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🚕": {
+    "name": "taxi",
+    "slug": "taxi",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚖": {
+    "name": "oncoming taxi",
+    "slug": "oncoming_taxi",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚗": {
+    "name": "automobile",
+    "slug": "automobile",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚘": {
+    "name": "oncoming automobile",
+    "slug": "oncoming_automobile",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🚙": {
+    "name": "sport utility vehicle",
+    "slug": "sport_utility_vehicle",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🛻": {
+    "name": "pickup truck",
+    "slug": "pickup_truck",
+    "group": "Travel & Places",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🚚": {
+    "name": "delivery truck",
+    "slug": "delivery_truck",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚛": {
+    "name": "articulated lorry",
+    "slug": "articulated_lorry",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚜": {
+    "name": "tractor",
+    "slug": "tractor",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🏎️": {
+    "name": "racing car",
+    "slug": "racing_car",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏍️": {
+    "name": "motorcycle",
+    "slug": "motorcycle",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🛵": {
+    "name": "motor scooter",
+    "slug": "motor_scooter",
+    "group": "Travel & Places",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🦽": {
+    "name": "manual wheelchair",
+    "slug": "manual_wheelchair",
+    "group": "Travel & Places",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🦼": {
+    "name": "motorized wheelchair",
