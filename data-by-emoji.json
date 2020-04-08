@@ -6501,3 +6501,597 @@
     "name": "shaved ice",
     "slug": "shaved_ice",
     "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍨": {
+    "name": "ice cream",
+    "slug": "ice_cream",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍩": {
+    "name": "doughnut",
+    "slug": "doughnut",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍪": {
+    "name": "cookie",
+    "slug": "cookie",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎂": {
+    "name": "birthday cake",
+    "slug": "birthday_cake",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍰": {
+    "name": "shortcake",
+    "slug": "shortcake",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🧁": {
+    "name": "cupcake",
+    "slug": "cupcake",
+    "group": "Food & Drink",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🥧": {
+    "name": "pie",
+    "slug": "pie",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🍫": {
+    "name": "chocolate bar",
+    "slug": "chocolate_bar",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍬": {
+    "name": "candy",
+    "slug": "candy",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍭": {
+    "name": "lollipop",
+    "slug": "lollipop",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍮": {
+    "name": "custard",
+    "slug": "custard",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍯": {
+    "name": "honey pot",
+    "slug": "honey_pot",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍼": {
+    "name": "baby bottle",
+    "slug": "baby_bottle",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🥛": {
+    "name": "glass of milk",
+    "slug": "glass_of_milk",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "☕": {
+    "name": "hot beverage",
+    "slug": "hot_beverage",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🫖": {
+    "name": "teapot",
+    "slug": "teapot",
+    "group": "Food & Drink",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🍵": {
+    "name": "teacup without handle",
+    "slug": "teacup_without_handle",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍶": {
+    "name": "sake",
+    "slug": "sake",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍾": {
+    "name": "bottle with popping cork",
+    "slug": "bottle_with_popping_cork",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🍷": {
+    "name": "wine glass",
+    "slug": "wine_glass",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍸": {
+    "name": "cocktail glass",
+    "slug": "cocktail_glass",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍹": {
+    "name": "tropical drink",
+    "slug": "tropical_drink",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍺": {
+    "name": "beer mug",
+    "slug": "beer_mug",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🍻": {
+    "name": "clinking beer mugs",
+    "slug": "clinking_beer_mugs",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥂": {
+    "name": "clinking glasses",
+    "slug": "clinking_glasses",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🥃": {
+    "name": "tumbler glass",
+    "slug": "tumbler_glass",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🫗": {
+    "name": "pouring liquid",
+    "slug": "pouring_liquid",
+    "group": "Food & Drink",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🥤": {
+    "name": "cup with straw",
+    "slug": "cup_with_straw",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🧋": {
+    "name": "bubble tea",
+    "slug": "bubble_tea",
+    "group": "Food & Drink",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🧃": {
+    "name": "beverage box",
+    "slug": "beverage_box",
+    "group": "Food & Drink",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🧉": {
+    "name": "mate",
+    "slug": "mate",
+    "group": "Food & Drink",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🧊": {
+    "name": "ice",
+    "slug": "ice",
+    "group": "Food & Drink",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🥢": {
+    "name": "chopsticks",
+    "slug": "chopsticks",
+    "group": "Food & Drink",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🍽️": {
+    "name": "fork and knife with plate",
+    "slug": "fork_and_knife_with_plate",
+    "group": "Food & Drink",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🍴": {
+    "name": "fork and knife",
+    "slug": "fork_and_knife",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥄": {
+    "name": "spoon",
+    "slug": "spoon",
+    "group": "Food & Drink",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🔪": {
+    "name": "kitchen knife",
+    "slug": "kitchen_knife",
+    "group": "Food & Drink",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🫙": {
+    "name": "jar",
+    "slug": "jar",
+    "group": "Food & Drink",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🏺": {
+    "name": "amphora",
+    "slug": "amphora",
+    "group": "Food & Drink",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🌍": {
+    "name": "globe showing Europe-Africa",
+    "slug": "globe_showing_europe_africa",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌎": {
+    "name": "globe showing Americas",
+    "slug": "globe_showing_americas",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌏": {
+    "name": "globe showing Asia-Australia",
+    "slug": "globe_showing_asia_australia",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌐": {
+    "name": "globe with meridians",
+    "slug": "globe_with_meridians",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🗺️": {
+    "name": "world map",
+    "slug": "world_map",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🗾": {
+    "name": "map of Japan",
+    "slug": "map_of_japan",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🧭": {
+    "name": "compass",
+    "slug": "compass",
+    "group": "Travel & Places",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🏔️": {
+    "name": "snow-capped mountain",
+    "slug": "snow_capped_mountain",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⛰️": {
+    "name": "mountain",
+    "slug": "mountain",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌋": {
+    "name": "volcano",
+    "slug": "volcano",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🗻": {
+    "name": "mount fuji",
+    "slug": "mount_fuji",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏕️": {
+    "name": "camping",
+    "slug": "camping",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏖️": {
+    "name": "beach with umbrella",
+    "slug": "beach_with_umbrella",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏜️": {
+    "name": "desert",
+    "slug": "desert",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏝️": {
+    "name": "desert island",
+    "slug": "desert_island",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏞️": {
+    "name": "national park",
+    "slug": "national_park",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏟️": {
+    "name": "stadium",
+    "slug": "stadium",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏛️": {
+    "name": "classical building",
+    "slug": "classical_building",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏗️": {
+    "name": "building construction",
+    "slug": "building_construction",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🧱": {
+    "name": "brick",
+    "slug": "brick",
+    "group": "Travel & Places",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🪨": {
+    "name": "rock",
+    "slug": "rock",
+    "group": "Travel & Places",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🪵": {
+    "name": "wood",
+    "slug": "wood",
+    "group": "Travel & Places",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🛖": {
+    "name": "hut",
+    "slug": "hut",
+    "group": "Travel & Places",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🏘️": {
+    "name": "houses",
+    "slug": "houses",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏚️": {
+    "name": "derelict house",
+    "slug": "derelict_house",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏠": {
+    "name": "house",
+    "slug": "house",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏡": {
+    "name": "house with garden",
+    "slug": "house_with_garden",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏢": {
+    "name": "office building",
+    "slug": "office_building",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏣": {
+    "name": "Japanese post office",
+    "slug": "japanese_post_office",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏤": {
+    "name": "post office",
+    "slug": "post_office",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🏥": {
+    "name": "hospital",
+    "slug": "hospital",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏦": {
+    "name": "bank",
+    "slug": "bank",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏨": {
+    "name": "hotel",
+    "slug": "hotel",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏩": {
+    "name": "love hotel",
+    "slug": "love_hotel",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏪": {
+    "name": "convenience store",
+    "slug": "convenience_store",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
