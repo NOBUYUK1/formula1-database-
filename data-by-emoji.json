@@ -8722,3 +8722,565 @@
     "skin_tone_support": false
   },
   "🎫": {
+    "name": "ticket",
+    "slug": "ticket",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎖️": {
+    "name": "military medal",
+    "slug": "military_medal",
+    "group": "Activities",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏆": {
+    "name": "trophy",
+    "slug": "trophy",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏅": {
+    "name": "sports medal",
+    "slug": "sports_medal",
+    "group": "Activities",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🥇": {
+    "name": "1st place medal",
+    "slug": "1st_place_medal",
+    "group": "Activities",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🥈": {
+    "name": "2nd place medal",
+    "slug": "2nd_place_medal",
+    "group": "Activities",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🥉": {
+    "name": "3rd place medal",
+    "slug": "3rd_place_medal",
+    "group": "Activities",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "⚽": {
+    "name": "soccer ball",
+    "slug": "soccer_ball",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⚾": {
+    "name": "baseball",
+    "slug": "baseball",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥎": {
+    "name": "softball",
+    "slug": "softball",
+    "group": "Activities",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🏀": {
+    "name": "basketball",
+    "slug": "basketball",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏐": {
+    "name": "volleyball",
+    "slug": "volleyball",
+    "group": "Activities",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🏈": {
+    "name": "american football",
+    "slug": "american_football",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏉": {
+    "name": "rugby football",
+    "slug": "rugby_football",
+    "group": "Activities",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🎾": {
+    "name": "tennis",
+    "slug": "tennis",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥏": {
+    "name": "flying disc",
+    "slug": "flying_disc",
+    "group": "Activities",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🎳": {
+    "name": "bowling",
+    "slug": "bowling",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏏": {
+    "name": "cricket game",
+    "slug": "cricket_game",
+    "group": "Activities",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🏑": {
+    "name": "field hockey",
+    "slug": "field_hockey",
+    "group": "Activities",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🏒": {
+    "name": "ice hockey",
+    "slug": "ice_hockey",
+    "group": "Activities",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🥍": {
+    "name": "lacrosse",
+    "slug": "lacrosse",
+    "group": "Activities",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🏓": {
+    "name": "ping pong",
+    "slug": "ping_pong",
+    "group": "Activities",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🏸": {
+    "name": "badminton",
+    "slug": "badminton",
+    "group": "Activities",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🥊": {
+    "name": "boxing glove",
+    "slug": "boxing_glove",
+    "group": "Activities",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🥋": {
+    "name": "martial arts uniform",
+    "slug": "martial_arts_uniform",
+    "group": "Activities",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🥅": {
+    "name": "goal net",
+    "slug": "goal_net",
+    "group": "Activities",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "⛳": {
+    "name": "flag in hole",
+    "slug": "flag_in_hole",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⛸️": {
+    "name": "ice skate",
+    "slug": "ice_skate",
+    "group": "Activities",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🎣": {
+    "name": "fishing pole",
+    "slug": "fishing_pole",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🤿": {
+    "name": "diving mask",
+    "slug": "diving_mask",
+    "group": "Activities",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🎽": {
+    "name": "running shirt",
+    "slug": "running_shirt",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎿": {
+    "name": "skis",
+    "slug": "skis",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🛷": {
+    "name": "sled",
+    "slug": "sled",
+    "group": "Activities",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🥌": {
+    "name": "curling stone",
+    "slug": "curling_stone",
+    "group": "Activities",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🎯": {
+    "name": "bullseye",
+    "slug": "bullseye",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪀": {
+    "name": "yo-yo",
+    "slug": "yo_yo",
+    "group": "Activities",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🪁": {
+    "name": "kite",
+    "slug": "kite",
+    "group": "Activities",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🔫": {
+    "name": "water pistol",
+    "slug": "water_pistol",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎱": {
+    "name": "pool 8 ball",
+    "slug": "pool_8_ball",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔮": {
+    "name": "crystal ball",
+    "slug": "crystal_ball",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪄": {
+    "name": "magic wand",
+    "slug": "magic_wand",
+    "group": "Activities",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🎮": {
+    "name": "video game",
+    "slug": "video_game",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🕹️": {
+    "name": "joystick",
+    "slug": "joystick",
+    "group": "Activities",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🎰": {
+    "name": "slot machine",
+    "slug": "slot_machine",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎲": {
+    "name": "game die",
+    "slug": "game_die",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🧩": {
+    "name": "puzzle piece",
+    "slug": "puzzle_piece",
+    "group": "Activities",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🧸": {
+    "name": "teddy bear",
+    "slug": "teddy_bear",
+    "group": "Activities",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🪅": {
+    "name": "piñata",
+    "slug": "pinata",
+    "group": "Activities",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🪩": {
+    "name": "mirror ball",
+    "slug": "mirror_ball",
+    "group": "Activities",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🪆": {
+    "name": "nesting dolls",
+    "slug": "nesting_dolls",
+    "group": "Activities",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "♠️": {
+    "name": "spade suit",
+    "slug": "spade_suit",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♥️": {
+    "name": "heart suit",
+    "slug": "heart_suit",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♦️": {
+    "name": "diamond suit",
+    "slug": "diamond_suit",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♣️": {
+    "name": "club suit",
+    "slug": "club_suit",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♟️": {
+    "name": "chess pawn",
+    "slug": "chess_pawn",
+    "group": "Activities",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🃏": {
+    "name": "joker",
+    "slug": "joker",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🀄": {
+    "name": "mahjong red dragon",
+    "slug": "mahjong_red_dragon",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎴": {
+    "name": "flower playing cards",
+    "slug": "flower_playing_cards",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎭": {
+    "name": "performing arts",
+    "slug": "performing_arts",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🖼️": {
+    "name": "framed picture",
+    "slug": "framed_picture",
+    "group": "Activities",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🎨": {
+    "name": "artist palette",
+    "slug": "artist_palette",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🧵": {
+    "name": "thread",
+    "slug": "thread",
+    "group": "Activities",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🪡": {
+    "name": "sewing needle",
+    "slug": "sewing_needle",
+    "group": "Activities",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🧶": {
+    "name": "yarn",
+    "slug": "yarn",
+    "group": "Activities",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🪢": {
+    "name": "knot",
+    "slug": "knot",
+    "group": "Activities",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "👓": {
+    "name": "glasses",
+    "slug": "glasses",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🕶️": {
+    "name": "sunglasses",
+    "slug": "sunglasses",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🥽": {
+    "name": "goggles",
+    "slug": "goggles",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🥼": {
+    "name": "lab coat",
+    "slug": "lab_coat",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🦺": {
+    "name": "safety vest",
+    "slug": "safety_vest",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "👔": {
+    "name": "necktie",
+    "slug": "necktie",
