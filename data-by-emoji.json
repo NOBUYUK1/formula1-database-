@@ -8180,3 +8180,545 @@
   "🕦": {
     "name": "eleven-thirty",
     "slug": "eleven_thirty",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌑": {
+    "name": "new moon",
+    "slug": "new_moon",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌒": {
+    "name": "waxing crescent moon",
+    "slug": "waxing_crescent_moon",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🌓": {
+    "name": "first quarter moon",
+    "slug": "first_quarter_moon",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌔": {
+    "name": "waxing gibbous moon",
+    "slug": "waxing_gibbous_moon",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌕": {
+    "name": "full moon",
+    "slug": "full_moon",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌖": {
+    "name": "waning gibbous moon",
+    "slug": "waning_gibbous_moon",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🌗": {
+    "name": "last quarter moon",
+    "slug": "last_quarter_moon",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🌘": {
+    "name": "waning crescent moon",
+    "slug": "waning_crescent_moon",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🌙": {
+    "name": "crescent moon",
+    "slug": "crescent_moon",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌚": {
+    "name": "new moon face",
+    "slug": "new_moon_face",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🌛": {
+    "name": "first quarter moon face",
+    "slug": "first_quarter_moon_face",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌜": {
+    "name": "last quarter moon face",
+    "slug": "last_quarter_moon_face",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌡️": {
+    "name": "thermometer",
+    "slug": "thermometer",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "☀️": {
+    "name": "sun",
+    "slug": "sun",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌝": {
+    "name": "full moon face",
+    "slug": "full_moon_face",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🌞": {
+    "name": "sun with face",
+    "slug": "sun_with_face",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🪐": {
+    "name": "ringed planet",
+    "slug": "ringed_planet",
+    "group": "Travel & Places",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "⭐": {
+    "name": "star",
+    "slug": "star",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌟": {
+    "name": "glowing star",
+    "slug": "glowing_star",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌠": {
+    "name": "shooting star",
+    "slug": "shooting_star",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌌": {
+    "name": "milky way",
+    "slug": "milky_way",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "☁️": {
+    "name": "cloud",
+    "slug": "cloud",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⛅": {
+    "name": "sun behind cloud",
+    "slug": "sun_behind_cloud",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⛈️": {
+    "name": "cloud with lightning and rain",
+    "slug": "cloud_with_lightning_and_rain",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌤️": {
+    "name": "sun behind small cloud",
+    "slug": "sun_behind_small_cloud",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌥️": {
+    "name": "sun behind large cloud",
+    "slug": "sun_behind_large_cloud",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌦️": {
+    "name": "sun behind rain cloud",
+    "slug": "sun_behind_rain_cloud",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌧️": {
+    "name": "cloud with rain",
+    "slug": "cloud_with_rain",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌨️": {
+    "name": "cloud with snow",
+    "slug": "cloud_with_snow",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌩️": {
+    "name": "cloud with lightning",
+    "slug": "cloud_with_lightning",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌪️": {
+    "name": "tornado",
+    "slug": "tornado",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌫️": {
+    "name": "fog",
+    "slug": "fog",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌬️": {
+    "name": "wind face",
+    "slug": "wind_face",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🌀": {
+    "name": "cyclone",
+    "slug": "cyclone",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌈": {
+    "name": "rainbow",
+    "slug": "rainbow",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌂": {
+    "name": "closed umbrella",
+    "slug": "closed_umbrella",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "☂️": {
+    "name": "umbrella",
+    "slug": "umbrella",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "☔": {
+    "name": "umbrella with rain drops",
+    "slug": "umbrella_with_rain_drops",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⛱️": {
+    "name": "umbrella on ground",
+    "slug": "umbrella_on_ground",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⚡": {
+    "name": "high voltage",
+    "slug": "high_voltage",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "❄️": {
+    "name": "snowflake",
+    "slug": "snowflake",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "☃️": {
+    "name": "snowman",
+    "slug": "snowman",
+    "group": "Travel & Places",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⛄": {
+    "name": "snowman without snow",
+    "slug": "snowman_without_snow",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "☄️": {
+    "name": "comet",
+    "slug": "comet",
+    "group": "Travel & Places",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔥": {
+    "name": "fire",
+    "slug": "fire",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💧": {
+    "name": "droplet",
+    "slug": "droplet",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🌊": {
+    "name": "water wave",
+    "slug": "water_wave",
+    "group": "Travel & Places",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎃": {
+    "name": "jack-o-lantern",
+    "slug": "jack_o_lantern",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎄": {
+    "name": "Christmas tree",
+    "slug": "christmas_tree",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎆": {
+    "name": "fireworks",
+    "slug": "fireworks",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎇": {
+    "name": "sparkler",
+    "slug": "sparkler",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🧨": {
+    "name": "firecracker",
+    "slug": "firecracker",
+    "group": "Activities",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "✨": {
+    "name": "sparkles",
+    "slug": "sparkles",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎈": {
+    "name": "balloon",
+    "slug": "balloon",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎉": {
+    "name": "party popper",
+    "slug": "party_popper",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎊": {
+    "name": "confetti ball",
+    "slug": "confetti_ball",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎋": {
+    "name": "tanabata tree",
+    "slug": "tanabata_tree",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎍": {
+    "name": "pine decoration",
+    "slug": "pine_decoration",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎎": {
+    "name": "Japanese dolls",
+    "slug": "japanese_dolls",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎏": {
+    "name": "carp streamer",
+    "slug": "carp_streamer",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎐": {
+    "name": "wind chime",
+    "slug": "wind_chime",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎑": {
+    "name": "moon viewing ceremony",
+    "slug": "moon_viewing_ceremony",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🧧": {
+    "name": "red envelope",
+    "slug": "red_envelope",
+    "group": "Activities",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🎀": {
+    "name": "ribbon",
+    "slug": "ribbon",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎁": {
+    "name": "wrapped gift",
+    "slug": "wrapped_gift",
+    "group": "Activities",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎗️": {
+    "name": "reminder ribbon",
+    "slug": "reminder_ribbon",
+    "group": "Activities",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🎟️": {
+    "name": "admission tickets",
+    "slug": "admission_tickets",
+    "group": "Activities",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🎫": {
