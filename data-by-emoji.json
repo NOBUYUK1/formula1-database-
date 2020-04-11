@@ -9857,3 +9857,546 @@
     "unicode_version": "0.6",
     "skin_tone_support": false
   },
+  "📲": {
+    "name": "mobile phone with arrow",
+    "slug": "mobile_phone_with_arrow",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "☎️": {
+    "name": "telephone",
+    "slug": "telephone",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📞": {
+    "name": "telephone receiver",
+    "slug": "telephone_receiver",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📟": {
+    "name": "pager",
+    "slug": "pager",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📠": {
+    "name": "fax machine",
+    "slug": "fax_machine",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔋": {
+    "name": "battery",
+    "slug": "battery",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪫": {
+    "name": "low battery",
+    "slug": "low_battery",
+    "group": "Objects",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🔌": {
+    "name": "electric plug",
+    "slug": "electric_plug",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💻": {
+    "name": "laptop",
+    "slug": "laptop",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🖥️": {
+    "name": "desktop computer",
+    "slug": "desktop_computer",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🖨️": {
+    "name": "printer",
+    "slug": "printer",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⌨️": {
+    "name": "keyboard",
+    "slug": "keyboard",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🖱️": {
+    "name": "computer mouse",
+    "slug": "computer_mouse",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🖲️": {
+    "name": "trackball",
+    "slug": "trackball",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "💽": {
+    "name": "computer disk",
+    "slug": "computer_disk",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💾": {
+    "name": "floppy disk",
+    "slug": "floppy_disk",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💿": {
+    "name": "optical disk",
+    "slug": "optical_disk",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📀": {
+    "name": "dvd",
+    "slug": "dvd",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🧮": {
+    "name": "abacus",
+    "slug": "abacus",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🎥": {
+    "name": "movie camera",
+    "slug": "movie_camera",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎞️": {
+    "name": "film frames",
+    "slug": "film_frames",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "📽️": {
+    "name": "film projector",
+    "slug": "film_projector",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🎬": {
+    "name": "clapper board",
+    "slug": "clapper_board",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📺": {
+    "name": "television",
+    "slug": "television",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📷": {
+    "name": "camera",
+    "slug": "camera",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📸": {
+    "name": "camera with flash",
+    "slug": "camera_with_flash",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "📹": {
+    "name": "video camera",
+    "slug": "video_camera",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📼": {
+    "name": "videocassette",
+    "slug": "videocassette",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔍": {
+    "name": "magnifying glass tilted left",
+    "slug": "magnifying_glass_tilted_left",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔎": {
+    "name": "magnifying glass tilted right",
+    "slug": "magnifying_glass_tilted_right",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🕯️": {
+    "name": "candle",
+    "slug": "candle",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "💡": {
+    "name": "light bulb",
+    "slug": "light_bulb",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔦": {
+    "name": "flashlight",
+    "slug": "flashlight",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏮": {
+    "name": "red paper lantern",
+    "slug": "red_paper_lantern",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪔": {
+    "name": "diya lamp",
+    "slug": "diya_lamp",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "📔": {
+    "name": "notebook with decorative cover",
+    "slug": "notebook_with_decorative_cover",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📕": {
+    "name": "closed book",
+    "slug": "closed_book",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📖": {
+    "name": "open book",
+    "slug": "open_book",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📗": {
+    "name": "green book",
+    "slug": "green_book",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📘": {
+    "name": "blue book",
+    "slug": "blue_book",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📙": {
+    "name": "orange book",
+    "slug": "orange_book",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📚": {
+    "name": "books",
+    "slug": "books",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📓": {
+    "name": "notebook",
+    "slug": "notebook",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📒": {
+    "name": "ledger",
+    "slug": "ledger",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📃": {
+    "name": "page with curl",
+    "slug": "page_with_curl",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📜": {
+    "name": "scroll",
+    "slug": "scroll",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📄": {
+    "name": "page facing up",
+    "slug": "page_facing_up",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📰": {
+    "name": "newspaper",
+    "slug": "newspaper",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🗞️": {
+    "name": "rolled-up newspaper",
+    "slug": "rolled_up_newspaper",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "📑": {
+    "name": "bookmark tabs",
+    "slug": "bookmark_tabs",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔖": {
+    "name": "bookmark",
+    "slug": "bookmark",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏷️": {
+    "name": "label",
+    "slug": "label",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "💰": {
+    "name": "money bag",
+    "slug": "money_bag",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪙": {
+    "name": "coin",
+    "slug": "coin",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "💴": {
+    "name": "yen banknote",
+    "slug": "yen_banknote",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💵": {
+    "name": "dollar banknote",
+    "slug": "dollar_banknote",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💶": {
+    "name": "euro banknote",
+    "slug": "euro_banknote",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "💷": {
+    "name": "pound banknote",
+    "slug": "pound_banknote",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "💸": {
+    "name": "money with wings",
+    "slug": "money_with_wings",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💳": {
+    "name": "credit card",
+    "slug": "credit_card",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🧾": {
+    "name": "receipt",
+    "slug": "receipt",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "💹": {
+    "name": "chart increasing with yen",
+    "slug": "chart_increasing_with_yen",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "✉️": {
+    "name": "envelope",
+    "slug": "envelope",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📧": {
+    "name": "e-mail",
+    "slug": "e_mail",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📨": {
+    "name": "incoming envelope",
+    "slug": "incoming_envelope",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📩": {
+    "name": "envelope with arrow",
+    "slug": "envelope_with_arrow",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📤": {
+    "name": "outbox tray",
+    "slug": "outbox_tray",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📥": {
+    "name": "inbox tray",
+    "slug": "inbox_tray",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
