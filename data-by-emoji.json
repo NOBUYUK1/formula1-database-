@@ -9284,3 +9284,576 @@
   "👔": {
     "name": "necktie",
     "slug": "necktie",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👕": {
+    "name": "t-shirt",
+    "slug": "t_shirt",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👖": {
+    "name": "jeans",
+    "slug": "jeans",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🧣": {
+    "name": "scarf",
+    "slug": "scarf",
+    "group": "Objects",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🧤": {
+    "name": "gloves",
+    "slug": "gloves",
+    "group": "Objects",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🧥": {
+    "name": "coat",
+    "slug": "coat",
+    "group": "Objects",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🧦": {
+    "name": "socks",
+    "slug": "socks",
+    "group": "Objects",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "👗": {
+    "name": "dress",
+    "slug": "dress",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👘": {
+    "name": "kimono",
+    "slug": "kimono",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥻": {
+    "name": "sari",
+    "slug": "sari",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🩱": {
+    "name": "one-piece swimsuit",
+    "slug": "one_piece_swimsuit",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🩲": {
+    "name": "briefs",
+    "slug": "briefs",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🩳": {
+    "name": "shorts",
+    "slug": "shorts",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "👙": {
+    "name": "bikini",
+    "slug": "bikini",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👚": {
+    "name": "woman’s clothes",
+    "slug": "woman_s_clothes",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪭": {
+    "name": "folding hand fan",
+    "slug": "folding_hand_fan",
+    "group": "Objects",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "👛": {
+    "name": "purse",
+    "slug": "purse",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👜": {
+    "name": "handbag",
+    "slug": "handbag",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👝": {
+    "name": "clutch bag",
+    "slug": "clutch_bag",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🛍️": {
+    "name": "shopping bags",
+    "slug": "shopping_bags",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🎒": {
+    "name": "backpack",
+    "slug": "backpack",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🩴": {
+    "name": "thong sandal",
+    "slug": "thong_sandal",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "👞": {
+    "name": "man’s shoe",
+    "slug": "man_s_shoe",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👟": {
+    "name": "running shoe",
+    "slug": "running_shoe",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🥾": {
+    "name": "hiking boot",
+    "slug": "hiking_boot",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🥿": {
+    "name": "flat shoe",
+    "slug": "flat_shoe",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "👠": {
+    "name": "high-heeled shoe",
+    "slug": "high_heeled_shoe",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👡": {
+    "name": "woman’s sandal",
+    "slug": "woman_s_sandal",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🩰": {
+    "name": "ballet shoes",
+    "slug": "ballet_shoes",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "👢": {
+    "name": "woman’s boot",
+    "slug": "woman_s_boot",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪮": {
+    "name": "hair pick",
+    "slug": "hair_pick",
+    "group": "Objects",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "👑": {
+    "name": "crown",
+    "slug": "crown",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "👒": {
+    "name": "woman’s hat",
+    "slug": "woman_s_hat",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎩": {
+    "name": "top hat",
+    "slug": "top_hat",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎓": {
+    "name": "graduation cap",
+    "slug": "graduation_cap",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🧢": {
+    "name": "billed cap",
+    "slug": "billed_cap",
+    "group": "Objects",
+    "emoji_version": "5.0",
+    "unicode_version": "5.0",
+    "skin_tone_support": false
+  },
+  "🪖": {
+    "name": "military helmet",
+    "slug": "military_helmet",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "⛑️": {
+    "name": "rescue worker’s helmet",
+    "slug": "rescue_worker_s_helmet",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "📿": {
+    "name": "prayer beads",
+    "slug": "prayer_beads",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "💄": {
+    "name": "lipstick",
+    "slug": "lipstick",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💍": {
+    "name": "ring",
+    "slug": "ring",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💎": {
+    "name": "gem stone",
+    "slug": "gem_stone",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔇": {
+    "name": "muted speaker",
+    "slug": "muted_speaker",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔈": {
+    "name": "speaker low volume",
+    "slug": "speaker_low_volume",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🔉": {
+    "name": "speaker medium volume",
+    "slug": "speaker_medium_volume",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔊": {
+    "name": "speaker high volume",
+    "slug": "speaker_high_volume",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📢": {
+    "name": "loudspeaker",
+    "slug": "loudspeaker",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📣": {
+    "name": "megaphone",
+    "slug": "megaphone",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📯": {
+    "name": "postal horn",
+    "slug": "postal_horn",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔔": {
+    "name": "bell",
+    "slug": "bell",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔕": {
+    "name": "bell with slash",
+    "slug": "bell_with_slash",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🎼": {
+    "name": "musical score",
+    "slug": "musical_score",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎵": {
+    "name": "musical note",
+    "slug": "musical_note",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎶": {
+    "name": "musical notes",
+    "slug": "musical_notes",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎙️": {
+    "name": "studio microphone",
+    "slug": "studio_microphone",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🎚️": {
+    "name": "level slider",
+    "slug": "level_slider",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🎛️": {
+    "name": "control knobs",
+    "slug": "control_knobs",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🎤": {
+    "name": "microphone",
+    "slug": "microphone",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎧": {
+    "name": "headphone",
+    "slug": "headphone",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📻": {
+    "name": "radio",
+    "slug": "radio",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎷": {
+    "name": "saxophone",
+    "slug": "saxophone",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪗": {
+    "name": "accordion",
+    "slug": "accordion",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🎸": {
+    "name": "guitar",
+    "slug": "guitar",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎹": {
+    "name": "musical keyboard",
+    "slug": "musical_keyboard",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎺": {
+    "name": "trumpet",
+    "slug": "trumpet",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎻": {
+    "name": "violin",
+    "slug": "violin",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪕": {
+    "name": "banjo",
+    "slug": "banjo",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🥁": {
+    "name": "drum",
+    "slug": "drum",
+    "group": "Objects",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🪘": {
+    "name": "long drum",
+    "slug": "long_drum",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🪇": {
+    "name": "maracas",
+    "slug": "maracas",
+    "group": "Objects",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "🪈": {
+    "name": "flute",
+    "slug": "flute",
+    "group": "Objects",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "📱": {
+    "name": "mobile phone",
+    "slug": "mobile_phone",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
