@@ -10400,3 +10400,567 @@
     "emoji_version": "0.6",
     "unicode_version": "0.6",
     "skin_tone_support": false
+  },
+  "📦": {
+    "name": "package",
+    "slug": "package",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📫": {
+    "name": "closed mailbox with raised flag",
+    "slug": "closed_mailbox_with_raised_flag",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📪": {
+    "name": "closed mailbox with lowered flag",
+    "slug": "closed_mailbox_with_lowered_flag",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📬": {
+    "name": "open mailbox with raised flag",
+    "slug": "open_mailbox_with_raised_flag",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "📭": {
+    "name": "open mailbox with lowered flag",
+    "slug": "open_mailbox_with_lowered_flag",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "📮": {
+    "name": "postbox",
+    "slug": "postbox",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🗳️": {
+    "name": "ballot box with ballot",
+    "slug": "ballot_box_with_ballot",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "✏️": {
+    "name": "pencil",
+    "slug": "pencil",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "✒️": {
+    "name": "black nib",
+    "slug": "black_nib",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🖋️": {
+    "name": "fountain pen",
+    "slug": "fountain_pen",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🖊️": {
+    "name": "pen",
+    "slug": "pen",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🖌️": {
+    "name": "paintbrush",
+    "slug": "paintbrush",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🖍️": {
+    "name": "crayon",
+    "slug": "crayon",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "📝": {
+    "name": "memo",
+    "slug": "memo",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💼": {
+    "name": "briefcase",
+    "slug": "briefcase",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📁": {
+    "name": "file folder",
+    "slug": "file_folder",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📂": {
+    "name": "open file folder",
+    "slug": "open_file_folder",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🗂️": {
+    "name": "card index dividers",
+    "slug": "card_index_dividers",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "📅": {
+    "name": "calendar",
+    "slug": "calendar",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📆": {
+    "name": "tear-off calendar",
+    "slug": "tear_off_calendar",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🗒️": {
+    "name": "spiral notepad",
+    "slug": "spiral_notepad",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🗓️": {
+    "name": "spiral calendar",
+    "slug": "spiral_calendar",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "📇": {
+    "name": "card index",
+    "slug": "card_index",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📈": {
+    "name": "chart increasing",
+    "slug": "chart_increasing",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📉": {
+    "name": "chart decreasing",
+    "slug": "chart_decreasing",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📊": {
+    "name": "bar chart",
+    "slug": "bar_chart",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📋": {
+    "name": "clipboard",
+    "slug": "clipboard",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📌": {
+    "name": "pushpin",
+    "slug": "pushpin",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📍": {
+    "name": "round pushpin",
+    "slug": "round_pushpin",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📎": {
+    "name": "paperclip",
+    "slug": "paperclip",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🖇️": {
+    "name": "linked paperclips",
+    "slug": "linked_paperclips",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "📏": {
+    "name": "straight ruler",
+    "slug": "straight_ruler",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📐": {
+    "name": "triangular ruler",
+    "slug": "triangular_ruler",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "✂️": {
+    "name": "scissors",
+    "slug": "scissors",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🗃️": {
+    "name": "card file box",
+    "slug": "card_file_box",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🗄️": {
+    "name": "file cabinet",
+    "slug": "file_cabinet",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🗑️": {
+    "name": "wastebasket",
+    "slug": "wastebasket",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🔒": {
+    "name": "locked",
+    "slug": "locked",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔓": {
+    "name": "unlocked",
+    "slug": "unlocked",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔏": {
+    "name": "locked with pen",
+    "slug": "locked_with_pen",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔐": {
+    "name": "locked with key",
+    "slug": "locked_with_key",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔑": {
+    "name": "key",
+    "slug": "key",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🗝️": {
+    "name": "old key",
+    "slug": "old_key",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🔨": {
+    "name": "hammer",
+    "slug": "hammer",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪓": {
+    "name": "axe",
+    "slug": "axe",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "⛏️": {
+    "name": "pick",
+    "slug": "pick",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⚒️": {
+    "name": "hammer and pick",
+    "slug": "hammer_and_pick",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🛠️": {
+    "name": "hammer and wrench",
+    "slug": "hammer_and_wrench",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🗡️": {
+    "name": "dagger",
+    "slug": "dagger",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⚔️": {
+    "name": "crossed swords",
+    "slug": "crossed_swords",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "💣": {
+    "name": "bomb",
+    "slug": "bomb",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪃": {
+    "name": "boomerang",
+    "slug": "boomerang",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🏹": {
+    "name": "bow and arrow",
+    "slug": "bow_and_arrow",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🛡️": {
+    "name": "shield",
+    "slug": "shield",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🪚": {
+    "name": "carpentry saw",
+    "slug": "carpentry_saw",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🔧": {
+    "name": "wrench",
+    "slug": "wrench",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪛": {
+    "name": "screwdriver",
+    "slug": "screwdriver",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🔩": {
+    "name": "nut and bolt",
+    "slug": "nut_and_bolt",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⚙️": {
+    "name": "gear",
+    "slug": "gear",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🗜️": {
+    "name": "clamp",
+    "slug": "clamp",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⚖️": {
+    "name": "balance scale",
+    "slug": "balance_scale",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🦯": {
+    "name": "white cane",
+    "slug": "white_cane",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🔗": {
+    "name": "link",
+    "slug": "link",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⛓️": {
+    "name": "chains",
+    "slug": "chains",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🪝": {
+    "name": "hook",
+    "slug": "hook",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🧰": {
+    "name": "toolbox",
+    "slug": "toolbox",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🧲": {
+    "name": "magnet",
+    "slug": "magnet",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🪜": {
+    "name": "ladder",
+    "slug": "ladder",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "⚗️": {
+    "name": "alembic",
+    "slug": "alembic",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🧪": {
+    "name": "test tube",
+    "slug": "test_tube",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🧫": {
+    "name": "petri dish",
+    "slug": "petri_dish",
