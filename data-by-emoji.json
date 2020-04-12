@@ -11499,3 +11499,584 @@
   },
   "🚷": {
     "name": "no pedestrians",
+    "slug": "no_pedestrians",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "📵": {
+    "name": "no mobile phones",
+    "slug": "no_mobile_phones",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔞": {
+    "name": "no one under eighteen",
+    "slug": "no_one_under_eighteen",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "☢️": {
+    "name": "radioactive",
+    "slug": "radioactive",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "☣️": {
+    "name": "biohazard",
+    "slug": "biohazard",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "⬆️": {
+    "name": "up arrow",
+    "slug": "up_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "↗️": {
+    "name": "up-right arrow",
+    "slug": "up_right_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "➡️": {
+    "name": "right arrow",
+    "slug": "right_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "↘️": {
+    "name": "down-right arrow",
+    "slug": "down_right_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⬇️": {
+    "name": "down arrow",
+    "slug": "down_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "↙️": {
+    "name": "down-left arrow",
+    "slug": "down_left_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⬅️": {
+    "name": "left arrow",
+    "slug": "left_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "↖️": {
+    "name": "up-left arrow",
+    "slug": "up_left_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "↕️": {
+    "name": "up-down arrow",
+    "slug": "up_down_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "↔️": {
+    "name": "left-right arrow",
+    "slug": "left_right_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "↩️": {
+    "name": "right arrow curving left",
+    "slug": "right_arrow_curving_left",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "↪️": {
+    "name": "left arrow curving right",
+    "slug": "left_arrow_curving_right",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⤴️": {
+    "name": "right arrow curving up",
+    "slug": "right_arrow_curving_up",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⤵️": {
+    "name": "right arrow curving down",
+    "slug": "right_arrow_curving_down",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔃": {
+    "name": "clockwise vertical arrows",
+    "slug": "clockwise_vertical_arrows",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔄": {
+    "name": "counterclockwise arrows button",
+    "slug": "counterclockwise_arrows_button",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔙": {
+    "name": "BACK arrow",
+    "slug": "back_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔚": {
+    "name": "END arrow",
+    "slug": "end_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔛": {
+    "name": "ON! arrow",
+    "slug": "on_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔜": {
+    "name": "SOON arrow",
+    "slug": "soon_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔝": {
+    "name": "TOP arrow",
+    "slug": "top_arrow",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🛐": {
+    "name": "place of worship",
+    "slug": "place_of_worship",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "⚛️": {
+    "name": "atom symbol",
+    "slug": "atom_symbol",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🕉️": {
+    "name": "om",
+    "slug": "om",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "✡️": {
+    "name": "star of David",
+    "slug": "star_of_david",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "☸️": {
+    "name": "wheel of dharma",
+    "slug": "wheel_of_dharma",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "☯️": {
+    "name": "yin yang",
+    "slug": "yin_yang",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "✝️": {
+    "name": "latin cross",
+    "slug": "latin_cross",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "☦️": {
+    "name": "orthodox cross",
+    "slug": "orthodox_cross",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "☪️": {
+    "name": "star and crescent",
+    "slug": "star_and_crescent",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "☮️": {
+    "name": "peace symbol",
+    "slug": "peace_symbol",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🕎": {
+    "name": "menorah",
+    "slug": "menorah",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔯": {
+    "name": "dotted six-pointed star",
+    "slug": "dotted_six_pointed_star",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪯": {
+    "name": "khanda",
+    "slug": "khanda",
+    "group": "Symbols",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "♈": {
+    "name": "Aries",
+    "slug": "aries",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♉": {
+    "name": "Taurus",
+    "slug": "taurus",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♊": {
+    "name": "Gemini",
+    "slug": "gemini",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♋": {
+    "name": "Cancer",
+    "slug": "cancer",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♌": {
+    "name": "Leo",
+    "slug": "leo",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♍": {
+    "name": "Virgo",
+    "slug": "virgo",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♎": {
+    "name": "Libra",
+    "slug": "libra",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♏": {
+    "name": "Scorpio",
+    "slug": "scorpio",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♐": {
+    "name": "Sagittarius",
+    "slug": "sagittarius",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♑": {
+    "name": "Capricorn",
+    "slug": "capricorn",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♒": {
+    "name": "Aquarius",
+    "slug": "aquarius",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♓": {
+    "name": "Pisces",
+    "slug": "pisces",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⛎": {
+    "name": "Ophiuchus",
+    "slug": "ophiuchus",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔀": {
+    "name": "shuffle tracks button",
+    "slug": "shuffle_tracks_button",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔁": {
+    "name": "repeat button",
+    "slug": "repeat_button",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔂": {
+    "name": "repeat single button",
+    "slug": "repeat_single_button",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "▶️": {
+    "name": "play button",
+    "slug": "play_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⏩": {
+    "name": "fast-forward button",
+    "slug": "fast_forward_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⏭️": {
+    "name": "next track button",
+    "slug": "next_track_button",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⏯️": {
+    "name": "play or pause button",
+    "slug": "play_or_pause_button",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "◀️": {
+    "name": "reverse button",
+    "slug": "reverse_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⏪": {
+    "name": "fast reverse button",
+    "slug": "fast_reverse_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⏮️": {
+    "name": "last track button",
+    "slug": "last_track_button",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🔼": {
+    "name": "upwards button",
+    "slug": "upwards_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⏫": {
+    "name": "fast up button",
+    "slug": "fast_up_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔽": {
+    "name": "downwards button",
+    "slug": "downwards_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⏬": {
+    "name": "fast down button",
+    "slug": "fast_down_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⏸️": {
+    "name": "pause button",
+    "slug": "pause_button",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⏹️": {
+    "name": "stop button",
+    "slug": "stop_button",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⏺️": {
+    "name": "record button",
+    "slug": "record_button",
+    "group": "Symbols",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "⏏️": {
+    "name": "eject button",
+    "slug": "eject_button",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🎦": {
+    "name": "cinema",
+    "slug": "cinema",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔅": {
+    "name": "dim button",
+    "slug": "dim_button",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔆": {
+    "name": "bright button",
+    "slug": "bright_button",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
