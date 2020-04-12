@@ -10964,3 +10964,538 @@
   "🧫": {
     "name": "petri dish",
     "slug": "petri_dish",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🧬": {
+    "name": "dna",
+    "slug": "dna",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🔬": {
+    "name": "microscope",
+    "slug": "microscope",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔭": {
+    "name": "telescope",
+    "slug": "telescope",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "📡": {
+    "name": "satellite antenna",
+    "slug": "satellite_antenna",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💉": {
+    "name": "syringe",
+    "slug": "syringe",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🩸": {
+    "name": "drop of blood",
+    "slug": "drop_of_blood",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "💊": {
+    "name": "pill",
+    "slug": "pill",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🩹": {
+    "name": "adhesive bandage",
+    "slug": "adhesive_bandage",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🩼": {
+    "name": "crutch",
+    "slug": "crutch",
+    "group": "Objects",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🩺": {
+    "name": "stethoscope",
+    "slug": "stethoscope",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🩻": {
+    "name": "x-ray",
+    "slug": "x_ray",
+    "group": "Objects",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🚪": {
+    "name": "door",
+    "slug": "door",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🛗": {
+    "name": "elevator",
+    "slug": "elevator",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🪞": {
+    "name": "mirror",
+    "slug": "mirror",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🪟": {
+    "name": "window",
+    "slug": "window",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🛏️": {
+    "name": "bed",
+    "slug": "bed",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🛋️": {
+    "name": "couch and lamp",
+    "slug": "couch_and_lamp",
+    "group": "Objects",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🪑": {
+    "name": "chair",
+    "slug": "chair",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🚽": {
+    "name": "toilet",
+    "slug": "toilet",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪠": {
+    "name": "plunger",
+    "slug": "plunger",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🚿": {
+    "name": "shower",
+    "slug": "shower",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🛁": {
+    "name": "bathtub",
+    "slug": "bathtub",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🪤": {
+    "name": "mouse trap",
+    "slug": "mouse_trap",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🪒": {
+    "name": "razor",
+    "slug": "razor",
+    "group": "Objects",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🧴": {
+    "name": "lotion bottle",
+    "slug": "lotion_bottle",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🧷": {
+    "name": "safety pin",
+    "slug": "safety_pin",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🧹": {
+    "name": "broom",
+    "slug": "broom",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🧺": {
+    "name": "basket",
+    "slug": "basket",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🧻": {
+    "name": "roll of paper",
+    "slug": "roll_of_paper",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🪣": {
+    "name": "bucket",
+    "slug": "bucket",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🧼": {
+    "name": "soap",
+    "slug": "soap",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🫧": {
+    "name": "bubbles",
+    "slug": "bubbles",
+    "group": "Objects",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🪥": {
+    "name": "toothbrush",
+    "slug": "toothbrush",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🧽": {
+    "name": "sponge",
+    "slug": "sponge",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🧯": {
+    "name": "fire extinguisher",
+    "slug": "fire_extinguisher",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🛒": {
+    "name": "shopping cart",
+    "slug": "shopping_cart",
+    "group": "Objects",
+    "emoji_version": "3.0",
+    "unicode_version": "3.0",
+    "skin_tone_support": false
+  },
+  "🚬": {
+    "name": "cigarette",
+    "slug": "cigarette",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⚰️": {
+    "name": "coffin",
+    "slug": "coffin",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🪦": {
+    "name": "headstone",
+    "slug": "headstone",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "⚱️": {
+    "name": "funeral urn",
+    "slug": "funeral_urn",
+    "group": "Objects",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🧿": {
+    "name": "nazar amulet",
+    "slug": "nazar_amulet",
+    "group": "Objects",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🪬": {
+    "name": "hamsa",
+    "slug": "hamsa",
+    "group": "Objects",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🗿": {
+    "name": "moai",
+    "slug": "moai",
+    "group": "Objects",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🪧": {
+    "name": "placard",
+    "slug": "placard",
+    "group": "Objects",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🪪": {
+    "name": "identification card",
+    "slug": "identification_card",
+    "group": "Objects",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "🏧": {
+    "name": "ATM sign",
+    "slug": "atm_sign",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚮": {
+    "name": "litter in bin sign",
+    "slug": "litter_in_bin_sign",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚰": {
+    "name": "potable water",
+    "slug": "potable_water",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "♿": {
+    "name": "wheelchair symbol",
+    "slug": "wheelchair_symbol",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚹": {
+    "name": "men’s room",
+    "slug": "men_s_room",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚺": {
+    "name": "women’s room",
+    "slug": "women_s_room",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚻": {
+    "name": "restroom",
+    "slug": "restroom",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚼": {
+    "name": "baby symbol",
+    "slug": "baby_symbol",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚾": {
+    "name": "water closet",
+    "slug": "water_closet",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🛂": {
+    "name": "passport control",
+    "slug": "passport_control",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🛃": {
+    "name": "customs",
+    "slug": "customs",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🛄": {
+    "name": "baggage claim",
+    "slug": "baggage_claim",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🛅": {
+    "name": "left luggage",
+    "slug": "left_luggage",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "⚠️": {
+    "name": "warning",
+    "slug": "warning",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚸": {
+    "name": "children crossing",
+    "slug": "children_crossing",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "⛔": {
+    "name": "no entry",
+    "slug": "no_entry",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚫": {
+    "name": "prohibited",
+    "slug": "prohibited",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚳": {
+    "name": "no bicycles",
+    "slug": "no_bicycles",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚭": {
+    "name": "no smoking",
+    "slug": "no_smoking",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚯": {
+    "name": "no littering",
+    "slug": "no_littering",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚱": {
+    "name": "non-potable water",
+    "slug": "non_potable_water",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🚷": {
+    "name": "no pedestrians",
