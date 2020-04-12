@@ -12080,3 +12080,558 @@
     "emoji_version": "1.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
+  },
+  "📶": {
+    "name": "antenna bars",
+    "slug": "antenna_bars",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🛜": {
+    "name": "wireless",
+    "slug": "wireless",
+    "group": "Symbols",
+    "emoji_version": "15.0",
+    "unicode_version": "15.0",
+    "skin_tone_support": false
+  },
+  "📳": {
+    "name": "vibration mode",
+    "slug": "vibration_mode",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📴": {
+    "name": "mobile phone off",
+    "slug": "mobile_phone_off",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "♀️": {
+    "name": "female sign",
+    "slug": "female_sign",
+    "group": "Symbols",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "♂️": {
+    "name": "male sign",
+    "slug": "male_sign",
+    "group": "Symbols",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "⚧️": {
+    "name": "transgender symbol",
+    "slug": "transgender_symbol",
+    "group": "Symbols",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "✖️": {
+    "name": "multiply",
+    "slug": "multiply",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "➕": {
+    "name": "plus",
+    "slug": "plus",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "➖": {
+    "name": "minus",
+    "slug": "minus",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "➗": {
+    "name": "divide",
+    "slug": "divide",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🟰": {
+    "name": "heavy equals sign",
+    "slug": "heavy_equals_sign",
+    "group": "Symbols",
+    "emoji_version": "14.0",
+    "unicode_version": "14.0",
+    "skin_tone_support": false
+  },
+  "♾️": {
+    "name": "infinity",
+    "slug": "infinity",
+    "group": "Symbols",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "‼️": {
+    "name": "double exclamation mark",
+    "slug": "double_exclamation_mark",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⁉️": {
+    "name": "exclamation question mark",
+    "slug": "exclamation_question_mark",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "❓": {
+    "name": "red question mark",
+    "slug": "red_question_mark",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "❔": {
+    "name": "white question mark",
+    "slug": "white_question_mark",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "❕": {
+    "name": "white exclamation mark",
+    "slug": "white_exclamation_mark",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "❗": {
+    "name": "red exclamation mark",
+    "slug": "red_exclamation_mark",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "〰️": {
+    "name": "wavy dash",
+    "slug": "wavy_dash",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💱": {
+    "name": "currency exchange",
+    "slug": "currency_exchange",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💲": {
+    "name": "heavy dollar sign",
+    "slug": "heavy_dollar_sign",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⚕️": {
+    "name": "medical symbol",
+    "slug": "medical_symbol",
+    "group": "Symbols",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "♻️": {
+    "name": "recycling symbol",
+    "slug": "recycling_symbol",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⚜️": {
+    "name": "fleur-de-lis",
+    "slug": "fleur_de_lis",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🔱": {
+    "name": "trident emblem",
+    "slug": "trident_emblem",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "📛": {
+    "name": "name badge",
+    "slug": "name_badge",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔰": {
+    "name": "Japanese symbol for beginner",
+    "slug": "japanese_symbol_for_beginner",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⭕": {
+    "name": "hollow red circle",
+    "slug": "hollow_red_circle",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "✅": {
+    "name": "check mark button",
+    "slug": "check_mark_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "☑️": {
+    "name": "check box with check",
+    "slug": "check_box_with_check",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "✔️": {
+    "name": "check mark",
+    "slug": "check_mark",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "❌": {
+    "name": "cross mark",
+    "slug": "cross_mark",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "❎": {
+    "name": "cross mark button",
+    "slug": "cross_mark_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "➰": {
+    "name": "curly loop",
+    "slug": "curly_loop",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "➿": {
+    "name": "double curly loop",
+    "slug": "double_curly_loop",
+    "group": "Symbols",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "〽️": {
+    "name": "part alternation mark",
+    "slug": "part_alternation_mark",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "✳️": {
+    "name": "eight-spoked asterisk",
+    "slug": "eight_spoked_asterisk",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "✴️": {
+    "name": "eight-pointed star",
+    "slug": "eight_pointed_star",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "❇️": {
+    "name": "sparkle",
+    "slug": "sparkle",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "©️": {
+    "name": "copyright",
+    "slug": "copyright",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "®️": {
+    "name": "registered",
+    "slug": "registered",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "™️": {
+    "name": "trade mark",
+    "slug": "trade_mark",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "#️⃣": {
+    "name": "keycap #",
+    "slug": "keycap_number_sign",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "*️⃣": {
+    "name": "keycap *",
+    "slug": "keycap_asterisk",
+    "group": "Symbols",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "0️⃣": {
+    "name": "keycap 0",
+    "slug": "keycap_0",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "1️⃣": {
+    "name": "keycap 1",
+    "slug": "keycap_1",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "2️⃣": {
+    "name": "keycap 2",
+    "slug": "keycap_2",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "3️⃣": {
+    "name": "keycap 3",
+    "slug": "keycap_3",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "4️⃣": {
+    "name": "keycap 4",
+    "slug": "keycap_4",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "5️⃣": {
+    "name": "keycap 5",
+    "slug": "keycap_5",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "6️⃣": {
+    "name": "keycap 6",
+    "slug": "keycap_6",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "7️⃣": {
+    "name": "keycap 7",
+    "slug": "keycap_7",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "8️⃣": {
+    "name": "keycap 8",
+    "slug": "keycap_8",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "9️⃣": {
+    "name": "keycap 9",
+    "slug": "keycap_9",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔟": {
+    "name": "keycap 10",
+    "slug": "keycap_10",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔠": {
+    "name": "input latin uppercase",
+    "slug": "input_latin_uppercase",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔡": {
+    "name": "input latin lowercase",
+    "slug": "input_latin_lowercase",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔢": {
+    "name": "input numbers",
+    "slug": "input_numbers",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔣": {
+    "name": "input symbols",
+    "slug": "input_symbols",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔤": {
+    "name": "input latin letters",
+    "slug": "input_latin_letters",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🅰️": {
+    "name": "A button (blood type)",
+    "slug": "a_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆎": {
+    "name": "AB button (blood type)",
+    "slug": "ab_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🅱️": {
+    "name": "B button (blood type)",
+    "slug": "b_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆑": {
+    "name": "CL button",
+    "slug": "cl_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆒": {
+    "name": "COOL button",
+    "slug": "cool_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆓": {
+    "name": "FREE button",
+    "slug": "free_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "ℹ️": {
+    "name": "information",
+    "slug": "information",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆔": {
+    "name": "ID button",
+    "slug": "id_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "Ⓜ️": {
+    "name": "circled M",
