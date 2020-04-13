@@ -12635,3 +12635,604 @@
   },
   "Ⓜ️": {
     "name": "circled M",
+    "slug": "circled_m",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆕": {
+    "name": "NEW button",
+    "slug": "new_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆖": {
+    "name": "NG button",
+    "slug": "ng_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🅾️": {
+    "name": "O button (blood type)",
+    "slug": "o_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆗": {
+    "name": "OK button",
+    "slug": "ok_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🅿️": {
+    "name": "P button",
+    "slug": "p_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆘": {
+    "name": "SOS button",
+    "slug": "sos_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆙": {
+    "name": "UP! button",
+    "slug": "up_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🆚": {
+    "name": "VS button",
+    "slug": "vs_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈁": {
+    "name": "Japanese “here” button",
+    "slug": "japanese_here_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈂️": {
+    "name": "Japanese “service charge” button",
+    "slug": "japanese_service_charge_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈷️": {
+    "name": "Japanese “monthly amount” button",
+    "slug": "japanese_monthly_amount_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈶": {
+    "name": "Japanese “not free of charge” button",
+    "slug": "japanese_not_free_of_charge_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈯": {
+    "name": "Japanese “reserved” button",
+    "slug": "japanese_reserved_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🉐": {
+    "name": "Japanese “bargain” button",
+    "slug": "japanese_bargain_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈹": {
+    "name": "Japanese “discount” button",
+    "slug": "japanese_discount_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈚": {
+    "name": "Japanese “free of charge” button",
+    "slug": "japanese_free_of_charge_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈲": {
+    "name": "Japanese “prohibited” button",
+    "slug": "japanese_prohibited_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🉑": {
+    "name": "Japanese “acceptable” button",
+    "slug": "japanese_acceptable_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈸": {
+    "name": "Japanese “application” button",
+    "slug": "japanese_application_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈴": {
+    "name": "Japanese “passing grade” button",
+    "slug": "japanese_passing_grade_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈳": {
+    "name": "Japanese “vacancy” button",
+    "slug": "japanese_vacancy_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "㊗️": {
+    "name": "Japanese “congratulations” button",
+    "slug": "japanese_congratulations_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "㊙️": {
+    "name": "Japanese “secret” button",
+    "slug": "japanese_secret_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈺": {
+    "name": "Japanese “open for business” button",
+    "slug": "japanese_open_for_business_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🈵": {
+    "name": "Japanese “no vacancy” button",
+    "slug": "japanese_no_vacancy_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔴": {
+    "name": "red circle",
+    "slug": "red_circle",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🟠": {
+    "name": "orange circle",
+    "slug": "orange_circle",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🟡": {
+    "name": "yellow circle",
+    "slug": "yellow_circle",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🟢": {
+    "name": "green circle",
+    "slug": "green_circle",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🔵": {
+    "name": "blue circle",
+    "slug": "blue_circle",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🟣": {
+    "name": "purple circle",
+    "slug": "purple_circle",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🟤": {
+    "name": "brown circle",
+    "slug": "brown_circle",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "⚫": {
+    "name": "black circle",
+    "slug": "black_circle",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⚪": {
+    "name": "white circle",
+    "slug": "white_circle",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🟥": {
+    "name": "red square",
+    "slug": "red_square",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🟧": {
+    "name": "orange square",
+    "slug": "orange_square",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🟨": {
+    "name": "yellow square",
+    "slug": "yellow_square",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🟩": {
+    "name": "green square",
+    "slug": "green_square",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🟦": {
+    "name": "blue square",
+    "slug": "blue_square",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🟪": {
+    "name": "purple square",
+    "slug": "purple_square",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "🟫": {
+    "name": "brown square",
+    "slug": "brown_square",
+    "group": "Symbols",
+    "emoji_version": "12.0",
+    "unicode_version": "12.0",
+    "skin_tone_support": false
+  },
+  "⬛": {
+    "name": "black large square",
+    "slug": "black_large_square",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "⬜": {
+    "name": "white large square",
+    "slug": "white_large_square",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "◼️": {
+    "name": "black medium square",
+    "slug": "black_medium_square",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "◻️": {
+    "name": "white medium square",
+    "slug": "white_medium_square",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "◾": {
+    "name": "black medium-small square",
+    "slug": "black_medium_small_square",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "◽": {
+    "name": "white medium-small square",
+    "slug": "white_medium_small_square",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "▪️": {
+    "name": "black small square",
+    "slug": "black_small_square",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "▫️": {
+    "name": "white small square",
+    "slug": "white_small_square",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔶": {
+    "name": "large orange diamond",
+    "slug": "large_orange_diamond",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔷": {
+    "name": "large blue diamond",
+    "slug": "large_blue_diamond",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔸": {
+    "name": "small orange diamond",
+    "slug": "small_orange_diamond",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔹": {
+    "name": "small blue diamond",
+    "slug": "small_blue_diamond",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔺": {
+    "name": "red triangle pointed up",
+    "slug": "red_triangle_pointed_up",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔻": {
+    "name": "red triangle pointed down",
+    "slug": "red_triangle_pointed_down",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "💠": {
+    "name": "diamond with a dot",
+    "slug": "diamond_with_a_dot",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔘": {
+    "name": "radio button",
+    "slug": "radio_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔳": {
+    "name": "white square button",
+    "slug": "white_square_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🔲": {
+    "name": "black square button",
+    "slug": "black_square_button",
+    "group": "Symbols",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏁": {
+    "name": "chequered flag",
+    "slug": "chequered_flag",
+    "group": "Flags",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🚩": {
+    "name": "triangular flag",
+    "slug": "triangular_flag",
+    "group": "Flags",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🎌": {
+    "name": "crossed flags",
+    "slug": "crossed_flags",
+    "group": "Flags",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🏴": {
+    "name": "black flag",
+    "slug": "black_flag",
+    "group": "Flags",
+    "emoji_version": "1.0",
+    "unicode_version": "1.0",
+    "skin_tone_support": false
+  },
+  "🏳️": {
+    "name": "white flag",
+    "slug": "white_flag",
+    "group": "Flags",
+    "emoji_version": "0.7",
+    "unicode_version": "0.7",
+    "skin_tone_support": false
+  },
+  "🏳️‍🌈": {
+    "name": "rainbow flag",
+    "slug": "rainbow_flag",
+    "group": "Flags",
+    "emoji_version": "4.0",
+    "unicode_version": "4.0",
+    "skin_tone_support": false
+  },
+  "🏳️‍⚧️": {
+    "name": "transgender flag",
+    "slug": "transgender_flag",
+    "group": "Flags",
+    "emoji_version": "13.0",
+    "unicode_version": "13.0",
+    "skin_tone_support": false
+  },
+  "🏴‍☠️": {
+    "name": "pirate flag",
+    "slug": "pirate_flag",
+    "group": "Flags",
+    "emoji_version": "11.0",
+    "unicode_version": "11.0",
+    "skin_tone_support": false
+  },
+  "🇦🇨": {
+    "name": "flag Ascension Island",
+    "slug": "flag_ascension_island",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇩": {
+    "name": "flag Andorra",
+    "slug": "flag_andorra",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇪": {
+    "name": "flag United Arab Emirates",
+    "slug": "flag_united_arab_emirates",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇫": {
+    "name": "flag Afghanistan",
+    "slug": "flag_afghanistan",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇬": {
+    "name": "flag Antigua & Barbuda",
+    "slug": "flag_antigua_barbuda",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇮": {
+    "name": "flag Anguilla",
+    "slug": "flag_anguilla",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇱": {
+    "name": "flag Albania",
+    "slug": "flag_albania",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇲": {
+    "name": "flag Armenia",
+    "slug": "flag_armenia",
