@@ -13236,3 +13236,524 @@
   "🇦🇲": {
     "name": "flag Armenia",
     "slug": "flag_armenia",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇴": {
+    "name": "flag Angola",
+    "slug": "flag_angola",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇶": {
+    "name": "flag Antarctica",
+    "slug": "flag_antarctica",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇷": {
+    "name": "flag Argentina",
+    "slug": "flag_argentina",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇸": {
+    "name": "flag American Samoa",
+    "slug": "flag_american_samoa",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇹": {
+    "name": "flag Austria",
+    "slug": "flag_austria",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇺": {
+    "name": "flag Australia",
+    "slug": "flag_australia",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇼": {
+    "name": "flag Aruba",
+    "slug": "flag_aruba",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇽": {
+    "name": "flag Åland Islands",
+    "slug": "flag_aland_islands",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇦🇿": {
+    "name": "flag Azerbaijan",
+    "slug": "flag_azerbaijan",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇦": {
+    "name": "flag Bosnia & Herzegovina",
+    "slug": "flag_bosnia_herzegovina",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇧": {
+    "name": "flag Barbados",
+    "slug": "flag_barbados",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇩": {
+    "name": "flag Bangladesh",
+    "slug": "flag_bangladesh",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇪": {
+    "name": "flag Belgium",
+    "slug": "flag_belgium",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇫": {
+    "name": "flag Burkina Faso",
+    "slug": "flag_burkina_faso",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇬": {
+    "name": "flag Bulgaria",
+    "slug": "flag_bulgaria",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇭": {
+    "name": "flag Bahrain",
+    "slug": "flag_bahrain",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇮": {
+    "name": "flag Burundi",
+    "slug": "flag_burundi",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇯": {
+    "name": "flag Benin",
+    "slug": "flag_benin",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇱": {
+    "name": "flag St. Barthélemy",
+    "slug": "flag_st_barthelemy",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇲": {
+    "name": "flag Bermuda",
+    "slug": "flag_bermuda",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇳": {
+    "name": "flag Brunei",
+    "slug": "flag_brunei",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇴": {
+    "name": "flag Bolivia",
+    "slug": "flag_bolivia",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇶": {
+    "name": "flag Caribbean Netherlands",
+    "slug": "flag_caribbean_netherlands",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇷": {
+    "name": "flag Brazil",
+    "slug": "flag_brazil",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇸": {
+    "name": "flag Bahamas",
+    "slug": "flag_bahamas",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇹": {
+    "name": "flag Bhutan",
+    "slug": "flag_bhutan",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇻": {
+    "name": "flag Bouvet Island",
+    "slug": "flag_bouvet_island",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇼": {
+    "name": "flag Botswana",
+    "slug": "flag_botswana",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇾": {
+    "name": "flag Belarus",
+    "slug": "flag_belarus",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇧🇿": {
+    "name": "flag Belize",
+    "slug": "flag_belize",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇦": {
+    "name": "flag Canada",
+    "slug": "flag_canada",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇨": {
+    "name": "flag Cocos (Keeling) Islands",
+    "slug": "flag_cocos_islands",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇩": {
+    "name": "flag Congo - Kinshasa",
+    "slug": "flag_congo_kinshasa",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇫": {
+    "name": "flag Central African Republic",
+    "slug": "flag_central_african_republic",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇬": {
+    "name": "flag Congo - Brazzaville",
+    "slug": "flag_congo_brazzaville",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇭": {
+    "name": "flag Switzerland",
+    "slug": "flag_switzerland",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇮": {
+    "name": "flag Côte d’Ivoire",
+    "slug": "flag_cote_d_ivoire",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇰": {
+    "name": "flag Cook Islands",
+    "slug": "flag_cook_islands",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇱": {
+    "name": "flag Chile",
+    "slug": "flag_chile",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇲": {
+    "name": "flag Cameroon",
+    "slug": "flag_cameroon",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇳": {
+    "name": "flag China",
+    "slug": "flag_china",
+    "group": "Flags",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🇨🇴": {
+    "name": "flag Colombia",
+    "slug": "flag_colombia",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇵": {
+    "name": "flag Clipperton Island",
+    "slug": "flag_clipperton_island",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇷": {
+    "name": "flag Costa Rica",
+    "slug": "flag_costa_rica",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇺": {
+    "name": "flag Cuba",
+    "slug": "flag_cuba",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇻": {
+    "name": "flag Cape Verde",
+    "slug": "flag_cape_verde",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇼": {
+    "name": "flag Curaçao",
+    "slug": "flag_curacao",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇽": {
+    "name": "flag Christmas Island",
+    "slug": "flag_christmas_island",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇾": {
+    "name": "flag Cyprus",
+    "slug": "flag_cyprus",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇨🇿": {
+    "name": "flag Czechia",
+    "slug": "flag_czechia",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇩🇪": {
+    "name": "flag Germany",
+    "slug": "flag_germany",
+    "group": "Flags",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🇩🇬": {
+    "name": "flag Diego Garcia",
+    "slug": "flag_diego_garcia",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇩🇯": {
+    "name": "flag Djibouti",
+    "slug": "flag_djibouti",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇩🇰": {
+    "name": "flag Denmark",
+    "slug": "flag_denmark",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇩🇲": {
+    "name": "flag Dominica",
+    "slug": "flag_dominica",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇩🇴": {
+    "name": "flag Dominican Republic",
+    "slug": "flag_dominican_republic",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇩🇿": {
+    "name": "flag Algeria",
+    "slug": "flag_algeria",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇪🇦": {
+    "name": "flag Ceuta & Melilla",
+    "slug": "flag_ceuta_melilla",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇪🇨": {
+    "name": "flag Ecuador",
+    "slug": "flag_ecuador",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇪🇪": {
+    "name": "flag Estonia",
+    "slug": "flag_estonia",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇪🇬": {
+    "name": "flag Egypt",
+    "slug": "flag_egypt",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇪🇭": {
+    "name": "flag Western Sahara",
+    "slug": "flag_western_sahara",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇪🇷": {
+    "name": "flag Eritrea",
+    "slug": "flag_eritrea",
+    "group": "Flags",
+    "emoji_version": "2.0",
+    "unicode_version": "2.0",
+    "skin_tone_support": false
+  },
+  "🇪🇸": {
+    "name": "flag Spain",
+    "slug": "flag_spain",
+    "group": "Flags",
+    "emoji_version": "0.6",
+    "unicode_version": "0.6",
+    "skin_tone_support": false
+  },
+  "🇪🇹": {
+    "name": "flag Ethiopia",
+    "slug": "flag_ethiopia",
+    "group": "Flags",
