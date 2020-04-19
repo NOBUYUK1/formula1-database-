@@ -46,4 +46,22 @@
       {
         "emoji": "😅",
         "skin_tone_support": false,
-        "name": "
+        "name": "grinning face with sweat",
+        "slug": "grinning_face_with_sweat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤣",
+        "skin_tone_support": false,
+        "name": "rolling on the floor laughing",
+        "slug": "rolling_on_the_floor_laughing",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "😂",
+        "skin_tone_support": false,
+        "name": "face with tears of joy",
+        "slug": "face_with_tears_of_joy",
+        "unicode_vers
