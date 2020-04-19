@@ -28,4 +28,22 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji":
+        "emoji": "😁",
+        "skin_tone_support": false,
+        "name": "beaming face with smiling eyes",
+        "slug": "beaming_face_with_smiling_eyes",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😆",
+        "skin_tone_support": false,
+        "name": "grinning squinting face",
+        "slug": "grinning_squinting_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😅",
+        "skin_tone_support": false,
+        "name": "
