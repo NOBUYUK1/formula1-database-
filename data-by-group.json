@@ -64,4 +64,27 @@
         "skin_tone_support": false,
         "name": "face with tears of joy",
         "slug": "face_with_tears_of_joy",
-        "unicode_vers
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🙂",
+        "skin_tone_support": false,
+        "name": "slightly smiling face",
+        "slug": "slightly_smiling_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🙃",
+        "skin_tone_support": false,
+        "name": "upside-down face",
+        "slug": "upside_down_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🫠",
+        "skin_tone_support": false,
+        "name": "melting face",
+     
