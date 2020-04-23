@@ -87,4 +87,25 @@
         "emoji": "🫠",
         "skin_tone_support": false,
         "name": "melting face",
-     
+        "slug": "melting_face",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "😉",
+        "skin_tone_support": false,
+        "name": "winking face",
+        "slug": "winking_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😊",
+        "skin_tone_support": false,
+        "name": "smiling face with smiling eyes",
+        "slug": "smiling_face_with_smiling_eyes",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "em
