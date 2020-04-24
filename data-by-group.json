@@ -108,4 +108,23 @@
         "emoji_version": "0.6"
       },
       {
-        "em
+        "emoji": "😇",
+        "skin_tone_support": false,
+        "name": "smiling face with halo",
+        "slug": "smiling_face_with_halo",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🥰",
+        "skin_tone_support": false,
+        "name": "smiling face with hearts",
+        "slug": "smiling_face_with_hearts",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "😍",
+        "skin_tone_support": false,
+        "name": "smiling face with heart-eyes",
+        "slug": "smiling_fac
