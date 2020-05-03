@@ -127,4 +127,24 @@
         "emoji": "😍",
         "skin_tone_support": false,
         "name": "smiling face with heart-eyes",
-        "slug": "smiling_fac
+        "slug": "smiling_face_with_heart_eyes",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤩",
+        "skin_tone_support": false,
+        "name": "star-struck",
+        "slug": "star_struck",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "😘",
+        "skin_tone_support": false,
+        "name": "face blowing a kiss",
+        "slug": "face_blowing_a_kiss",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
