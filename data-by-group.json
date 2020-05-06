@@ -167,4 +167,24 @@
         "emoji": "😚",
         "skin_tone_support": false,
         "name": "kissing face with closed eyes",
-        "slug": "kissing_face_with_clo
+        "slug": "kissing_face_with_closed_eyes",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😙",
+        "skin_tone_support": false,
+        "name": "kissing face with smiling eyes",
+        "slug": "kissing_face_with_smiling_eyes",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🥲",
+        "skin_tone_support": false,
+        "name": "smiling face with tear",
+        "slug": "smiling_face_with_tear",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
