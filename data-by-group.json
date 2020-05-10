@@ -228,4 +228,23 @@
         "emoji_version": "0.6"
       },
       {
-     
+        "emoji": "🤑",
+        "skin_tone_support": false,
+        "name": "money-mouth face",
+        "slug": "money_mouth_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🤗",
+        "skin_tone_support": false,
+        "name": "smiling face with open hands",
+        "slug": "smiling_face_with_open_hands",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🤭",
+        "skin_tone_support": false,
+        "name": "face with hand over mouth",
+        "
