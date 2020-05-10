@@ -188,3 +188,23 @@
         "emoji_version": "13.0"
       },
       {
+        "emoji": "😋",
+        "skin_tone_support": false,
+        "name": "face savoring food",
+        "slug": "face_savoring_food",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😛",
+        "skin_tone_support": false,
+        "name": "face with tongue",
+        "slug": "face_with_tongue",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "😜",
+        "skin_tone_support": false,
+        "name": "winking face with tongue",
+        "slug": "winking_fac
