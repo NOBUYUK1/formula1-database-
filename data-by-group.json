@@ -207,4 +207,25 @@
         "emoji": "😜",
         "skin_tone_support": false,
         "name": "winking face with tongue",
-        "slug": "winking_fac
+        "slug": "winking_face_with_tongue",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤪",
+        "skin_tone_support": false,
+        "name": "zany face",
+        "slug": "zany_face",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "😝",
+        "skin_tone_support": false,
+        "name": "squinting face with tongue",
+        "slug": "squinting_face_with_tongue",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+     
