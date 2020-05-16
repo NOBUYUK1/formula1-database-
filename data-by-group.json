@@ -247,4 +247,21 @@
         "emoji": "🤭",
         "skin_tone_support": false,
         "name": "face with hand over mouth",
-        "
+        "slug": "face_with_hand_over_mouth",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🫢",
+        "skin_tone_support": false,
+        "name": "face with open eyes and hand over mouth",
+        "slug": "face_with_open_eyes_and_hand_over_mouth",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🫣",
+        "skin_tone_support": false,
+        "name": "face with peeking eye",
+        "slug": "face_with_peeking_eye",
+        "unicode_version": "14.
