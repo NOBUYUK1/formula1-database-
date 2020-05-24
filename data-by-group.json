@@ -264,4 +264,27 @@
         "skin_tone_support": false,
         "name": "face with peeking eye",
         "slug": "face_with_peeking_eye",
-        "unicode_version": "14.
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🤫",
+        "skin_tone_support": false,
+        "name": "shushing face",
+        "slug": "shushing_face",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🤔",
+        "skin_tone_support": false,
+        "name": "thinking face",
+        "slug": "thinking_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🫡",
+        "skin_tone_support": false,
+        "name": "saluting face",
+     
