@@ -308,4 +308,24 @@
         "emoji_version": "5.0"
       },
       {
-        "emoji": 
+        "emoji": "😐",
+        "skin_tone_support": false,
+        "name": "neutral face",
+        "slug": "neutral_face",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "😑",
+        "skin_tone_support": false,
+        "name": "expressionless face",
+        "slug": "expressionless_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "😶",
+        "skin_tone_support": false,
+        "name": "face without mouth",
+        "slug": "face_without_mouth",
+        "un
