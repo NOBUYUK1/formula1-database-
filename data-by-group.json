@@ -287,4 +287,25 @@
         "emoji": "🫡",
         "skin_tone_support": false,
         "name": "saluting face",
-     
+        "slug": "saluting_face",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🤐",
+        "skin_tone_support": false,
+        "name": "zipper-mouth face",
+        "slug": "zipper_mouth_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🤨",
+        "skin_tone_support": false,
+        "name": "face with raised eyebrow",
+        "slug": "face_with_raised_eyebrow",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": 
