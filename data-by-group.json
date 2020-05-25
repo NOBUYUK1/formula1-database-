@@ -350,4 +350,26 @@
       {
         "emoji": "😏",
         "skin_tone_support": false,
-        
+        "name": "smirking face",
+        "slug": "smirking_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😒",
+        "skin_tone_support": false,
+        "name": "unamused face",
+        "slug": "unamused_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🙄",
+        "skin_tone_support": false,
+        "name": "face with rolling eyes",
+        "slug": "face_with_rolling_eyes",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "em
