@@ -328,4 +328,26 @@
         "skin_tone_support": false,
         "name": "face without mouth",
         "slug": "face_without_mouth",
-        "un
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🫥",
+        "skin_tone_support": false,
+        "name": "dotted line face",
+        "slug": "dotted_line_face",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "😶‍🌫️",
+        "skin_tone_support": false,
+        "name": "face in clouds",
+        "slug": "face_in_clouds",
+        "unicode_version": "13.1",
+        "emoji_version": "13.1"
+      },
+      {
+        "emoji": "😏",
+        "skin_tone_support": false,
+        
