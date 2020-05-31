@@ -415,4 +415,25 @@
         "emoji": "😔",
         "skin_tone_support": false,
         "name": "pensive face",
-        "slu
+        "slug": "pensive_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😪",
+        "skin_tone_support": false,
+        "name": "sleepy face",
+        "slug": "sleepy_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤤",
+        "skin_tone_support": false,
+        "name": "drooling face",
+        "slug": "drooling_face",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "😴"
