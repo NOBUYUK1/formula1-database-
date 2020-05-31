@@ -372,4 +372,24 @@
         "emoji_version": "1.0"
       },
       {
-        "em
+        "emoji": "😬",
+        "skin_tone_support": false,
+        "name": "grimacing face",
+        "slug": "grimacing_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "😮‍💨",
+        "skin_tone_support": false,
+        "name": "face exhaling",
+        "slug": "face_exhaling",
+        "unicode_version": "13.1",
+        "emoji_version": "13.1"
+      },
+      {
+        "emoji": "🤥",
+        "skin_tone_support": false,
+        "name": "lying face",
+        "slug": "lying_face",
+        "unicode_version"
