@@ -456,4 +456,26 @@
         "skin_tone_support": false,
         "name": "face with thermometer",
         "slug": "face_with_thermometer",
-        "un
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🤕",
+        "skin_tone_support": false,
+        "name": "face with head-bandage",
+        "slug": "face_with_head_bandage",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🤢",
+        "skin_tone_support": false,
+        "name": "nauseated face",
+        "slug": "nauseated_face",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🤮",
+        "skin_tone_support": false,
+        "nam
