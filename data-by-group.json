@@ -478,4 +478,27 @@
       {
         "emoji": "🤮",
         "skin_tone_support": false,
-        "nam
+        "name": "face vomiting",
+        "slug": "face_vomiting",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🤧",
+        "skin_tone_support": false,
+        "name": "sneezing face",
+        "slug": "sneezing_face",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🥵",
+        "skin_tone_support": false,
+        "name": "hot face",
+        "slug": "hot_face",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🥶",
+        
