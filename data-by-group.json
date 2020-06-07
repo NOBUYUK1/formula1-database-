@@ -436,4 +436,24 @@
         "emoji_version": "3.0"
       },
       {
-        "emoji": "😴"
+        "emoji": "😴",
+        "skin_tone_support": false,
+        "name": "sleeping face",
+        "slug": "sleeping_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "😷",
+        "skin_tone_support": false,
+        "name": "face with medical mask",
+        "slug": "face_with_medical_mask",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤒",
+        "skin_tone_support": false,
+        "name": "face with thermometer",
+        "slug": "face_with_thermometer",
+        "un
