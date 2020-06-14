@@ -520,4 +520,25 @@
         "skin_tone_support": false,
         "name": "face with crossed-out eyes",
         "slug": "face_with_crossed_out_eyes",
-        "unicode_v
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😵‍💫",
+        "skin_tone_support": false,
+        "name": "face with spiral eyes",
+        "slug": "face_with_spiral_eyes",
+        "unicode_version": "13.1",
+        "emoji_version": "13.1"
+      },
+      {
+        "emoji": "🤯",
+        "skin_tone_support": false,
+        "name": "exploding head",
+        "slug": "exploding_head",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🤠",
+        "skin_tone_support": false,
