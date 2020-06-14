@@ -501,4 +501,23 @@
       },
       {
         "emoji": "🥶",
-        
+        "skin_tone_support": false,
+        "name": "cold face",
+        "slug": "cold_face",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🥴",
+        "skin_tone_support": false,
+        "name": "woozy face",
+        "slug": "woozy_face",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "😵",
+        "skin_tone_support": false,
+        "name": "face with crossed-out eyes",
+        "slug": "face_with_crossed_out_eyes",
+        "unicode_v
