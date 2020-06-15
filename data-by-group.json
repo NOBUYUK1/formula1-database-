@@ -542,3 +542,23 @@
       {
         "emoji": "🤠",
         "skin_tone_support": false,
+        "name": "cowboy hat face",
+        "slug": "cowboy_hat_face",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🥳",
+        "skin_tone_support": false,
+        "name": "partying face",
+        "slug": "partying_face",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🥸",
+        "skin_tone_support": false,
+        "name": "disguised face",
+        "slug": "disguised_face",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
