@@ -562,3 +562,25 @@
         "slug": "disguised_face",
         "unicode_version": "13.0",
         "emoji_version": "13.0"
+      },
+      {
+        "emoji": "😎",
+        "skin_tone_support": false,
+        "name": "smiling face with sunglasses",
+        "slug": "smiling_face_with_sunglasses",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🤓",
+        "skin_tone_support": false,
+        "name": "nerd face",
+        "slug": "nerd_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🧐",
+        "skin_tone_support": false,
+        "name": "face with monocle",
+        "slug": "face_
