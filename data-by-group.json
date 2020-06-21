@@ -624,4 +624,25 @@
         "skin_tone_support": false,
         "name": "frowning face",
         "slug": "frowning_face",
-        "unicode_ver
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "😮",
+        "skin_tone_support": false,
+        "name": "face with open mouth",
+        "slug": "face_with_open_mouth",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "😯",
+        "skin_tone_support": false,
+        "name": "hushed face",
+        "slug": "hushed_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "😲",
+        "skin_tone_support
