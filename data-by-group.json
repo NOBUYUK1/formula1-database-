@@ -605,4 +605,23 @@
       },
       {
         "emoji": "😟",
- 
+        "skin_tone_support": false,
+        "name": "worried face",
+        "slug": "worried_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🙁",
+        "skin_tone_support": false,
+        "name": "slightly frowning face",
+        "slug": "slightly_frowning_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "☹️",
+        "skin_tone_support": false,
+        "name": "frowning face",
+        "slug": "frowning_face",
+        "unicode_ver
