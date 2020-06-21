@@ -583,4 +583,26 @@
         "emoji": "🧐",
         "skin_tone_support": false,
         "name": "face with monocle",
-        "slug": "face_
+        "slug": "face_with_monocle",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "😕",
+        "skin_tone_support": false,
+        "name": "confused face",
+        "slug": "confused_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🫤",
+        "skin_tone_support": false,
+        "name": "face with diagonal mouth",
+        "slug": "face_with_diagonal_mouth",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "😟",
+ 
