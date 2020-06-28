@@ -686,4 +686,23 @@
       {
         "emoji": "😧",
         "skin_tone_support": false,
-        "name": "anguished
+        "name": "anguished face",
+        "slug": "anguished_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "😨",
+        "skin_tone_support": false,
+        "name": "fearful face",
+        "slug": "fearful_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😰",
+        "skin_tone_support": false,
+        "name": "anxious face with sweat",
+        "slug": "anxious_face_with_sweat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
