@@ -668,4 +668,22 @@
         "emoji_version": "11.0"
       },
       {
-        "emoji": 
+        "emoji": "🥹",
+        "skin_tone_support": false,
+        "name": "face holding back tears",
+        "slug": "face_holding_back_tears",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "😦",
+        "skin_tone_support": false,
+        "name": "frowning face with open mouth",
+        "slug": "frowning_face_with_open_mouth",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "😧",
+        "skin_tone_support": false,
+        "name": "anguished
