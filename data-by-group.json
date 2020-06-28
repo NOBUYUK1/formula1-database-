@@ -645,4 +645,27 @@
       },
       {
         "emoji": "😲",
-        "skin_tone_support
+        "skin_tone_support": false,
+        "name": "astonished face",
+        "slug": "astonished_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😳",
+        "skin_tone_support": false,
+        "name": "flushed face",
+        "slug": "flushed_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥺",
+        "skin_tone_support": false,
+        "name": "pleading face",
+        "slug": "pleading_face",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": 
