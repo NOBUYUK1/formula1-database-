@@ -727,4 +727,26 @@
         "emoji": "😭",
         "skin_tone_support": false,
         "name": "loudly crying face",
-        "slug": "lo
+        "slug": "loudly_crying_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😱",
+        "skin_tone_support": false,
+        "name": "face screaming in fear",
+        "slug": "face_screaming_in_fear",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😖",
+        "skin_tone_support": false,
+        "name": "confounded face",
+        "slug": "confounded_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😣",
+        "s
