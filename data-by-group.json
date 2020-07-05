@@ -706,3 +706,25 @@
         "slug": "anxious_face_with_sweat",
         "unicode_version": "0.6",
         "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😥",
+        "skin_tone_support": false,
+        "name": "sad but relieved face",
+        "slug": "sad_but_relieved_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😢",
+        "skin_tone_support": false,
+        "name": "crying face",
+        "slug": "crying_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😭",
+        "skin_tone_support": false,
+        "name": "loudly crying face",
+        "slug": "lo
