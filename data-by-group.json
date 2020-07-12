@@ -811,4 +811,24 @@
         "unicode_version": "0.6",
         "emoji_version": "0.6"
       },
- 
+      {
+        "emoji": "😠",
+        "skin_tone_support": false,
+        "name": "angry face",
+        "slug": "angry_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤬",
+        "skin_tone_support": false,
+        "name": "face with symbols on mouth",
+        "slug": "face_with_symbols_on_mouth",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "😈",
+        "skin_tone_support": false,
+        "name": "smiling face with horns",
+        "slug": "smiling_face_with_horns"
