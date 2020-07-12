@@ -790,4 +790,25 @@
       {
         "emoji": "🥱",
         "skin_tone_support": false,
-        "name": "ya
+        "name": "yawning face",
+        "slug": "yawning_face",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "😤",
+        "skin_tone_support": false,
+        "name": "face with steam from nose",
+        "slug": "face_with_steam_from_nose",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😡",
+        "skin_tone_support": false,
+        "name": "enraged face",
+        "slug": "enraged_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+ 
