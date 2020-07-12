@@ -768,4 +768,26 @@
         "skin_tone_support": false,
         "name": "downcast face with sweat",
         "slug": "downcast_face_with_sweat",
-        "unicode_version
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😩",
+        "skin_tone_support": false,
+        "name": "weary face",
+        "slug": "weary_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😫",
+        "skin_tone_support": false,
+        "name": "tired face",
+        "slug": "tired_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥱",
+        "skin_tone_support": false,
+        "name": "ya
