@@ -920,4 +920,25 @@
         "skin_tone_support": false,
         "name": "robot",
         "slug": "robot",
- 
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "😺",
+        "skin_tone_support": false,
+        "name": "grinning cat",
+        "slug": "grinning_cat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😸",
+        "skin_tone_support": false,
+        "name": "grinning cat with smiling eyes",
+        "slug": "grinning_cat_with_smiling_eyes",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😹",
+        "skin
