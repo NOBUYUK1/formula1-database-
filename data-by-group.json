@@ -941,4 +941,21 @@
       },
       {
         "emoji": "😹",
-        "skin
+        "skin_tone_support": false,
+        "name": "cat with tears of joy",
+        "slug": "cat_with_tears_of_joy",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😻",
+        "skin_tone_support": false,
+        "name": "smiling cat with heart-eyes",
+        "slug": "smiling_cat_with_heart_eyes",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😼",
+        "skin_tone_support": false,
+        "name": "cat with wry smile"
