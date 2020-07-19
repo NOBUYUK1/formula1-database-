@@ -896,4 +896,28 @@
         "skin_tone_support": false,
         "name": "ghost",
         "slug": "ghost",
-        "unicode_ve
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👽",
+        "skin_tone_support": false,
+        "name": "alien",
+        "slug": "alien",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👾",
+        "skin_tone_support": false,
+        "name": "alien monster",
+        "slug": "alien_monster",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤖",
+        "skin_tone_support": false,
+        "name": "robot",
+        "slug": "robot",
+ 
