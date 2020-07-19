@@ -874,4 +874,26 @@
         "slug": "clown_face",
         "unicode_version": "3.0",
         "emoji_version": "3.0"
-    
+      },
+      {
+        "emoji": "👹",
+        "skin_tone_support": false,
+        "name": "ogre",
+        "slug": "ogre",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👺",
+        "skin_tone_support": false,
+        "name": "goblin",
+        "slug": "goblin",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👻",
+        "skin_tone_support": false,
+        "name": "ghost",
+        "slug": "ghost",
+        "unicode_ve
