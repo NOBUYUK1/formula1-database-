@@ -958,4 +958,26 @@
       {
         "emoji": "😼",
         "skin_tone_support": false,
-        "name": "cat with wry smile"
+        "name": "cat with wry smile",
+        "slug": "cat_with_wry_smile",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😽",
+        "skin_tone_support": false,
+        "name": "kissing cat",
+        "slug": "kissing_cat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🙀",
+        "skin_tone_support": false,
+        "name": "weary cat",
+        "slug": "weary_cat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": 
