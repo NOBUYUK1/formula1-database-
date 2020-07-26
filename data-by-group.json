@@ -980,4 +980,24 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji": 
+        "emoji": "😿",
+        "skin_tone_support": false,
+        "name": "crying cat",
+        "slug": "crying_cat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "😾",
+        "skin_tone_support": false,
+        "name": "pouting cat",
+        "slug": "pouting_cat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🙈",
+        "skin_tone_support": false,
+        "name": "see-no-evil monkey",
+        "slug": "see_no_evil_monkey",
+        "unicode_version": "
