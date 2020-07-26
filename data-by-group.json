@@ -1000,4 +1000,27 @@
         "skin_tone_support": false,
         "name": "see-no-evil monkey",
         "slug": "see_no_evil_monkey",
-        "unicode_version": "
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🙉",
+        "skin_tone_support": false,
+        "name": "hear-no-evil monkey",
+        "slug": "hear_no_evil_monkey",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🙊",
+        "skin_tone_support": false,
+        "name": "speak-no-evil monkey",
+        "slug": "speak_no_evil_monkey",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💌",
+        "skin_tone_support": false,
+        "name": "love letter",
+        "slug": "love_letter",
