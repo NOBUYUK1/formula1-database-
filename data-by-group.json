@@ -1046,4 +1046,27 @@
       {
         "emoji": "💖",
         "skin_tone_support": false,
-        "name": "sparkling 
+        "name": "sparkling heart",
+        "slug": "sparkling_heart",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💗",
+        "skin_tone_support": false,
+        "name": "growing heart",
+        "slug": "growing_heart",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💓",
+        "skin_tone_support": false,
+        "name": "beating heart",
+        "slug": "beating_heart",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💞",
+        "sk
