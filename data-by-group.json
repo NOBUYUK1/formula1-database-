@@ -1069,4 +1069,23 @@
       },
       {
         "emoji": "💞",
-        "sk
+        "skin_tone_support": false,
+        "name": "revolving hearts",
+        "slug": "revolving_hearts",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💕",
+        "skin_tone_support": false,
+        "name": "two hearts",
+        "slug": "two_hearts",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💟",
+        "skin_tone_support": false,
+        "name": "heart decoration",
+        "slug": "heart_decoration",
+        "unicode_version": "0
