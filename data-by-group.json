@@ -1024,3 +1024,26 @@
         "skin_tone_support": false,
         "name": "love letter",
         "slug": "love_letter",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💘",
+        "skin_tone_support": false,
+        "name": "heart with arrow",
+        "slug": "heart_with_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💝",
+        "skin_tone_support": false,
+        "name": "heart with ribbon",
+        "slug": "heart_with_ribbon",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💖",
+        "skin_tone_support": false,
+        "name": "sparkling 
