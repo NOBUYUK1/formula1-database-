@@ -1088,4 +1088,26 @@
         "skin_tone_support": false,
         "name": "heart decoration",
         "slug": "heart_decoration",
-        "unicode_version": "0
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "❣️",
+        "skin_tone_support": false,
+        "name": "heart exclamation",
+        "slug": "heart_exclamation",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "💔",
+        "skin_tone_support": false,
+        "name": "broken heart",
+        "slug": "broken_heart",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "❤️‍🔥",
+        "skin_tone_support": false,
+        "name": "heart on
