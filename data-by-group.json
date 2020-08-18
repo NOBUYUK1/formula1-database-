@@ -1133,4 +1133,24 @@
       },
       {
         "emoji": "🩷",
-   
+        "skin_tone_support": false,
+        "name": "pink heart",
+        "slug": "pink_heart",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "🧡",
+        "skin_tone_support": false,
+        "name": "orange heart",
+        "slug": "orange_heart",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "💛",
+        "skin_tone_support": false,
+        "name": "yellow heart",
+        "slug": "yellow_heart",
+        "unicode_version": "0.6",
+        "emoji_ve
