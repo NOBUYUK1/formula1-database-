@@ -1110,4 +1110,27 @@
       {
         "emoji": "❤️‍🔥",
         "skin_tone_support": false,
-        "name": "heart on
+        "name": "heart on fire",
+        "slug": "heart_on_fire",
+        "unicode_version": "13.1",
+        "emoji_version": "13.1"
+      },
+      {
+        "emoji": "❤️‍🩹",
+        "skin_tone_support": false,
+        "name": "mending heart",
+        "slug": "mending_heart",
+        "unicode_version": "13.1",
+        "emoji_version": "13.1"
+      },
+      {
+        "emoji": "❤️",
+        "skin_tone_support": false,
+        "name": "red heart",
+        "slug": "red_heart",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🩷",
+   
