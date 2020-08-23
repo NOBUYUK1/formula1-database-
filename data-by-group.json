@@ -1153,4 +1153,26 @@
         "name": "yellow heart",
         "slug": "yellow_heart",
         "unicode_version": "0.6",
-        "emoji_ve
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💚",
+        "skin_tone_support": false,
+        "name": "green heart",
+        "slug": "green_heart",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💙",
+        "skin_tone_support": false,
+        "name": "blue heart",
+        "slug": "blue_heart",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🩵",
+        "skin_tone_support": false,
+        "name": "light blue heart",
+        "slug": "light_blue_hear
