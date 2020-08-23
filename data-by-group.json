@@ -1175,4 +1175,26 @@
         "emoji": "🩵",
         "skin_tone_support": false,
         "name": "light blue heart",
-        "slug": "light_blue_hear
+        "slug": "light_blue_heart",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "💜",
+        "skin_tone_support": false,
+        "name": "purple heart",
+        "slug": "purple_heart",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤎",
+        "skin_tone_support": false,
+        "name": "brown heart",
+        "slug": "brown_heart",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🖤",
+        "skin
