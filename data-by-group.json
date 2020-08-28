@@ -1220,4 +1220,27 @@
         "emoji_version": "12.0"
       },
       {
+        "emoji": "💋",
+        "skin_tone_support": false,
+        "name": "kiss mark",
+        "slug": "kiss_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💯",
+        "skin_tone_support": false,
+        "name": "hundred points",
+        "slug": "hundred_points",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💢",
+        "skin_tone_support": false,
+        "name": "anger symbol",
+        "slug": "anger_symbol",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
    
