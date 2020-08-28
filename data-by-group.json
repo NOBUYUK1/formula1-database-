@@ -1197,4 +1197,27 @@
       },
       {
         "emoji": "🖤",
-        "skin
+        "skin_tone_support": false,
+        "name": "black heart",
+        "slug": "black_heart",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🩶",
+        "skin_tone_support": false,
+        "name": "grey heart",
+        "slug": "grey_heart",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "🤍",
+        "skin_tone_support": false,
+        "name": "white heart",
+        "slug": "white_heart",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+   
