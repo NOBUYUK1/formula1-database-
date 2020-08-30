@@ -1289,4 +1289,26 @@
         "name": "speech balloon",
         "slug": "speech_balloon",
         "unicode_version": "0.6",
-        "
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👁️‍🗨️",
+        "skin_tone_support": false,
+        "name": "eye in speech bubble",
+        "slug": "eye_in_speech_bubble",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🗨️",
+        "skin_tone_support": false,
+        "name": "left speech bubble",
+        "slug": "left_speech_bubble",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🗯️",
+        "skin_tone_support": false,
+        "name": "right anger bubble",
+        "slug": "right_anger_
