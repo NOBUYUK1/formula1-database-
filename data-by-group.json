@@ -1265,4 +1265,28 @@
         "name": "sweat droplets",
         "slug": "sweat_droplets",
         "unicode_version": "0.6",
-        "emoji_version
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💨",
+        "skin_tone_support": false,
+        "name": "dashing away",
+        "slug": "dashing_away",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕳️",
+        "skin_tone_support": false,
+        "name": "hole",
+        "slug": "hole",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "💬",
+        "skin_tone_support": false,
+        "name": "speech balloon",
+        "slug": "speech_balloon",
+        "unicode_version": "0.6",
+        "
