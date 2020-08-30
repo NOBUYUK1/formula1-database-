@@ -1243,4 +1243,26 @@
         "unicode_version": "0.6",
         "emoji_version": "0.6"
       },
-   
+      {
+        "emoji": "💥",
+        "skin_tone_support": false,
+        "name": "collision",
+        "slug": "collision",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💫",
+        "skin_tone_support": false,
+        "name": "dizzy",
+        "slug": "dizzy",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💦",
+        "skin_tone_support": false,
+        "name": "sweat droplets",
+        "slug": "sweat_droplets",
+        "unicode_version": "0.6",
+        "emoji_version
