@@ -1311,4 +1311,30 @@
         "emoji": "🗯️",
         "skin_tone_support": false,
         "name": "right anger bubble",
-        "slug": "right_anger_
+        "slug": "right_anger_bubble",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "💭",
+        "skin_tone_support": false,
+        "name": "thought balloon",
+        "slug": "thought_balloon",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "💤",
+        "skin_tone_support": false,
+        "name": "ZZZ",
+        "slug": "zzz",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      }
+    ]
+  },
+  {
+    "name": "People & Body",
+    "slug": "people_body",
+    "emojis": [
+ 
