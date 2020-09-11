@@ -1337,4 +1337,24 @@
     "name": "People & Body",
     "slug": "people_body",
     "emojis": [
- 
+      {
+        "emoji": "👋",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "waving hand",
+        "slug": "waving_hand",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤚",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
+        "name": "raised back of hand",
+        "slug": "raised_back_of_hand",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🖐️",
+        "s
