@@ -1357,4 +1357,23 @@
       },
       {
         "emoji": "🖐️",
-        "s
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "hand with fingers splayed",
+        "slug": "hand_with_fingers_splayed",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "✋",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "raised hand",
+        "slug": "raised_hand",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🖖",
+        "skin_tone_support": true,
+        "skin_to
