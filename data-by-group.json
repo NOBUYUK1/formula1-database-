@@ -1415,4 +1415,22 @@
         "skin_tone_support_unicode_version": "14.0",
         "name": "palm up hand",
         "slug": "palm_up_hand",
-        "un
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🫷",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "15.0",
+        "name": "leftwards pushing hand",
+        "slug": "leftwards_pushing_hand",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "🫸",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "15.0",
+        "name": "rightwards pushing hand",
+        "slug": "rightwards_pushing_hand",
+      
