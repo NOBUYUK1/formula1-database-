@@ -1396,4 +1396,23 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "14.0",
         "name": "leftwards hand",
-        "sl
+        "slug": "leftwards_hand",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🫳",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "14.0",
+        "name": "palm down hand",
+        "slug": "palm_down_hand",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🫴",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "14.0",
+        "name": "palm up hand",
+        "slug": "palm_up_hand",
+        "un
