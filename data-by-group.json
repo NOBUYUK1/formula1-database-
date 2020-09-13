@@ -1433,4 +1433,23 @@
         "skin_tone_support_unicode_version": "15.0",
         "name": "rightwards pushing hand",
         "slug": "rightwards_pushing_hand",
-      
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "👌",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "OK hand",
+        "slug": "ok_hand",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤌",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.0",
+        "name": "pinched fingers",
+        "slug": "pinched_fingers",
+        "unicode_version": "13.0",
+     
