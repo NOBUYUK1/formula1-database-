@@ -1488,4 +1488,25 @@
         "name": "hand with index finger and thumb crossed",
         "slug": "hand_with_index_finger_and_thumb_crossed",
         "unicode_version": "14.0",
-        "emoji_version": "14.
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🤟",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "love-you gesture",
+        "slug": "love_you_gesture",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🤘",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "sign of the horns",
+        "slug": "sign_of_the_horns",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "e
