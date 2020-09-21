@@ -1527,4 +1527,22 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji":
+        "emoji": "👉",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "backhand index pointing right",
+        "slug": "backhand_index_pointing_right",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👆",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "backhand index pointing up",
+        "slug": "backhand_index_pointing_up",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🖕"
