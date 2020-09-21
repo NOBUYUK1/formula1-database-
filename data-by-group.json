@@ -1509,4 +1509,22 @@
         "emoji_version": "1.0"
       },
       {
-        "e
+        "emoji": "🤙",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
+        "name": "call me hand",
+        "slug": "call_me_hand",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "👈",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "backhand index pointing left",
+        "slug": "backhand_index_pointing_left",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji":
