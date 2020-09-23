@@ -1563,4 +1563,22 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji": 
+        "emoji": "☝️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "index pointing up",
+        "slug": "index_pointing_up",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🫵",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "14.0",
+        "name": "index pointing at the viewer",
+        "slug": "index_pointing_at_the_viewer",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "e
