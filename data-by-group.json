@@ -1545,4 +1545,22 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji": "🖕"
+        "emoji": "🖕",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "middle finger",
+        "slug": "middle_finger",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "👇",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "backhand index pointing down",
+        "slug": "backhand_index_pointing_down",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": 
