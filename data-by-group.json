@@ -1581,4 +1581,23 @@
         "emoji_version": "14.0"
       },
       {
-        "e
+        "emoji": "👍",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "thumbs up",
+        "slug": "thumbs_up",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👎",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "thumbs down",
+        "slug": "thumbs_down",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "✊",
+        "skin_tone_support": true,
