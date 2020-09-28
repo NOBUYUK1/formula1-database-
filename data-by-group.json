@@ -1620,4 +1620,22 @@
         "emoji": "🤛",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "3.0",
-        "nam
+        "name": "left-facing fist",
+        "slug": "left_facing_fist",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🤜",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
+        "name": "right-facing fist",
+        "slug": "right_facing_fist",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "👏",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "clapping hand
