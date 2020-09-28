@@ -1601,3 +1601,23 @@
       {
         "emoji": "✊",
         "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "raised fist",
+        "slug": "raised_fist",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👊",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "oncoming fist",
+        "slug": "oncoming_fist",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤛",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
+        "nam
