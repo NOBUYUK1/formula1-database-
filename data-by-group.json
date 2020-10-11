@@ -1678,3 +1678,25 @@
         "slug": "palms_up_together",
         "unicode_version": "5.0",
         "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🤝",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "14.0",
+        "name": "handshake",
+        "slug": "handshake",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🙏",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "folded hands",
+        "slug": "folded_hands",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "✍️",
+       
