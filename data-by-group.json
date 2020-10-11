@@ -1658,4 +1658,23 @@
         "skin_tone_support_unicode_version": "14.0",
         "name": "heart hands",
         "slug": "heart_hands",
-        "unicode
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "👐",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "open hands",
+        "slug": "open_hands",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤲",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "palms up together",
+        "slug": "palms_up_together",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
