@@ -1699,4 +1699,23 @@
       },
       {
         "emoji": "✍️",
-       
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "writing hand",
+        "slug": "writing_hand",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "💅",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "nail polish",
+        "slug": "nail_polish",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤳",
+        "skin_tone_support": true,
+        "skin
