@@ -1638,4 +1638,24 @@
         "emoji": "👏",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "1.0",
-        "name": "clapping hand
+        "name": "clapping hands",
+        "slug": "clapping_hands",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🙌",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "raising hands",
+        "slug": "raising_hands",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🫶",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "14.0",
+        "name": "heart hands",
+        "slug": "heart_hands",
+        "unicode
