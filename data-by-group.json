@@ -1718,4 +1718,22 @@
       {
         "emoji": "🤳",
         "skin_tone_support": true,
-        "skin
+        "skin_tone_support_unicode_version": "3.0",
+        "name": "selfie",
+        "slug": "selfie",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "💪",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "flexed biceps",
+        "slug": "flexed_biceps",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦾",
+        "skin_tone_support": false,
+        "name": "mechanical ar
