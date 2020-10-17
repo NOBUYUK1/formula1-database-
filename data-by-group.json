@@ -1736,4 +1736,25 @@
       {
         "emoji": "🦾",
         "skin_tone_support": false,
-        "name": "mechanical ar
+        "name": "mechanical arm",
+        "slug": "mechanical_arm",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🦿",
+        "skin_tone_support": false,
+        "name": "mechanical leg",
+        "slug": "mechanical_leg",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🦵",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "leg",
+        "slug": "leg",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      }
