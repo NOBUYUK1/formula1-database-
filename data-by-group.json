@@ -1757,4 +1757,26 @@
         "slug": "leg",
         "unicode_version": "11.0",
         "emoji_version": "11.0"
-      }
+      },
+      {
+        "emoji": "🦶",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "foot",
+        "slug": "foot",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "👂",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "ear",
+        "slug": "ear",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦻",
+        "skin_tone_support": true,
+        "skin_tone_support_unic
