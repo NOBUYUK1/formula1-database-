@@ -1799,4 +1799,27 @@
         "skin_tone_support": false,
         "name": "brain",
         "slug": "brain",
-        "unicode_v
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🫀",
+        "skin_tone_support": false,
+        "name": "anatomical heart",
+        "slug": "anatomical_heart",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🫁",
+        "skin_tone_support": false,
+        "name": "lungs",
+        "slug": "lungs",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🦷",
+        "skin_tone_support": false,
+        "name": "tooth",
+        "slug": "tooth
