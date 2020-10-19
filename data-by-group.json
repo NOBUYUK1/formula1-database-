@@ -1822,4 +1822,27 @@
         "emoji": "🦷",
         "skin_tone_support": false,
         "name": "tooth",
-        "slug": "tooth
+        "slug": "tooth",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🦴",
+        "skin_tone_support": false,
+        "name": "bone",
+        "slug": "bone",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "👀",
+        "skin_tone_support": false,
+        "name": "eyes",
+        "slug": "eyes",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👁️",
+        "skin_tone_support": false,
+   
