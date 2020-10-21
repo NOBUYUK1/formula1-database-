@@ -1845,4 +1845,27 @@
       {
         "emoji": "👁️",
         "skin_tone_support": false,
-   
+        "name": "eye",
+        "slug": "eye",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "👅",
+        "skin_tone_support": false,
+        "name": "tongue",
+        "slug": "tongue",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👄",
+        "skin_tone_support": false,
+        "name": "mouth",
+        "slug": "mouth",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🫦",
+        "skin_tone_supp
