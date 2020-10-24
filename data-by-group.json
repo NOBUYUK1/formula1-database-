@@ -1868,4 +1868,24 @@
       },
       {
         "emoji": "🫦",
-        "skin_tone_supp
+        "skin_tone_support": false,
+        "name": "biting lip",
+        "slug": "biting_lip",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "👶",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "baby",
+        "slug": "baby",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🧒",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "child",
+        "s
