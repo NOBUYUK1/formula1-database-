@@ -1888,4 +1888,27 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "5.0",
         "name": "child",
-        "s
+        "slug": "child",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "👦",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "boy",
+        "slug": "boy",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👧",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "girl",
+        "slug": "girl",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+       
