@@ -1911,4 +1911,24 @@
         "emoji_version": "0.6"
       },
       {
-       
+        "emoji": "🧑",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "person",
+        "slug": "person",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "👱",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "person blond hair",
+        "slug": "person_blond_hair",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👨",
+        "skin_tone_support": true,
+        
