@@ -1931,4 +1931,23 @@
       {
         "emoji": "👨",
         "skin_tone_support": true,
-        
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "man",
+        "slug": "man",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🧔",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "person beard",
+        "slug": "person_beard",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧔‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.1",
+        "name": 
