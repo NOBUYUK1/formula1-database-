@@ -1950,4 +1950,24 @@
         "emoji": "🧔‍♂️",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "13.1",
-        "name": 
+        "name": "man beard",
+        "slug": "man_beard",
+        "unicode_version": "13.1",
+        "emoji_version": "13.1"
+      },
+      {
+        "emoji": "🧔‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.1",
+        "name": "woman beard",
+        "slug": "woman_beard",
+        "unicode_version": "13.1",
+        "emoji_version": "13.1"
+      },
+      {
+        "emoji": "👨‍🦰",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "man red hair",
+        "slug": "man_red_hair",
+    
