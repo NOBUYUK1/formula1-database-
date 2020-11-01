@@ -1990,4 +1990,26 @@
         "slug": "man_white_hair",
         "unicode_version": "11.0",
         "emoji_version": "11.0"
-     
+      },
+      {
+        "emoji": "👨‍🦲",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "man bald",
+        "slug": "man_bald",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "👩",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "woman",
+        "slug": "woman",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👩‍🦰",
+        "skin_tone_support": true,
+        
