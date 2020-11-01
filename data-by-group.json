@@ -1970,4 +1970,24 @@
         "skin_tone_support_unicode_version": "11.0",
         "name": "man red hair",
         "slug": "man_red_hair",
-    
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "👨‍🦱",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "man curly hair",
+        "slug": "man_curly_hair",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "👨‍🦳",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "man white hair",
+        "slug": "man_white_hair",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+     
