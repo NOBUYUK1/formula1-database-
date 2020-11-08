@@ -2067,4 +2067,23 @@
         "emoji": "👩‍🦲",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "11.0",
-       
+        "name": "woman bald",
+        "slug": "woman_bald",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🧑‍🦲",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.1",
+        "name": "person bald",
+        "slug": "person_bald",
+        "unicode_version": "12.1",
+        "emoji_version": "12.1"
+      },
+      {
+        "emoji": "👱‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman blond hair",
+        "slug": "woman_blond_hair",
