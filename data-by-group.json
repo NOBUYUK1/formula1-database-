@@ -2031,4 +2031,22 @@
         "emoji": "👩‍🦱",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "11.0",
- 
+        "name": "woman curly hair",
+        "slug": "woman_curly_hair",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🧑‍🦱",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.1",
+        "name": "person curly hair",
+        "slug": "person_curly_hair",
+        "unicode_version": "12.1",
+        "emoji_version": "12.1"
+      },
+      {
+        "emoji": "👩‍🦳",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "w
