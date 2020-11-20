@@ -2165,4 +2165,23 @@
       {
         "emoji": "🙎‍♂️",
         "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man pouting",
+        "slug": "man_pouting",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🙎‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman pouting",
+        "slug": "woman_pouting",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🙅",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
       
