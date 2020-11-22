@@ -2219,4 +2219,24 @@
       {
         "emoji": "🙆‍♂️",
         "skin_tone_support": true,
-        "skin_tone_support_unico
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man gesturing OK",
+        "slug": "man_gesturing_ok",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🙆‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman gesturing OK",
+        "slug": "woman_gesturing_ok",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "💁",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "person tipping hand",
+        "slug"
