@@ -2258,3 +2258,22 @@
         "skin_tone_support_unicode_version": "4.0",
         "name": "woman tipping hand",
         "slug": "woman_tipping_hand",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🙋",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "person raising hand",
+        "slug": "person_raising_hand",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🙋‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man raising hand",
+        "slug": "man_raising_hand",
+        "unicode_version"
