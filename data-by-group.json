@@ -2276,4 +2276,23 @@
         "skin_tone_support_unicode_version": "4.0",
         "name": "man raising hand",
         "slug": "man_raising_hand",
-        "unicode_version"
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🙋‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman raising hand",
+        "slug": "woman_raising_hand",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🧏",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.0",
+        "name": "deaf person",
+        "slug": "deaf_person",
+        "unicode_version": "12.0",
+        "emoji_version": "12.
