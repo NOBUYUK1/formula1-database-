@@ -2354,4 +2354,24 @@
       {
         "emoji": "🤦‍♂️",
         "skin_tone_support": true,
-        "skin_tone_support_unicode_version": "4.0
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man facepalming",
+        "slug": "man_facepalming",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤦‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman facepalming",
+        "slug": "woman_facepalming",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤷",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
+        "name": "person shrugging",
+  
