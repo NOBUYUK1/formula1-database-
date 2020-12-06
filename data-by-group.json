@@ -2374,4 +2374,22 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "3.0",
         "name": "person shrugging",
-  
+        "slug": "person_shrugging",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🤷‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man shrugging",
+        "slug": "man_shrugging",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤷‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman shrugging",
+        "slug": "woman_shrugging"
