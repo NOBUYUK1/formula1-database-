@@ -2431,3 +2431,25 @@
         "slug": "student",
         "unicode_version": "12.1",
         "emoji_version": "12.1"
+      },
+      {
+        "emoji": "👨‍🎓",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man student",
+        "slug": "man_student",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👩‍🎓",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman student",
+        "slug": "woman_student",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🧑‍🏫",
+        "skin_
