@@ -2471,4 +2471,25 @@
       {
         "emoji": "👩‍🏫",
         "skin_tone_support": true,
-        "skin_tone_support_unicode_version": "4.
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman teacher",
+        "slug": "woman_teacher",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🧑‍⚖️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.1",
+        "name": "judge",
+        "slug": "judge",
+        "unicode_version": "12.1",
+        "emoji_version": "12.1"
+      },
+      {
+        "emoji": "👨‍⚖️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man judge",
+        "slug": "man_judge",
+        "unicode_versi
