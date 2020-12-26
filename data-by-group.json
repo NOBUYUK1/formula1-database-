@@ -2627,4 +2627,26 @@
         "skin_tone_support_unicode_version": "4.0",
         "name": "man office worker",
         "slug": "man_office_worker",
-        "unicode_version": "4.
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👩‍💼",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman office worker",
+        "slug": "woman_office_worker",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🧑‍🔬",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.1",
+        "name": "scientist",
+        "slug": "scientist",
+        "unicode_version": "12.1",
+        "emoji_version": "12.1"
+      },
+      {
+       
