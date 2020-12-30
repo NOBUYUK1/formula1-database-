@@ -2705,4 +2705,23 @@
       {
         "emoji": "👨‍🎤",
         "skin_tone_support": true,
-        "skin_tone_support_unicod
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man singer",
+        "slug": "man_singer",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👩‍🎤",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman singer",
+        "slug": "woman_singer",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🧑‍🎨",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.1",
+        "name": "ar
