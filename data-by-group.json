@@ -2744,4 +2744,26 @@
         "skin_tone_support_unicode_version": "4.0",
         "name": "woman artist",
         "slug": "woman_artist",
-        "unicode_version":
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🧑‍✈️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.1",
+        "name": "pilot",
+        "slug": "pilot",
+        "unicode_version": "12.1",
+        "emoji_version": "12.1"
+      },
+      {
+        "emoji": "👨‍✈️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man pilot",
+        "slug": "man_pilot",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoj
