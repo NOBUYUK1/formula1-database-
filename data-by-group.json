@@ -2786,3 +2786,22 @@
       {
         "emoji": "👨‍🚀",
         "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man astronaut",
+        "slug": "man_astronaut",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👩‍🚀",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman astronaut",
+        "slug": "woman_astronaut",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🧑‍🚒",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_
