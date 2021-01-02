@@ -2823,4 +2823,24 @@
         "emoji": "👩‍🚒",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "4.0",
-        "name": "woman firef
+        "name": "woman firefighter",
+        "slug": "woman_firefighter",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👮",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "police officer",
+        "slug": "police_officer",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👮‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man police officer",
+        "slug": "man_police_officer",
+        "unicode
