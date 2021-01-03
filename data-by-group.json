@@ -2843,4 +2843,26 @@
         "skin_tone_support_unicode_version": "4.0",
         "name": "man police officer",
         "slug": "man_police_officer",
-        "unicode
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👮‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman police officer",
+        "slug": "woman_police_officer",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🕵️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "2.0",
+        "name": "detective",
+        "slug": "detective",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": 
