@@ -2865,4 +2865,24 @@
         "emoji_version": "0.7"
       },
       {
-        "emoji": 
+        "emoji": "🕵️‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man detective",
+        "slug": "man_detective",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🕵️‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman detective",
+        "slug": "woman_detective",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "💂",
+        "skin_tone_support": true,
+        "skin_tone_suppor
