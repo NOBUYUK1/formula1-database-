@@ -2924,4 +2924,21 @@
         "skin_tone_support_unicode_version": "1.0",
         "name": "construction worker",
         "slug": "construction_worker",
-        "unicode_version": "0
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👷‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man construction worker",
+        "slug": "man_construction_worker",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👷‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman construction worker",
+        "slug": "woman_construction_worke
