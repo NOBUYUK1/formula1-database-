@@ -2905,4 +2905,23 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "4.0",
         "name": "woman guard",
-        "slug": "w
+        "slug": "woman_guard",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🥷",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.0",
+        "name": "ninja",
+        "slug": "ninja",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "👷",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "construction worker",
+        "slug": "construction_worker",
+        "unicode_version": "0
