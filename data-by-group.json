@@ -2941,4 +2941,23 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "4.0",
         "name": "woman construction worker",
-        "slug": "woman_construction_worke
+        "slug": "woman_construction_worker",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🫅",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "14.0",
+        "name": "person with crown",
+        "slug": "person_with_crown",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🤴",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
+        "name": "prince",
+        "slug": "prince",
+        "unicode_version": 
