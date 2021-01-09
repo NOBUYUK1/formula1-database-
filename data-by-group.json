@@ -2981,4 +2981,24 @@
         "unicode_version": "0.6",
         "emoji_version": "0.6"
       },
-     
+      {
+        "emoji": "👳‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man wearing turban",
+        "slug": "man_wearing_turban",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👳‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman wearing turban",
+        "slug": "woman_wearing_turban",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👲",
+ 
