@@ -3001,4 +3001,21 @@
       },
       {
         "emoji": "👲",
- 
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "person with skullcap",
+        "slug": "person_with_skullcap",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🧕",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "woman with headscarf",
+        "slug": "woman_with_headscarf",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🤵"
