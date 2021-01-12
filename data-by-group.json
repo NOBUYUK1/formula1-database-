@@ -3018,4 +3018,23 @@
         "emoji_version": "5.0"
       },
       {
-        "emoji": "🤵"
+        "emoji": "🤵",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
+        "name": "person in tuxedo",
+        "slug": "person_in_tuxedo",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🤵‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.0",
+        "name": "man in tuxedo",
+        "slug": "man_in_tuxedo",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🤵‍♀️",
+        "skin_tone_supp
