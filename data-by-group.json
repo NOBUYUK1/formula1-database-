@@ -3056,4 +3056,23 @@
       {
         "emoji": "👰‍♂️",
         "skin_tone_support": true,
-        "skin_tone_support_unicode
+        "skin_tone_support_unicode_version": "13.0",
+        "name": "man with veil",
+        "slug": "man_with_veil",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "👰‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.0",
+        "name": "woman with veil",
+        "slug": "woman_with_veil",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🤰",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
+        "nam
