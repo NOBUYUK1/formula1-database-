@@ -3075,4 +3075,22 @@
         "emoji": "🤰",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "3.0",
-        "nam
+        "name": "pregnant woman",
+        "slug": "pregnant_woman",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🫃",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "14.0",
+        "name": "pregnant man",
+        "slug": "pregnant_man",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🫄",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "14.0",
+    
