@@ -3111,4 +3111,22 @@
         "emoji": "👩‍🍼",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "13.0",
-        "name"
+        "name": "woman feeding baby",
+        "slug": "woman_feeding_baby",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "👨‍🍼",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.0",
+        "name": "man feeding baby",
+        "slug": "man_feeding_baby",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🧑‍🍼",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.0",
+        "name": "person feeding baby
