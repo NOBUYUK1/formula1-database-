@@ -3129,4 +3129,24 @@
         "emoji": "🧑‍🍼",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "13.0",
-        "name": "person feeding baby
+        "name": "person feeding baby",
+        "slug": "person_feeding_baby",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "👼",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "baby angel",
+        "slug": "baby_angel",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎅",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "Santa Claus",
+        "slug": "santa_claus",
+     
