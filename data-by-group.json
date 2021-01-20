@@ -3167,4 +3167,22 @@
         "skin_tone_support_unicode_version": "13.0",
         "name": "mx claus",
         "slug": "mx_claus",
-      
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🦸",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "superhero",
+        "slug": "superhero",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🦸‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "man superhero",
+        "slug": "man_superhero",
+        "unicode
