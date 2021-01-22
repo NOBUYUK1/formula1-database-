@@ -3185,4 +3185,24 @@
         "skin_tone_support_unicode_version": "11.0",
         "name": "man superhero",
         "slug": "man_superhero",
-        "unicode
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🦸‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "woman superhero",
+        "slug": "woman_superhero",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🦹",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "11.0",
+        "name": "supervillain",
+        "slug": "supervillain",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+ 
