@@ -3225,4 +3225,24 @@
         "emoji_version": "11.0"
       },
       {
-        "emoji": "🧙"
+        "emoji": "🧙",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "mage",
+        "slug": "mage",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧙‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "man mage",
+        "slug": "man_mage",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧙‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0"
