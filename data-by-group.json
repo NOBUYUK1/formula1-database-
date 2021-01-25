@@ -3245,4 +3245,24 @@
       {
         "emoji": "🧙‍♀️",
         "skin_tone_support": true,
-        "skin_tone_support_unicode_version": "5.0"
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "woman mage",
+        "slug": "woman_mage",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧚",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "fairy",
+        "slug": "fairy",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧚‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "man fairy",
+        "slug": "m
