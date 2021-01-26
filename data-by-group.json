@@ -3284,4 +3284,24 @@
         "skin_tone_support_unicode_version": "5.0",
         "name": "vampire",
         "slug": "vampire",
- 
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧛‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "man vampire",
+        "slug": "man_vampire",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧛‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "woman vampire",
+        "slug": "woman_vampire",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+  
