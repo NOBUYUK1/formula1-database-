@@ -3325,4 +3325,26 @@
       },
       {
         "emoji": "🧜‍♀️",
-        "skin_tone_support":
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "mermaid",
+        "slug": "mermaid",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧝",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "elf",
+        "slug": "elf",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧝‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "man elf",
+        "slug": "man_elf",
+  
