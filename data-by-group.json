@@ -3347,4 +3347,26 @@
         "skin_tone_support_unicode_version": "5.0",
         "name": "man elf",
         "slug": "man_elf",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧝‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "woman elf",
+        "slug": "woman_elf",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧞",
+        "skin_tone_support": false,
+        "name": "genie",
+        "slug": "genie",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧞‍♂️",
   
