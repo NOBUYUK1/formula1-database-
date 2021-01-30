@@ -3388,4 +3388,27 @@
         "skin_tone_support": false,
         "name": "zombie",
         "slug": "zombie",
-        "unicod
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧟‍♂️",
+        "skin_tone_support": false,
+        "name": "man zombie",
+        "slug": "man_zombie",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧟‍♀️",
+        "skin_tone_support": false,
+        "name": "woman zombie",
+        "slug": "woman_zombie",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧌",
+        "skin_tone_support": false,
+        "name": "troll",
+ 
