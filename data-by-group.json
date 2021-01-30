@@ -3411,4 +3411,23 @@
         "emoji": "🧌",
         "skin_tone_support": false,
         "name": "troll",
- 
+        "slug": "troll",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "💆",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "person getting massage",
+        "slug": "person_getting_massage",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💆‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man getting massage",
+        "slug": "man_getting_massage",
+        "
