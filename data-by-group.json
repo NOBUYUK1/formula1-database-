@@ -3447,4 +3447,22 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "1.0",
         "name": "person getting haircut",
-        "slug": "per
+        "slug": "person_getting_haircut",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💇‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man getting haircut",
+        "slug": "man_getting_haircut",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "💇‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman getting haircut",
+        "slug"
