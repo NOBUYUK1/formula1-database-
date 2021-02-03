@@ -3465,4 +3465,23 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "4.0",
         "name": "woman getting haircut",
-        "slug"
+        "slug": "woman_getting_haircut",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🚶",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "person walking",
+        "slug": "person_walking",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚶‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man walking",
+        "slug": "man_walking",
+        "unicode_v
