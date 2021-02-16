@@ -3525,4 +3525,24 @@
       },
       {
         "emoji": "🧎",
-        "skin_
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.0",
+        "name": "person kneeling",
+        "slug": "person_kneeling",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🧎‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.0",
+        "name": "man kneeling",
+        "slug": "man_kneeling",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🧎‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.0",
+   
