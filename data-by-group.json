@@ -3562,4 +3562,22 @@
       {
         "emoji": "👨‍🦯",
         "skin_tone_support": true,
-        "skin_tone_support_unicode_version"
+        "skin_tone_support_unicode_version": "12.0",
+        "name": "man with white cane",
+        "slug": "man_with_white_cane",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "👩‍🦯",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.0",
+        "name": "woman with white cane",
+        "slug": "woman_with_white_cane",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🧑‍🦼",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_versio
