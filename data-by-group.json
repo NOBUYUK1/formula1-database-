@@ -3598,4 +3598,22 @@
       {
         "emoji": "👩‍🦼",
         "skin_tone_support": true,
-        "skin_ton
+        "skin_tone_support_unicode_version": "12.0",
+        "name": "woman in motorized wheelchair",
+        "slug": "woman_in_motorized_wheelchair",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🧑‍🦽",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "12.1",
+        "name": "person in manual wheelchair",
+        "slug": "person_in_manual_wheelchair",
+        "unicode_version": "12.1",
+        "emoji_version": "12.1"
+      },
+      {
+        "emoji": "👨‍🦽",
+        "skin_tone_support": true,
+        "skin_t
