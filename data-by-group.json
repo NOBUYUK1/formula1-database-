@@ -3672,4 +3672,23 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "3.0",
         "name": "man dancing",
-    
+        "slug": "man_dancing",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🕴️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "person in suit levitating",
+        "slug": "person_in_suit_levitating",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "👯",
+        "skin_tone_support": false,
+        "name": "people with bunny ears",
+        "slug": "people_with_bunny_ears",
+        "unicode_version": "0.6",
+        "emoji_versi
