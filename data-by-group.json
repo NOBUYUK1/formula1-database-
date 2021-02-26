@@ -3691,4 +3691,24 @@
         "name": "people with bunny ears",
         "slug": "people_with_bunny_ears",
         "unicode_version": "0.6",
-        "emoji_versi
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👯‍♂️",
+        "skin_tone_support": false,
+        "name": "men with bunny ears",
+        "slug": "men_with_bunny_ears",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👯‍♀️",
+        "skin_tone_support": false,
+        "name": "women with bunny ears",
+        "slug": "women_with_bunny_ears",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🧖",
+        "skin_tone_support": tr
