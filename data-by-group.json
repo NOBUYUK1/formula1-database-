@@ -3730,4 +3730,24 @@
       {
         "emoji": "🧖‍♀️",
         "skin_tone_support": true,
-        "skin_tone_support_unicode_vers
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "woman in steamy room",
+        "slug": "woman_in_steamy_room",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧗",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "person climbing",
+        "slug": "person_climbing",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧗‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "man climbing",
+    
