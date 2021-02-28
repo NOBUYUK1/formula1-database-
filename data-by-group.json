@@ -3711,4 +3711,23 @@
       },
       {
         "emoji": "🧖",
-        "skin_tone_support": tr
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "person in steamy room",
+        "slug": "person_in_steamy_room",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧖‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "man in steamy room",
+        "slug": "man_in_steamy_room",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧖‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_vers
