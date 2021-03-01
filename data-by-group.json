@@ -3750,4 +3750,25 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "5.0",
         "name": "man climbing",
-    
+        "slug": "man_climbing",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧗‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name": "woman climbing",
+        "slug": "woman_climbing",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🤺",
+        "skin_tone_support": false,
+        "name": "person fencing",
+        "slug": "person_fencing",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+     
