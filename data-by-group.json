@@ -3771,4 +3771,24 @@
         "unicode_version": "3.0",
         "emoji_version": "3.0"
       },
-     
+      {
+        "emoji": "🏇",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "horse racing",
+        "slug": "horse_racing",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "⛷️",
+        "skin_tone_support": false,
+        "name": "skier",
+        "slug": "skier",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🏂",
+        "skin_tone_support": true,
+        "skin_tone_suppo
