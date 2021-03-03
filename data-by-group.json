@@ -3809,4 +3809,23 @@
       {
         "emoji": "🏌️‍♂️",
         "skin_tone_support": true,
-        "skin_tone_support_unicode_versi
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man golfing",
+        "slug": "man_golfing",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🏌️‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman golfing",
+        "slug": "woman_golfing",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🏄",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "person surfin
