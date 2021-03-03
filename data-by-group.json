@@ -3828,4 +3828,24 @@
         "emoji": "🏄",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "1.0",
-        "name": "person surfin
+        "name": "person surfing",
+        "slug": "person_surfing",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏄‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man surfing",
+        "slug": "man_surfing",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🏄‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman surfing",
+        "slug": "woman_surfing",
+        "unicode
