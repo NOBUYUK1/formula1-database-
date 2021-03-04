@@ -3848,4 +3848,22 @@
         "skin_tone_support_unicode_version": "4.0",
         "name": "woman surfing",
         "slug": "woman_surfing",
-        "unicode
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🚣",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "person rowing boat",
+        "slug": "person_rowing_boat",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚣‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man rowing boat",
+        "slug": "man_rowing_boat",
+        "unicode_version":
