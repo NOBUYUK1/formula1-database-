@@ -3866,4 +3866,23 @@
         "skin_tone_support_unicode_version": "4.0",
         "name": "man rowing boat",
         "slug": "man_rowing_boat",
-        "unicode_version":
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🚣‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman rowing boat",
+        "slug": "woman_rowing_boat",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🏊",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "person swimming",
+        "slug": "person_swimming",
+        "unicode_version": "0.6",
+        "emoji_ve
