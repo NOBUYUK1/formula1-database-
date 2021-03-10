@@ -3942,4 +3942,23 @@
         "emoji_version": "0.7"
       },
       {
-    
+        "emoji": "🏋️‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man lifting weights",
+        "slug": "man_lifting_weights",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🏋️‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman lifting weights",
+        "slug": "woman_lifting_weights",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🚴",
+        "skin_tone_su
