@@ -3980,4 +3980,22 @@
       {
         "emoji": "🚴‍♀️",
         "skin_tone_support": true,
-        "skin_tone_s
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman biking",
+        "slug": "woman_biking",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🚵",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "1.0",
+        "name": "person mountain biking",
+        "slug": "person_mountain_biking",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚵‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version":
