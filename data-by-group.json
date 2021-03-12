@@ -4018,4 +4018,23 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "3.0",
         "name": "person cartwheeling",
-        "slug": "person_cartwheel
+        "slug": "person_cartwheeling",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🤸‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man cartwheeling",
+        "slug": "man_cartwheeling",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤸‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman cartwheeling",
+        "slug": "woman_cartwheeling",
+        "unicode_ver
