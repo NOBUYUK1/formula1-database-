@@ -4037,4 +4037,25 @@
         "skin_tone_support_unicode_version": "4.0",
         "name": "woman cartwheeling",
         "slug": "woman_cartwheeling",
-        "unicode_ver
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤼",
+        "skin_tone_support": false,
+        "name": "people wrestling",
+        "slug": "people_wrestling",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🤼‍♂️",
+        "skin_tone_support": false,
+        "name": "men wrestling",
+        "slug": "men_wrestling",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤼‍♀️",
+        "skin_tone_support": false
