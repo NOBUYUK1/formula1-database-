@@ -4058,4 +4058,23 @@
       },
       {
         "emoji": "🤼‍♀️",
-        "skin_tone_support": false
+        "skin_tone_support": false,
+        "name": "women wrestling",
+        "slug": "women_wrestling",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤽",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
+        "name": "person playing water polo",
+        "slug": "person_playing_water_polo",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🤽‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+    
