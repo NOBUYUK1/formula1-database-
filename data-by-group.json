@@ -4077,4 +4077,22 @@
         "emoji": "🤽‍♂️",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "4.0",
+        "name": "man playing water polo",
+        "slug": "man_playing_water_polo",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤽‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman playing water polo",
+        "slug": "woman_playing_water_polo",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤾",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
     
