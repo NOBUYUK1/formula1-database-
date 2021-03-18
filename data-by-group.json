@@ -4095,4 +4095,21 @@
         "emoji": "🤾",
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "3.0",
-    
+        "name": "person playing handball",
+        "slug": "person_playing_handball",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🤾‍♂️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man playing handball",
+        "slug": "man_playing_handball",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤾‍♀️",
+        "skin_tone_support": true,
+        "
