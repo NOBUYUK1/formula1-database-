@@ -4112,4 +4112,22 @@
       {
         "emoji": "🤾‍♀️",
         "skin_tone_support": true,
-        "
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman playing handball",
+        "slug": "woman_playing_handball",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤹",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "3.0",
+        "name": "person juggling",
+        "slug": "person_juggling",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🤹‍♂️",
+        "skin_tone_support": true,
+        "s
