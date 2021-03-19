@@ -4130,4 +4130,23 @@
       {
         "emoji": "🤹‍♂️",
         "skin_tone_support": true,
-        "s
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "man juggling",
+        "slug": "man_juggling",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🤹‍♀️",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "4.0",
+        "name": "woman juggling",
+        "slug": "woman_juggling",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🧘",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "5.0",
+        "name
