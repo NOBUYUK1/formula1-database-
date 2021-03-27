@@ -4222,4 +4222,24 @@
         "skin_tone_support": true,
         "skin_tone_support_unicode_version": "12.0",
         "name": "men holding hands",
-        "slug": "
+        "slug": "men_holding_hands",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "💏",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.1",
+        "name": "kiss",
+        "slug": "kiss",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👩‍❤️‍💋‍👨",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.1",
+        "name": "kiss woman, man",
+        "slug": "kiss_woman_man",
+        "unicode_version": "2.0",
+        "emoji_version":
