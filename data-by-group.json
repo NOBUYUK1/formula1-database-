@@ -4261,4 +4261,21 @@
         "slug": "kiss_woman_woman",
         "unicode_version": "2.0",
         "emoji_version": "2.0"
-    
+      },
+      {
+        "emoji": "💑",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.1",
+        "name": "couple with heart",
+        "slug": "couple_with_heart",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👩‍❤️‍👨",
+        "skin_tone_support": true,
+        "skin_tone_support_unicode_version": "13.1",
+        "name": "couple with heart woman, man",
+        "slug": "couple_with_heart_woman_man",
+        "unicode_version": "2.0",
+        "emoji_v
