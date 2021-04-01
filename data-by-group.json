@@ -4319,3 +4319,25 @@
         "skin_tone_support": false,
         "name": "family man, woman, girl",
         "slug": "family_man_woman_girl",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "👨‍👩‍👧‍👦",
+        "skin_tone_support": false,
+        "name": "family man, woman, girl, boy",
+        "slug": "family_man_woman_girl_boy",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "👨‍👩‍👦‍👦",
+        "skin_tone_support": false,
+        "name": "family man, woman, boy, boy",
+        "slug": "family_man_woman_boy_boy",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "👨‍👩‍👧‍👧",
+        "skin_t
