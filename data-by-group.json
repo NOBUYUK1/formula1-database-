@@ -4477,4 +4477,22 @@
       {
         "emoji": "👩‍👦‍👦",
         "skin_tone_support": false,
-       
+        "name": "family woman, boy, boy",
+        "slug": "family_woman_boy_boy",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👩‍👧",
+        "skin_tone_support": false,
+        "name": "family woman, girl",
+        "slug": "family_woman_girl",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👩‍👧‍👦",
+        "skin_tone_support": false,
+        "name": "family woman, girl, boy",
+        "slug": "family_woman_girl_boy",
+        "unicod
