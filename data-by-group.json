@@ -4495,4 +4495,26 @@
         "skin_tone_support": false,
         "name": "family woman, girl, boy",
         "slug": "family_woman_girl_boy",
-        "unicod
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "👩‍👧‍👧",
+        "skin_tone_support": false,
+        "name": "family woman, girl, girl",
+        "slug": "family_woman_girl_girl",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🗣️",
+        "skin_tone_support": false,
+        "name": "speaking head",
+        "slug": "speaking_head",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "👤",
+        "skin_tone_support": false,
+        "
