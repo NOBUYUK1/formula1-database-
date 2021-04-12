@@ -4539,4 +4539,29 @@
         "emoji_version": "13.0"
       },
       {
-        "emoji": "
+        "emoji": "👣",
+        "skin_tone_support": false,
+        "name": "footprints",
+        "slug": "footprints",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      }
+    ]
+  },
+  {
+    "name": "Animals & Nature",
+    "slug": "animals_nature",
+    "emojis": [
+      {
+        "emoji": "🐵",
+        "skin_tone_support": false,
+        "name": "monkey face",
+        "slug": "monkey_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐒",
+        "skin_tone_support": false,
+        "name": "monkey",
+        "slug": "monkey"
