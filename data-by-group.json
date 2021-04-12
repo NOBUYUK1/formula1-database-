@@ -4517,4 +4517,26 @@
       {
         "emoji": "👤",
         "skin_tone_support": false,
-        "
+        "name": "bust in silhouette",
+        "slug": "bust_in_silhouette",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👥",
+        "skin_tone_support": false,
+        "name": "busts in silhouette",
+        "slug": "busts_in_silhouette",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🫂",
+        "skin_tone_support": false,
+        "name": "people hugging",
+        "slug": "people_hugging",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "
