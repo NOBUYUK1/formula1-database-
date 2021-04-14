@@ -4611,4 +4611,23 @@
       {
         "emoji": "🐕‍🦺",
         "skin_tone_support": false,
-  
+        "name": "service dog",
+        "slug": "service_dog",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🐩",
+        "skin_tone_support": false,
+        "name": "poodle",
+        "slug": "poodle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐺",
+        "skin_tone_support": false,
+        "name": "wolf",
+        "slug": "wolf",
+        "unicode_version": "0.6",
+        "emoji_version": "0.
