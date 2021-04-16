@@ -4655,4 +4655,27 @@
         "slug": "cat_face",
         "unicode_version": "0.6",
         "emoji_version": "0.6"
-   
+      },
+      {
+        "emoji": "🐈",
+        "skin_tone_support": false,
+        "name": "cat",
+        "slug": "cat",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🐈‍⬛",
+        "skin_tone_support": false,
+        "name": "black cat",
+        "slug": "black_cat",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🦁",
+        "skin_tone_support": false,
+        "name": "lion",
+        "slug": "lion",
+        "unicode_version": "1.0",
+  
