@@ -4726,4 +4726,29 @@
         "name": "donkey",
         "slug": "donkey",
         "unicode_version": "15.0",
-        "emoji_version": "15.0
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "🐎",
+        "skin_tone_support": false,
+        "name": "horse",
+        "slug": "horse",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦄",
+        "skin_tone_support": false,
+        "name": "unicorn",
+        "slug": "unicorn",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🦓",
+        "skin_tone_support": false,
+        "name": "zebra",
+        "slug": "zebra",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+    
