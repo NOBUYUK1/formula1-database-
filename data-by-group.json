@@ -4774,4 +4774,28 @@
         "name": "cow face",
         "slug": "cow_face",
         "unicode_version": "0.6",
-        "emoji_version"
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐂",
+        "skin_tone_support": false,
+        "name": "ox",
+        "slug": "ox",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐃",
+        "skin_tone_support": false,
+        "name": "water buffalo",
+        "slug": "water_buffalo",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐄",
+        "skin_tone_support": false,
+        "name": "cow",
+        "slug": "cow",
+        "unicode_version": "1.0",
+        "emoji_version": "1
