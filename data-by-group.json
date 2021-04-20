@@ -4751,4 +4751,27 @@
         "slug": "zebra",
         "unicode_version": "5.0",
         "emoji_version": "5.0"
-    
+      },
+      {
+        "emoji": "🦌",
+        "skin_tone_support": false,
+        "name": "deer",
+        "slug": "deer",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🦬",
+        "skin_tone_support": false,
+        "name": "bison",
+        "slug": "bison",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🐮",
+        "skin_tone_support": false,
+        "name": "cow face",
+        "slug": "cow_face",
+        "unicode_version": "0.6",
+        "emoji_version"
