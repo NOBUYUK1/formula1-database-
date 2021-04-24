@@ -4798,4 +4798,27 @@
         "name": "cow",
         "slug": "cow",
         "unicode_version": "1.0",
-        "emoji_version": "1
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐷",
+        "skin_tone_support": false,
+        "name": "pig face",
+        "slug": "pig_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐖",
+        "skin_tone_support": false,
+        "name": "pig",
+        "slug": "pig",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐗",
+        "skin_tone_support": false,
+        "name": "boar",
+        "slug": "boar",
+        "unicode
