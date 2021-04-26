@@ -4866,4 +4866,27 @@
       },
       {
         "emoji": "🐫",
-        "skin_tone
+        "skin_tone_support": false,
+        "name": "two-hump camel",
+        "slug": "two_hump_camel",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦙",
+        "skin_tone_support": false,
+        "name": "llama",
+        "slug": "llama",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🦒",
+        "skin_tone_support": false,
+        "name": "giraffe",
+        "slug": "giraffe",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "
