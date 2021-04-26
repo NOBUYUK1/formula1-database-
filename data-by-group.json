@@ -4842,4 +4842,28 @@
       },
       {
         "emoji": "🐑",
-        "skin_tone_support": false
+        "skin_tone_support": false,
+        "name": "ewe",
+        "slug": "ewe",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐐",
+        "skin_tone_support": false,
+        "name": "goat",
+        "slug": "goat",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐪",
+        "skin_tone_support": false,
+        "name": "camel",
+        "slug": "camel",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐫",
+        "skin_tone
