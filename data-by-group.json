@@ -4889,4 +4889,25 @@
         "emoji_version": "5.0"
       },
       {
-        "
+        "emoji": "🐘",
+        "skin_tone_support": false,
+        "name": "elephant",
+        "slug": "elephant",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦣",
+        "skin_tone_support": false,
+        "name": "mammoth",
+        "slug": "mammoth",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🦏",
+        "skin_tone_support": false,
+        "name": "rhinoceros",
+        "slug": "rhinoceros",
+        "unicode_version": "3.0",
+        "emo
