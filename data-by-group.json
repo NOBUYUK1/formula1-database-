@@ -4910,4 +4910,27 @@
         "name": "rhinoceros",
         "slug": "rhinoceros",
         "unicode_version": "3.0",
-        "emo
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🦛",
+        "skin_tone_support": false,
+        "name": "hippopotamus",
+        "slug": "hippopotamus",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🐭",
+        "skin_tone_support": false,
+        "name": "mouse face",
+        "slug": "mouse_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐁",
+        "skin_tone_support": false,
+        "name": "mouse",
+        "slug": "mouse",
+        "unicode_version": "1
