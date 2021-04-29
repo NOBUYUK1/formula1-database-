@@ -4933,4 +4933,28 @@
         "skin_tone_support": false,
         "name": "mouse",
         "slug": "mouse",
-        "unicode_version": "1
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐀",
+        "skin_tone_support": false,
+        "name": "rat",
+        "slug": "rat",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐹",
+        "skin_tone_support": false,
+        "name": "hamster",
+        "slug": "hamster",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐰",
+        "skin_tone_support": false,
+        "name": "rabbit face",
+        "slug": "rabbit_face",
+        "unico
