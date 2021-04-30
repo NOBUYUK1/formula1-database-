@@ -4957,4 +4957,29 @@
         "skin_tone_support": false,
         "name": "rabbit face",
         "slug": "rabbit_face",
-        "unico
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐇",
+        "skin_tone_support": false,
+        "name": "rabbit",
+        "slug": "rabbit",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐿️",
+        "skin_tone_support": false,
+        "name": "chipmunk",
+        "slug": "chipmunk",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🦫",
+        "skin_tone_support": false,
+        "name": "beaver",
+        "slug": "beaver",
+        "unicode_version": "13.0",
+  
