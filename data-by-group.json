@@ -4982,4 +4982,27 @@
         "name": "beaver",
         "slug": "beaver",
         "unicode_version": "13.0",
-  
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🦔",
+        "skin_tone_support": false,
+        "name": "hedgehog",
+        "slug": "hedgehog",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🦇",
+        "skin_tone_support": false,
+        "name": "bat",
+        "slug": "bat",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🐻",
+        "skin_tone_support": false,
+        "name": "bear",
+        "slug": "bear",
+        "unicode_version"
