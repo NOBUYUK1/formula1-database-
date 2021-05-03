@@ -5005,4 +5005,27 @@
         "skin_tone_support": false,
         "name": "bear",
         "slug": "bear",
-        "unicode_version"
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐻‍❄️",
+        "skin_tone_support": false,
+        "name": "polar bear",
+        "slug": "polar_bear",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🐨",
+        "skin_tone_support": false,
+        "name": "koala",
+        "slug": "koala",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐼",
+        "skin_tone_support": false,
+        "name": "panda",
+        "slug": "panda"
