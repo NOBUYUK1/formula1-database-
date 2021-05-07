@@ -5095,4 +5095,27 @@
         "slug": "chicken",
         "unicode_version": "0.6",
         "emoji_version": "0.6"
-     
+      },
+      {
+        "emoji": "🐓",
+        "skin_tone_support": false,
+        "name": "rooster",
+        "slug": "rooster",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐣",
+        "skin_tone_support": false,
+        "name": "hatching chick",
+        "slug": "hatching_chick",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐤",
+        "skin_tone_support": false,
+        "name": "baby chick",
+        "slug": "baby_chick",
+        "unicode_version": "0.6",
+        "emoj
