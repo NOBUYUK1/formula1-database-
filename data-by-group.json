@@ -5074,4 +5074,25 @@
       },
       {
         "emoji": "🐾",
-       
+        "skin_tone_support": false,
+        "name": "paw prints",
+        "slug": "paw_prints",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦃",
+        "skin_tone_support": false,
+        "name": "turkey",
+        "slug": "turkey",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐔",
+        "skin_tone_support": false,
+        "name": "chicken",
+        "slug": "chicken",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+     
