@@ -5118,4 +5118,27 @@
         "name": "baby chick",
         "slug": "baby_chick",
         "unicode_version": "0.6",
-        "emoj
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐥",
+        "skin_tone_support": false,
+        "name": "front-facing baby chick",
+        "slug": "front_facing_baby_chick",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐦",
+        "skin_tone_support": false,
+        "name": "bird",
+        "slug": "bird",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐧",
+        "skin_tone_support": false,
+        "name": "penguin",
+        "slug": "penguin",
+        "unicode
