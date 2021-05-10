@@ -5141,4 +5141,27 @@
         "skin_tone_support": false,
         "name": "penguin",
         "slug": "penguin",
-        "unicode
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕊️",
+        "skin_tone_support": false,
+        "name": "dove",
+        "slug": "dove",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🦅",
+        "skin_tone_support": false,
+        "name": "eagle",
+        "slug": "eagle",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🦆",
+        "skin_tone_support": false,
+        "name": "duck",
+        "slug": "duck",
