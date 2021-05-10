@@ -5165,3 +5165,27 @@
         "skin_tone_support": false,
         "name": "duck",
         "slug": "duck",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🦢",
+        "skin_tone_support": false,
+        "name": "swan",
+        "slug": "swan",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🦉",
+        "skin_tone_support": false,
+        "name": "owl",
+        "slug": "owl",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🦤",
+        "skin_tone_support": false,
+        "name": "dodo",
+        "slug": 
