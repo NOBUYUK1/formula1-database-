@@ -5188,4 +5188,28 @@
         "emoji": "🦤",
         "skin_tone_support": false,
         "name": "dodo",
-        "slug": 
+        "slug": "dodo",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🪶",
+        "skin_tone_support": false,
+        "name": "feather",
+        "slug": "feather",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🦩",
+        "skin_tone_support": false,
+        "name": "flamingo",
+        "slug": "flamingo",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🦚",
+        "skin_tone_support": false,
+        "name": "peacock",
+        "s
