@@ -5212,4 +5212,28 @@
         "emoji": "🦚",
         "skin_tone_support": false,
         "name": "peacock",
-        "s
+        "slug": "peacock",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🦜",
+        "skin_tone_support": false,
+        "name": "parrot",
+        "slug": "parrot",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🪽",
+        "skin_tone_support": false,
+        "name": "wing",
+        "slug": "wing",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "🐦‍⬛",
+        "skin_tone_support": false,
+        "name": "black bird",
+        "slu
