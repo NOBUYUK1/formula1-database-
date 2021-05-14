@@ -5259,4 +5259,28 @@
       {
         "emoji": "🐊",
         "skin_tone_support": false,
-        "name": "crocodile"
+        "name": "crocodile",
+        "slug": "crocodile",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐢",
+        "skin_tone_support": false,
+        "name": "turtle",
+        "slug": "turtle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦎",
+        "skin_tone_support": false,
+        "name": "lizard",
+        "slug": "lizard",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🐍",
+        "skin_tone_support": false,
+  
