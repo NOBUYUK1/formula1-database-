@@ -5283,4 +5283,28 @@
       {
         "emoji": "🐍",
         "skin_tone_support": false,
-  
+        "name": "snake",
+        "slug": "snake",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐲",
+        "skin_tone_support": false,
+        "name": "dragon face",
+        "slug": "dragon_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐉",
+        "skin_tone_support": false,
+        "name": "dragon",
+        "slug": "dragon",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🦕",
+        "skin_tone_support": false,
+      
