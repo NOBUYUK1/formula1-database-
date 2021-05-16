@@ -5307,4 +5307,26 @@
       {
         "emoji": "🦕",
         "skin_tone_support": false,
-      
+        "name": "sauropod",
+        "slug": "sauropod",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🦖",
+        "skin_tone_support": false,
+        "name": "T-Rex",
+        "slug": "t_rex",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🐳",
+        "skin_tone_support": false,
+        "name": "spouting whale",
+        "slug": "spouting_whale",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+       
