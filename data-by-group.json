@@ -5329,4 +5329,25 @@
         "emoji_version": "0.6"
       },
       {
-       
+        "emoji": "🐋",
+        "skin_tone_support": false,
+        "name": "whale",
+        "slug": "whale",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🐬",
+        "skin_tone_support": false,
+        "name": "dolphin",
+        "slug": "dolphin",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦭",
+        "skin_tone_support": false,
+        "name": "seal",
+        "slug": "seal",
+        "unicode_version": "13.0",
+        "emoji_v
