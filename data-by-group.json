@@ -5350,4 +5350,27 @@
         "name": "seal",
         "slug": "seal",
         "unicode_version": "13.0",
-        "emoji_v
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🐟",
+        "skin_tone_support": false,
+        "name": "fish",
+        "slug": "fish",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐠",
+        "skin_tone_support": false,
+        "name": "tropical fish",
+        "slug": "tropical_fish",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐡",
+        "skin_tone_support": false,
+        "name": "blowfish",
+        "slug": "blowfish",
+        "unicode_version"
