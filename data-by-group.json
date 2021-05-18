@@ -5373,4 +5373,27 @@
         "skin_tone_support": false,
         "name": "blowfish",
         "slug": "blowfish",
-        "unicode_version"
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦈",
+        "skin_tone_support": false,
+        "name": "shark",
+        "slug": "shark",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🐙",
+        "skin_tone_support": false,
+        "name": "octopus",
+        "slug": "octopus",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐚",
+        "skin_tone_support": false,
+        "name": "spiral shell",
+        "slug": "spiral_shell",
