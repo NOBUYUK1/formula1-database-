@@ -5397,3 +5397,25 @@
         "skin_tone_support": false,
         "name": "spiral shell",
         "slug": "spiral_shell",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪸",
+        "skin_tone_support": false,
+        "name": "coral",
+        "slug": "coral",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🪼",
+        "skin_tone_support": false,
+        "name": "jellyfish",
+        "slug": "jellyfish",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "🐌",
+        "skin_tone_support
