@@ -5418,4 +5418,28 @@
       },
       {
         "emoji": "🐌",
-        "skin_tone_support
+        "skin_tone_support": false,
+        "name": "snail",
+        "slug": "snail",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦋",
+        "skin_tone_support": false,
+        "name": "butterfly",
+        "slug": "butterfly",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🐛",
+        "skin_tone_support": false,
+        "name": "bug",
+        "slug": "bug",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐜",
+        "skin_tone
