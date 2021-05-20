@@ -5442,4 +5442,27 @@
       },
       {
         "emoji": "🐜",
-        "skin_tone
+        "skin_tone_support": false,
+        "name": "ant",
+        "slug": "ant",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🐝",
+        "skin_tone_support": false,
+        "name": "honeybee",
+        "slug": "honeybee",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪲",
+        "skin_tone_support": false,
+        "name": "beetle",
+        "slug": "beetle",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+      
