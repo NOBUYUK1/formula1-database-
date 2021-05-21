@@ -5465,4 +5465,24 @@
         "emoji_version": "13.0"
       },
       {
-      
+        "emoji": "🐞",
+        "skin_tone_support": false,
+        "name": "lady beetle",
+        "slug": "lady_beetle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🦗",
+        "skin_tone_support": false,
+        "name": "cricket",
+        "slug": "cricket",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🪳",
+        "skin_tone_support": false,
+        "name": "cockroach",
+        "slug": "cockroach",
+        "unicode_version": "13.0
