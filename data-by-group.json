@@ -5485,4 +5485,28 @@
         "skin_tone_support": false,
         "name": "cockroach",
         "slug": "cockroach",
-        "unicode_version": "13.0
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🕷️",
+        "skin_tone_support": false,
+        "name": "spider",
+        "slug": "spider",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🕸️",
+        "skin_tone_support": false,
+        "name": "spider web",
+        "slug": "spider_web",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🦂",
+        "skin_tone_support": false,
+        "name": "scorpion",
+        "slug": "scorpion",
+        "unicode_
