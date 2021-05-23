@@ -5509,4 +5509,29 @@
         "skin_tone_support": false,
         "name": "scorpion",
         "slug": "scorpion",
-        "unicode_
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🦟",
+        "skin_tone_support": false,
+        "name": "mosquito",
+        "slug": "mosquito",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🪰",
+        "skin_tone_support": false,
+        "name": "fly",
+        "slug": "fly",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🪱",
+        "skin_tone_support": false,
+        "name": "worm",
+        "slug": "worm",
+        "unicode_version": "13.0",
+        "emoji
