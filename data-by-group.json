@@ -5534,4 +5534,28 @@
         "name": "worm",
         "slug": "worm",
         "unicode_version": "13.0",
-        "emoji
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🦠",
+        "skin_tone_support": false,
+        "name": "microbe",
+        "slug": "microbe",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "💐",
+        "skin_tone_support": false,
+        "name": "bouquet",
+        "slug": "bouquet",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌸",
+        "skin_tone_support": false,
+        "name": "cherry blossom",
+        "slug": "cherry_blossom",
+        "unicode_version": "0.6",
+        "em
