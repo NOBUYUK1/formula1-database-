@@ -5558,4 +5558,27 @@
         "name": "cherry blossom",
         "slug": "cherry_blossom",
         "unicode_version": "0.6",
-        "em
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💮",
+        "skin_tone_support": false,
+        "name": "white flower",
+        "slug": "white_flower",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪷",
+        "skin_tone_support": false,
+        "name": "lotus",
+        "slug": "lotus",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🏵️",
+        "skin_tone_support": false,
+        "name": "rosette",
+        "slug": "rosette",
+    
