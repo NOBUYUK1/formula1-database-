@@ -5605,3 +5605,28 @@
         "skin_tone_support": false,
         "name": "hibiscus",
         "slug": "hibiscus",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌻",
+        "skin_tone_support": false,
+        "name": "sunflower",
+        "slug": "sunflower",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌼",
+        "skin_tone_support": false,
+        "name": "blossom",
+        "slug": "blossom",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌷",
+        "skin_tone_support": false,
+        "name": "tulip",
+        "slug": "tulip",
+        "uni
