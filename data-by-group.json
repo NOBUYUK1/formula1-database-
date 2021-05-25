@@ -5581,4 +5581,27 @@
         "skin_tone_support": false,
         "name": "rosette",
         "slug": "rosette",
-    
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌹",
+        "skin_tone_support": false,
+        "name": "rose",
+        "slug": "rose",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥀",
+        "skin_tone_support": false,
+        "name": "wilted flower",
+        "slug": "wilted_flower",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🌺",
+        "skin_tone_support": false,
+        "name": "hibiscus",
+        "slug": "hibiscus",
