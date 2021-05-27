@@ -5629,4 +5629,27 @@
         "skin_tone_support": false,
         "name": "tulip",
         "slug": "tulip",
-        "uni
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪻",
+        "skin_tone_support": false,
+        "name": "hyacinth",
+        "slug": "hyacinth",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "🌱",
+        "skin_tone_support": false,
+        "name": "seedling",
+        "slug": "seedling",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪴",
+        "skin_tone_support": false,
+        "name": "potted plant",
+        "slug"
