@@ -5652,4 +5652,26 @@
         "emoji": "🪴",
         "skin_tone_support": false,
         "name": "potted plant",
-        "slug"
+        "slug": "potted_plant",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🌲",
+        "skin_tone_support": false,
+        "name": "evergreen tree",
+        "slug": "evergreen_tree",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🌳",
+        "skin_tone_support": false,
+        "name": "deciduous tree",
+        "slug": "deciduous_tree",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🌴",
+        "ski
