@@ -5674,4 +5674,24 @@
       },
       {
         "emoji": "🌴",
-        "ski
+        "skin_tone_support": false,
+        "name": "palm tree",
+        "slug": "palm_tree",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌵",
+        "skin_tone_support": false,
+        "name": "cactus",
+        "slug": "cactus",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌾",
+        "skin_tone_support": false,
+        "name": "sheaf of rice",
+        "slug": "sheaf_of_rice",
+        "unicode_version": "0.6",
+        "
