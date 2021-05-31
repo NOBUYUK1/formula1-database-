@@ -5717,4 +5717,26 @@
         "skin_tone_support": false,
         "name": "four leaf clover",
         "slug": "four_leaf_clover",
-        "unicode_version": "0.
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍁",
+        "skin_tone_support": false,
+        "name": "maple leaf",
+        "slug": "maple_leaf",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍂",
+        "skin_tone_support": false,
+        "name": "fallen leaf",
+        "slug": "fallen_leaf",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍃",
+        "skin_tone_support": false,
+        "name": "leaf flutte
