@@ -5694,4 +5694,27 @@
         "name": "sheaf of rice",
         "slug": "sheaf_of_rice",
         "unicode_version": "0.6",
-        "
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌿",
+        "skin_tone_support": false,
+        "name": "herb",
+        "slug": "herb",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "☘️",
+        "skin_tone_support": false,
+        "name": "shamrock",
+        "slug": "shamrock",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🍀",
+        "skin_tone_support": false,
+        "name": "four leaf clover",
+        "slug": "four_leaf_clover",
+        "unicode_version": "0.
