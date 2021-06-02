@@ -5739,4 +5739,27 @@
       {
         "emoji": "🍃",
         "skin_tone_support": false,
-        "name": "leaf flutte
+        "name": "leaf fluttering in wind",
+        "slug": "leaf_fluttering_in_wind",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪹",
+        "skin_tone_support": false,
+        "name": "empty nest",
+        "slug": "empty_nest",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🪺",
+        "skin_tone_support": false,
+        "name": "nest with eggs",
+        "slug": "nest_with_eggs",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🍄",
+        "skin
