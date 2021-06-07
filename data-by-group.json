@@ -5762,4 +5762,29 @@
       },
       {
         "emoji": "🍄",
-        "skin
+        "skin_tone_support": false,
+        "name": "mushroom",
+        "slug": "mushroom",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      }
+    ]
+  },
+  {
+    "name": "Food & Drink",
+    "slug": "food_drink",
+    "emojis": [
+      {
+        "emoji": "🍇",
+        "skin_tone_support": false,
+        "name": "grapes",
+        "slug": "grapes",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍈",
+        "skin_tone_support": false,
+        "name": "melon",
+        "slug": "melon",
+      
