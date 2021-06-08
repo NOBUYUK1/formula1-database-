@@ -5787,4 +5787,26 @@
         "skin_tone_support": false,
         "name": "melon",
         "slug": "melon",
-      
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍉",
+        "skin_tone_support": false,
+        "name": "watermelon",
+        "slug": "watermelon",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍊",
+        "skin_tone_support": false,
+        "name": "tangerine",
+        "slug": "tangerine",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍋",
+        "skin_tone_support": false,
+       
