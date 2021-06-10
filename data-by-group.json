@@ -5832,4 +5832,28 @@
       },
       {
         "emoji": "🥭",
-        "skin_tone_supp
+        "skin_tone_support": false,
+        "name": "mango",
+        "slug": "mango",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🍎",
+        "skin_tone_support": false,
+        "name": "red apple",
+        "slug": "red_apple",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍏",
+        "skin_tone_support": false,
+        "name": "green apple",
+        "slug": "green_apple",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍐",
+        "sk
