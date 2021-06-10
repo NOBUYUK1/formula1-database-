@@ -5809,4 +5809,27 @@
       {
         "emoji": "🍋",
         "skin_tone_support": false,
-       
+        "name": "lemon",
+        "slug": "lemon",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🍌",
+        "skin_tone_support": false,
+        "name": "banana",
+        "slug": "banana",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍍",
+        "skin_tone_support": false,
+        "name": "pineapple",
+        "slug": "pineapple",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥭",
+        "skin_tone_supp
