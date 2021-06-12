@@ -5880,4 +5880,24 @@
       },
       {
         "emoji": "🍓",
-      
+        "skin_tone_support": false,
+        "name": "strawberry",
+        "slug": "strawberry",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🫐",
+        "skin_tone_support": false,
+        "name": "blueberries",
+        "slug": "blueberries",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🥝",
+        "skin_tone_support": false,
+        "name": "kiwi fruit",
+        "slug": "kiwi_fruit",
+        "unicode_version": "3.0",
+        "emoji_ve
