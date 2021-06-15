@@ -5948,4 +5948,26 @@
         "name": "potato",
         "slug": "potato",
         "unicode_version": "3.0",
- 
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🥕",
+        "skin_tone_support": false,
+        "name": "carrot",
+        "slug": "carrot",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🌽",
+        "skin_tone_support": false,
+        "name": "ear of corn",
+        "slug": "ear_of_corn",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌶️",
+        "skin_tone_support": false,
+        "name": "hot pepper",
+  
