@@ -5970,4 +5970,26 @@
         "emoji": "🌶️",
         "skin_tone_support": false,
         "name": "hot pepper",
-  
+        "slug": "hot_pepper",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🫑",
+        "skin_tone_support": false,
+        "name": "bell pepper",
+        "slug": "bell_pepper",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🥒",
+        "skin_tone_support": false,
+        "name": "cucumber",
+        "slug": "cucumber",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🥬",
+        "skin_tone_support": false,
