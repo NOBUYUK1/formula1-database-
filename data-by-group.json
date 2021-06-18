@@ -5993,3 +5993,23 @@
       {
         "emoji": "🥬",
         "skin_tone_support": false,
+        "name": "leafy green",
+        "slug": "leafy_green",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🥦",
+        "skin_tone_support": false,
+        "name": "broccoli",
+        "slug": "broccoli",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧄",
+        "skin_tone_support": false,
+        "name": "garlic",
+        "slug": "garlic",
+        "unicode_version": "12.0",
+        "emoji_version": 
