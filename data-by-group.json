@@ -6036,4 +6036,28 @@
         "name": "beans",
         "slug": "beans",
         "unicode_version": "14.0",
-       
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🌰",
+        "skin_tone_support": false,
+        "name": "chestnut",
+        "slug": "chestnut",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🫚",
+        "skin_tone_support": false,
+        "name": "ginger root",
+        "slug": "ginger_root",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "🫛",
+        "skin_tone_support": false,
+        "name": "pea pod",
+        "slug": "pea_pod",
+        "unicode_version": "15.0",
+     
