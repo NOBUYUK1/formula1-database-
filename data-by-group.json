@@ -6060,4 +6060,28 @@
         "name": "pea pod",
         "slug": "pea_pod",
         "unicode_version": "15.0",
-     
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "🍞",
+        "skin_tone_support": false,
+        "name": "bread",
+        "slug": "bread",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥐",
+        "skin_tone_support": false,
+        "name": "croissant",
+        "slug": "croissant",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🥖",
+        "skin_tone_support": false,
+        "name": "baguette bread",
+        "slug": "baguette_bread",
+        "unicode_version": "3.0",
+    
