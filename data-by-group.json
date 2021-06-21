@@ -6084,4 +6084,28 @@
         "name": "baguette bread",
         "slug": "baguette_bread",
         "unicode_version": "3.0",
-    
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🫓",
+        "skin_tone_support": false,
+        "name": "flatbread",
+        "slug": "flatbread",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🥨",
+        "skin_tone_support": false,
+        "name": "pretzel",
+        "slug": "pretzel",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🥯",
+        "skin_tone_support": false,
+        "name": "bagel",
+        "slug": "bagel",
+        "unicode_version": "11.0",
+        "emoji_version
