@@ -6131,4 +6131,27 @@
         "skin_tone_support": false,
         "name": "cheese wedge",
         "slug": "cheese_wedge",
-        "unicode
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🍖",
+        "skin_tone_support": false,
+        "name": "meat on bone",
+        "slug": "meat_on_bone",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍗",
+        "skin_tone_support": false,
+        "name": "poultry leg",
+        "slug": "poultry_leg",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥩",
+        "skin_tone_support": false,
+        "name": "cut of meat",
+        "slug": "cut_o
