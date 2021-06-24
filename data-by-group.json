@@ -6154,4 +6154,27 @@
         "emoji": "🥩",
         "skin_tone_support": false,
         "name": "cut of meat",
-        "slug": "cut_o
+        "slug": "cut_of_meat",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🥓",
+        "skin_tone_support": false,
+        "name": "bacon",
+        "slug": "bacon",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🍔",
+        "skin_tone_support": false,
+        "name": "hamburger",
+        "slug": "hamburger",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍟",
+        "skin_tone_support": false,
+     
