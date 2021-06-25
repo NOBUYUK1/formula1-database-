@@ -6198,4 +6198,26 @@
         "unicode_version": "1.0",
         "emoji_version": "1.0"
       },
- 
+      {
+        "emoji": "🥪",
+        "skin_tone_support": false,
+        "name": "sandwich",
+        "slug": "sandwich",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🌮",
+        "skin_tone_support": false,
+        "name": "taco",
+        "slug": "taco",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🌯",
+        "skin_tone_support": false,
+        "name": "burrito",
+        "slug": "burrito",
+        "unicode_version": "1.0",
+        "emo
