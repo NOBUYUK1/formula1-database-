@@ -6177,4 +6177,25 @@
       {
         "emoji": "🍟",
         "skin_tone_support": false,
-     
+        "name": "french fries",
+        "slug": "french_fries",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍕",
+        "skin_tone_support": false,
+        "name": "pizza",
+        "slug": "pizza",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌭",
+        "skin_tone_support": false,
+        "name": "hot dog",
+        "slug": "hot_dog",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+ 
