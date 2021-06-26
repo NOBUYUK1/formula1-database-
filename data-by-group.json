@@ -6220,4 +6220,26 @@
         "name": "burrito",
         "slug": "burrito",
         "unicode_version": "1.0",
-        "emo
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🫔",
+        "skin_tone_support": false,
+        "name": "tamale",
+        "slug": "tamale",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🥙",
+        "skin_tone_support": false,
+        "name": "stuffed flatbread",
+        "slug": "stuffed_flatbread",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🧆",
+        "skin_tone_support": false,
+        "name": "falafel",
+   
