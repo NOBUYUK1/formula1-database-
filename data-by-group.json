@@ -6242,4 +6242,27 @@
         "emoji": "🧆",
         "skin_tone_support": false,
         "name": "falafel",
-   
+        "slug": "falafel",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🥚",
+        "skin_tone_support": false,
+        "name": "egg",
+        "slug": "egg",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🍳",
+        "skin_tone_support": false,
+        "name": "cooking",
+        "slug": "cooking",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥘",
+        "skin_tone_support": false,
+        "name": "shallow pan of 
