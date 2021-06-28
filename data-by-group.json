@@ -6288,4 +6288,27 @@
       },
       {
         "emoji": "🥣",
-        "skin_to
+        "skin_tone_support": false,
+        "name": "bowl with spoon",
+        "slug": "bowl_with_spoon",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🥗",
+        "skin_tone_support": false,
+        "name": "green salad",
+        "slug": "green_salad",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🍿",
+        "skin_tone_support": false,
+        "name": "popcorn",
+        "slug": "popcorn",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        
