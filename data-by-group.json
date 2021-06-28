@@ -6311,4 +6311,24 @@
         "emoji_version": "1.0"
       },
       {
-        
+        "emoji": "🧈",
+        "skin_tone_support": false,
+        "name": "butter",
+        "slug": "butter",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🧂",
+        "skin_tone_support": false,
+        "name": "salt",
+        "slug": "salt",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🥫",
+        "skin_tone_support": false,
+        "name": "canned food",
+        "slug": "canned_food",
+        "unicode_version"
