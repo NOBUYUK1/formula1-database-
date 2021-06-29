@@ -6354,4 +6354,27 @@
         "emoji": "🍙",
         "skin_tone_support": false,
         "name": "rice ball",
-        "slug": 
+        "slug": "rice_ball",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍚",
+        "skin_tone_support": false,
+        "name": "cooked rice",
+        "slug": "cooked_rice",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍛",
+        "skin_tone_support": false,
+        "name": "curry rice",
+        "slug": "curry_rice",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍜",
+        "skin_tone_support": false,
+        "name
