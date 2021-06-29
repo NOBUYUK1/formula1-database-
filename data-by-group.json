@@ -6331,4 +6331,27 @@
         "skin_tone_support": false,
         "name": "canned food",
         "slug": "canned_food",
-        "unicode_version"
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🍱",
+        "skin_tone_support": false,
+        "name": "bento box",
+        "slug": "bento_box",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍘",
+        "skin_tone_support": false,
+        "name": "rice cracker",
+        "slug": "rice_cracker",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍙",
+        "skin_tone_support": false,
+        "name": "rice ball",
+        "slug": 
