@@ -6396,4 +6396,27 @@
         "name": "roasted sweet potato",
         "slug": "roasted_sweet_potato",
         "unicode_version": "0.6",
-        "emoji_version": "0
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍢",
+        "skin_tone_support": false,
+        "name": "oden",
+        "slug": "oden",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍣",
+        "skin_tone_support": false,
+        "name": "sushi",
+        "slug": "sushi",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍤",
+        "skin_tone_support": false,
+        "name": "fried shrimp",
+        "slug": "fried_shrimp",
+        "unicode_v
