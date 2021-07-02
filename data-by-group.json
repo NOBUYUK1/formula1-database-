@@ -6442,4 +6442,27 @@
         "emoji": "🍡",
         "skin_tone_support": false,
         "name": "dango",
-        "slug": "dango"
+        "slug": "dango",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥟",
+        "skin_tone_support": false,
+        "name": "dumpling",
+        "slug": "dumpling",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🥠",
+        "skin_tone_support": false,
+        "name": "fortune cookie",
+        "slug": "fortune_cookie",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🥡",
+        "skin_tone_support": false,
+        "name": "takeout box
