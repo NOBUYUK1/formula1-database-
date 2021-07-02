@@ -6419,4 +6419,27 @@
         "skin_tone_support": false,
         "name": "fried shrimp",
         "slug": "fried_shrimp",
-        "unicode_v
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍥",
+        "skin_tone_support": false,
+        "name": "fish cake with swirl",
+        "slug": "fish_cake_with_swirl",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥮",
+        "skin_tone_support": false,
+        "name": "moon cake",
+        "slug": "moon_cake",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🍡",
+        "skin_tone_support": false,
+        "name": "dango",
+        "slug": "dango"
