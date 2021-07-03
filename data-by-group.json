@@ -6465,4 +6465,27 @@
       {
         "emoji": "🥡",
         "skin_tone_support": false,
-        "name": "takeout box
+        "name": "takeout box",
+        "slug": "takeout_box",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🦀",
+        "skin_tone_support": false,
+        "name": "crab",
+        "slug": "crab",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🦞",
+        "skin_tone_support": false,
+        "name": "lobster",
+        "slug": "lobster",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🦐",
+        "skin_tone_support": fals
