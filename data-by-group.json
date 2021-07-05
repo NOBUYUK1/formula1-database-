@@ -6511,4 +6511,25 @@
         "emoji_version": "12.0"
       },
       {
-        "emoji": "🍦
+        "emoji": "🍦",
+        "skin_tone_support": false,
+        "name": "soft ice cream",
+        "slug": "soft_ice_cream",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍧",
+        "skin_tone_support": false,
+        "name": "shaved ice",
+        "slug": "shaved_ice",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍨",
+        "skin_tone_support": false,
+        "name": "ice cream",
+        "slug": "ice_cream",
+        "unicode_version": "0.6",
+        "emoji_version"
