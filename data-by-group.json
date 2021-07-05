@@ -6488,4 +6488,27 @@
       },
       {
         "emoji": "🦐",
-        "skin_tone_support": fals
+        "skin_tone_support": false,
+        "name": "shrimp",
+        "slug": "shrimp",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🦑",
+        "skin_tone_support": false,
+        "name": "squid",
+        "slug": "squid",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🦪",
+        "skin_tone_support": false,
+        "name": "oyster",
+        "slug": "oyster",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🍦
