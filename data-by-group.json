@@ -6555,4 +6555,28 @@
         "skin_tone_support": false,
         "name": "birthday cake",
         "slug": "birthday_cake",
-        "unicode_vers
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍰",
+        "skin_tone_support": false,
+        "name": "shortcake",
+        "slug": "shortcake",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🧁",
+        "skin_tone_support": false,
+        "name": "cupcake",
+        "slug": "cupcake",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🥧",
+        "skin_tone_support": false,
+        "name": "pie",
+        "slug": "pie",
+        "unicod
