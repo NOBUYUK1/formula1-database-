@@ -6532,4 +6532,27 @@
         "name": "ice cream",
         "slug": "ice_cream",
         "unicode_version": "0.6",
-        "emoji_version"
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍩",
+        "skin_tone_support": false,
+        "name": "doughnut",
+        "slug": "doughnut",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍪",
+        "skin_tone_support": false,
+        "name": "cookie",
+        "slug": "cookie",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎂",
+        "skin_tone_support": false,
+        "name": "birthday cake",
+        "slug": "birthday_cake",
+        "unicode_vers
