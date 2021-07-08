@@ -6579,4 +6579,26 @@
         "skin_tone_support": false,
         "name": "pie",
         "slug": "pie",
-        "unicod
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🍫",
+        "skin_tone_support": false,
+        "name": "chocolate bar",
+        "slug": "chocolate_bar",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍬",
+        "skin_tone_support": false,
+        "name": "candy",
+        "slug": "candy",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍭",
+        "skin_tone_support": false,
+      
