@@ -6601,4 +6601,27 @@
       {
         "emoji": "🍭",
         "skin_tone_support": false,
-      
+        "name": "lollipop",
+        "slug": "lollipop",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍮",
+        "skin_tone_support": false,
+        "name": "custard",
+        "slug": "custard",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍯",
+        "skin_tone_support": false,
+        "name": "honey pot",
+        "slug": "honey_pot",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍼",
+        "skin_tone_s
