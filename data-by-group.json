@@ -6624,4 +6624,23 @@
       },
       {
         "emoji": "🍼",
-        "skin_tone_s
+        "skin_tone_support": false,
+        "name": "baby bottle",
+        "slug": "baby_bottle",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🥛",
+        "skin_tone_support": false,
+        "name": "glass of milk",
+        "slug": "glass_of_milk",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "☕",
+        "skin_tone_support": false,
+        "name": "hot beverage",
+        "slug": "hot_beverage",
+        "unicode_versi
