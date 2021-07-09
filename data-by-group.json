@@ -6643,4 +6643,27 @@
         "skin_tone_support": false,
         "name": "hot beverage",
         "slug": "hot_beverage",
-        "unicode_versi
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🫖",
+        "skin_tone_support": false,
+        "name": "teapot",
+        "slug": "teapot",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🍵",
+        "skin_tone_support": false,
+        "name": "teacup without handle",
+        "slug": "teacup_without_handle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍶",
+        "skin_tone_support": false,
+        "name": "sake",
+  
