@@ -6666,4 +6666,25 @@
         "emoji": "🍶",
         "skin_tone_support": false,
         "name": "sake",
-  
+        "slug": "sake",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🍾",
+        "skin_tone_support": false,
+        "name": "bottle with popping cork",
+        "slug": "bottle_with_popping_cork",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🍷",
+        "skin_tone_support": false,
+        "name": "wine glass",
+        "slug": "wine_glass",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "
