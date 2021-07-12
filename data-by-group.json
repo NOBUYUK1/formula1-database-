@@ -6731,4 +6731,25 @@
         "skin_tone_support": false,
         "name": "tumbler glass",
         "slug": "tumbler_glass",
-        "u
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🫗",
+        "skin_tone_support": false,
+        "name": "pouring liquid",
+        "slug": "pouring_liquid",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🥤",
+        "skin_tone_support": false,
+        "name": "cup with straw",
+        "slug": "cup_with_straw",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧋",
+        "skin_tone
