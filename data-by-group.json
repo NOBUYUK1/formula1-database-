@@ -6775,3 +6775,23 @@
         "emoji_version": "12.0"
       },
       {
+        "emoji": "🧊",
+        "skin_tone_support": false,
+        "name": "ice",
+        "slug": "ice",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🥢",
+        "skin_tone_support": false,
+        "name": "chopsticks",
+        "slug": "chopsticks",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🍽️",
+        "skin_tone_support": false,
+        "name": "fork and knife with plate",
+        "slug": "fork_and_knife_wit
