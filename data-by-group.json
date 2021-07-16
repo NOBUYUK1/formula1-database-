@@ -6816,4 +6816,29 @@
       },
       {
         "emoji": "🔪",
-        "skin_tone_su
+        "skin_tone_support": false,
+        "name": "kitchen knife",
+        "slug": "kitchen_knife",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🫙",
+        "skin_tone_support": false,
+        "name": "jar",
+        "slug": "jar",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🏺",
+        "skin_tone_support": false,
+        "name": "amphora",
+        "slug": "amphora",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      }
+    ]
+  },
+  {
+  
