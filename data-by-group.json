@@ -6794,4 +6794,26 @@
         "emoji": "🍽️",
         "skin_tone_support": false,
         "name": "fork and knife with plate",
-        "slug": "fork_and_knife_wit
+        "slug": "fork_and_knife_with_plate",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🍴",
+        "skin_tone_support": false,
+        "name": "fork and knife",
+        "slug": "fork_and_knife",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥄",
+        "skin_tone_support": false,
+        "name": "spoon",
+        "slug": "spoon",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🔪",
+        "skin_tone_su
