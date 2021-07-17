@@ -6841,4 +6841,24 @@
     ]
   },
   {
-  
+    "name": "Travel & Places",
+    "slug": "travel_places",
+    "emojis": [
+      {
+        "emoji": "🌍",
+        "skin_tone_support": false,
+        "name": "globe showing Europe-Africa",
+        "slug": "globe_showing_europe_africa",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌎",
+        "skin_tone_support": false,
+        "name": "globe showing Americas",
+        "slug": "globe_showing_americas",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌏",
