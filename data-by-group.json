@@ -6862,3 +6862,22 @@
       },
       {
         "emoji": "🌏",
+        "skin_tone_support": false,
+        "name": "globe showing Asia-Australia",
+        "slug": "globe_showing_asia_australia",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌐",
+        "skin_tone_support": false,
+        "name": "globe with meridians",
+        "slug": "globe_with_meridians",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🗺️",
+        "skin_tone_support": false,
+        "name": "world map",
+        "slug": "worl
