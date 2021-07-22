@@ -6904,4 +6904,26 @@
         "emoji": "🏔️",
         "skin_tone_support": false,
         "name": "snow-capped mountain",
- 
+        "slug": "snow_capped_mountain",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⛰️",
+        "skin_tone_support": false,
+        "name": "mountain",
+        "slug": "mountain",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌋",
+        "skin_tone_support": false,
+        "name": "volcano",
+        "slug": "volcano",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🗻",
+     
