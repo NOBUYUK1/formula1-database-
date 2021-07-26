@@ -6926,4 +6926,24 @@
       },
       {
         "emoji": "🗻",
-     
+        "skin_tone_support": false,
+        "name": "mount fuji",
+        "slug": "mount_fuji",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏕️",
+        "skin_tone_support": false,
+        "name": "camping",
+        "slug": "camping",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🏖️",
+        "skin_tone_support": false,
+        "name": "beach with umbrella",
+        "slug": "beach_with_umbrella",
+        "unicode_version": "0.7",
+        "e
