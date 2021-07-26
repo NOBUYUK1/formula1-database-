@@ -6946,4 +6946,25 @@
         "name": "beach with umbrella",
         "slug": "beach_with_umbrella",
         "unicode_version": "0.7",
-        "e
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🏜️",
+        "skin_tone_support": false,
+        "name": "desert",
+        "slug": "desert",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🏝️",
+        "skin_tone_support": false,
+        "name": "desert island",
+        "slug": "desert_island",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🏞️",
+        "skin_tone_support": false,
+        "name": "nat
