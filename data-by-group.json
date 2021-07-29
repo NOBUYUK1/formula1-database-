@@ -7010,3 +7010,27 @@
         "name": "rock",
         "slug": "rock",
         "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🪵",
+        "skin_tone_support": false,
+        "name": "wood",
+        "slug": "wood",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🛖",
+        "skin_tone_support": false,
+        "name": "hut",
+        "slug": "hut",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🏘️",
+        "skin_tone_support": false,
+        "name": "houses",
+        "slug": "houses",
+        "unicode_
