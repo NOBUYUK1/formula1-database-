@@ -6989,4 +6989,24 @@
         "emoji_version": "0.7"
       },
       {
-        "
+        "emoji": "🏗️",
+        "skin_tone_support": false,
+        "name": "building construction",
+        "slug": "building_construction",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🧱",
+        "skin_tone_support": false,
+        "name": "brick",
+        "slug": "brick",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🪨",
+        "skin_tone_support": false,
+        "name": "rock",
+        "slug": "rock",
+        "unicode_version": "13.0",
