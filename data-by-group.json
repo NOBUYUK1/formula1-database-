@@ -7033,4 +7033,26 @@
         "skin_tone_support": false,
         "name": "houses",
         "slug": "houses",
-        "unicode_
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🏚️",
+        "skin_tone_support": false,
+        "name": "derelict house",
+        "slug": "derelict_house",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🏠",
+        "skin_tone_support": false,
+        "name": "house",
+        "slug": "house",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏡",
+        "skin_tone_support": false,
+        "name": "house with garden",
