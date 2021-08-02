@@ -7098,4 +7098,27 @@
         "name": "bank",
         "slug": "bank",
         "unicode_version": "0.6",
-        "emoji_versio
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏨",
+        "skin_tone_support": false,
+        "name": "hotel",
+        "slug": "hotel",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏩",
+        "skin_tone_support": false,
+        "name": "love hotel",
+        "slug": "love_hotel",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏪",
+        "skin_tone_support": false,
+        "name": "convenience store",
+        "slug": "convenience_store",
+        "unicode_ve
