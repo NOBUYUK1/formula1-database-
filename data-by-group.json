@@ -7056,3 +7056,23 @@
         "emoji": "🏡",
         "skin_tone_support": false,
         "name": "house with garden",
+        "slug": "house_with_garden",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏢",
+        "skin_tone_support": false,
+        "name": "office building",
+        "slug": "office_building",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏣",
+        "skin_tone_support": false,
+        "name": "Japanese post office",
+        "slug": "japanese_post_office",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+ 
