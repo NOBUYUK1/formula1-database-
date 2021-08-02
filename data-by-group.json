@@ -7075,4 +7075,27 @@
         "slug": "japanese_post_office",
         "unicode_version": "0.6",
         "emoji_version": "0.6"
- 
+      },
+      {
+        "emoji": "🏤",
+        "skin_tone_support": false,
+        "name": "post office",
+        "slug": "post_office",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🏥",
+        "skin_tone_support": false,
+        "name": "hospital",
+        "slug": "hospital",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏦",
+        "skin_tone_support": false,
+        "name": "bank",
+        "slug": "bank",
+        "unicode_version": "0.6",
+        "emoji_versio
