@@ -7121,4 +7121,26 @@
         "skin_tone_support": false,
         "name": "convenience store",
         "slug": "convenience_store",
-        "unicode_ve
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏫",
+        "skin_tone_support": false,
+        "name": "school",
+        "slug": "school",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏬",
+        "skin_tone_support": false,
+        "name": "department store",
+        "slug": "department_store",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏭",
+        "skin_tone_support": false,
+        "name": "factory",
