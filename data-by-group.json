@@ -7144,3 +7144,27 @@
         "emoji": "🏭",
         "skin_tone_support": false,
         "name": "factory",
+        "slug": "factory",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏯",
+        "skin_tone_support": false,
+        "name": "Japanese castle",
+        "slug": "japanese_castle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏰",
+        "skin_tone_support": false,
+        "name": "castle",
+        "slug": "castle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💒",
+        "skin_tone_support": false,
+   
