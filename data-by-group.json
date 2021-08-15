@@ -7167,4 +7167,26 @@
       {
         "emoji": "💒",
         "skin_tone_support": false,
-   
+        "name": "wedding",
+        "slug": "wedding",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🗼",
+        "skin_tone_support": false,
+        "name": "Tokyo tower",
+        "slug": "tokyo_tower",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🗽",
+        "skin_tone_support": false,
+        "name": "Statue of Liberty",
+        "slug": "statue_of_liberty",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "e
