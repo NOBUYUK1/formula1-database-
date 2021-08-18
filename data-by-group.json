@@ -7189,4 +7189,26 @@
         "emoji_version": "0.6"
       },
       {
-        "e
+        "emoji": "⛪",
+        "skin_tone_support": false,
+        "name": "church",
+        "slug": "church",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕌",
+        "skin_tone_support": false,
+        "name": "mosque",
+        "slug": "mosque",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🛕",
+        "skin_tone_support": false,
+        "name": "hindu temple",
+        "slug": "hindu_temple",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
