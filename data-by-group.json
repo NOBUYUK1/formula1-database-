@@ -7234,4 +7234,28 @@
         "name": "kaaba",
         "slug": "kaaba",
         "unicode_version": "1.0",
-        "emoji_version": "1.0
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "⛲",
+        "skin_tone_support": false,
+        "name": "fountain",
+        "slug": "fountain",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⛺",
+        "skin_tone_support": false,
+        "name": "tent",
+        "slug": "tent",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌁",
+        "skin_tone_support": false,
+        "name": "foggy",
+        "slug": "foggy",
+        "unicode_version": "0.6",
+        "emoji_version": "0
