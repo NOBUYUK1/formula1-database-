@@ -7212,3 +7212,26 @@
         "unicode_version": "12.0",
         "emoji_version": "12.0"
       },
+      {
+        "emoji": "🕍",
+        "skin_tone_support": false,
+        "name": "synagogue",
+        "slug": "synagogue",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "⛩️",
+        "skin_tone_support": false,
+        "name": "shinto shrine",
+        "slug": "shinto_shrine",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🕋",
+        "skin_tone_support": false,
+        "name": "kaaba",
+        "slug": "kaaba",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0
