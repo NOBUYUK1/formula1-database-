@@ -7281,4 +7281,26 @@
         "skin_tone_support": false,
         "name": "sunrise over mountains",
         "slug": "sunrise_over_mountains",
-  
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌅",
+        "skin_tone_support": false,
+        "name": "sunrise",
+        "slug": "sunrise",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌆",
+        "skin_tone_support": false,
+        "name": "cityscape at dusk",
+        "slug": "cityscape_at_dusk",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌇",
+        "skin_tone_support": false,
+        "name": "sunset",
