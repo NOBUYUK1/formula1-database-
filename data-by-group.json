@@ -7258,4 +7258,27 @@
         "name": "foggy",
         "slug": "foggy",
         "unicode_version": "0.6",
-        "emoji_version": "0
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌃",
+        "skin_tone_support": false,
+        "name": "night with stars",
+        "slug": "night_with_stars",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏙️",
+        "skin_tone_support": false,
+        "name": "cityscape",
+        "slug": "cityscape",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌄",
+        "skin_tone_support": false,
+        "name": "sunrise over mountains",
+        "slug": "sunrise_over_mountains",
+  
