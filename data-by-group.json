@@ -7326,4 +7326,25 @@
       },
       {
         "emoji": "🎠",
-        "
+        "skin_tone_support": false,
+        "name": "carousel horse",
+        "slug": "carousel_horse",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛝",
+        "skin_tone_support": false,
+        "name": "playground slide",
+        "slug": "playground_slide",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🎡",
+        "skin_tone_support": false,
+        "name": "ferris wheel",
+        "slug": "ferris_wheel",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      }
