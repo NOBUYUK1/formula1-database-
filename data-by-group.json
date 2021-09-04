@@ -7347,4 +7347,26 @@
         "slug": "ferris_wheel",
         "unicode_version": "0.6",
         "emoji_version": "0.6"
-      }
+      },
+      {
+        "emoji": "🎢",
+        "skin_tone_support": false,
+        "name": "roller coaster",
+        "slug": "roller_coaster",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💈",
+        "skin_tone_support": false,
+        "name": "barber pole",
+        "slug": "barber_pole",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎪",
+        "skin_tone_support": false,
+        "name": "circus tent",
+        "slug": "circus_tent",
+        "unicode_version": 
