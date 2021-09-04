@@ -7304,3 +7304,26 @@
         "emoji": "🌇",
         "skin_tone_support": false,
         "name": "sunset",
+        "slug": "sunset",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌉",
+        "skin_tone_support": false,
+        "name": "bridge at night",
+        "slug": "bridge_at_night",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♨️",
+        "skin_tone_support": false,
+        "name": "hot springs",
+        "slug": "hot_springs",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎠",
+        "
