@@ -7369,4 +7369,26 @@
         "skin_tone_support": false,
         "name": "circus tent",
         "slug": "circus_tent",
-        "unicode_version": 
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚂",
+        "skin_tone_support": false,
+        "name": "locomotive",
+        "slug": "locomotive",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚃",
+        "skin_tone_support": false,
+        "name": "railway car",
+        "slug": "railway_car",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚄",
+        "skin_tone_support": false,
+  
