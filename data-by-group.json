@@ -7414,4 +7414,27 @@
       },
       {
         "emoji": "🚇",
-        "skin_tone_supp
+        "skin_tone_support": false,
+        "name": "metro",
+        "slug": "metro",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚈",
+        "skin_tone_support": false,
+        "name": "light rail",
+        "slug": "light_rail",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚉",
+        "skin_tone_support": false,
+        "name": "station",
+        "slug": "station",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "e
