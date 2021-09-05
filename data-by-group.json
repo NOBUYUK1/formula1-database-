@@ -7391,4 +7391,27 @@
       {
         "emoji": "🚄",
         "skin_tone_support": false,
-  
+        "name": "high-speed train",
+        "slug": "high_speed_train",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚅",
+        "skin_tone_support": false,
+        "name": "bullet train",
+        "slug": "bullet_train",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚆",
+        "skin_tone_support": false,
+        "name": "train",
+        "slug": "train",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚇",
+        "skin_tone_supp
