@@ -7458,4 +7458,27 @@
         "name": "mountain railway",
         "slug": "mountain_railway",
         "unicode_version": "1.0",
-        "emoji_version": 
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚋",
+        "skin_tone_support": false,
+        "name": "tram car",
+        "slug": "tram_car",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚌",
+        "skin_tone_support": false,
+        "name": "bus",
+        "slug": "bus",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚍",
+        "skin_tone_support": false,
+        "name": "oncoming bus",
+        "slug": "oncoming_bus",
+        "unicode_version": "0.7
