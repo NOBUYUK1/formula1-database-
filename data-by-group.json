@@ -7437,4 +7437,25 @@
         "emoji_version": "0.6"
       },
       {
-        "e
+        "emoji": "🚊",
+        "skin_tone_support": false,
+        "name": "tram",
+        "slug": "tram",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚝",
+        "skin_tone_support": false,
+        "name": "monorail",
+        "slug": "monorail",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚞",
+        "skin_tone_support": false,
+        "name": "mountain railway",
+        "slug": "mountain_railway",
+        "unicode_version": "1.0",
+        "emoji_version": 
