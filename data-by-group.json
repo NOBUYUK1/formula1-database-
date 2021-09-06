@@ -7481,4 +7481,29 @@
         "skin_tone_support": false,
         "name": "oncoming bus",
         "slug": "oncoming_bus",
-        "unicode_version": "0.7
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🚎",
+        "skin_tone_support": false,
+        "name": "trolleybus",
+        "slug": "trolleybus",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚐",
+        "skin_tone_support": false,
+        "name": "minibus",
+        "slug": "minibus",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚑",
+        "skin_tone_support": false,
+        "name": "ambulance",
+        "slug": "ambulance",
+        "unicode_version": "0.6",
+        
