@@ -7506,4 +7506,26 @@
         "name": "ambulance",
         "slug": "ambulance",
         "unicode_version": "0.6",
-        
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚒",
+        "skin_tone_support": false,
+        "name": "fire engine",
+        "slug": "fire_engine",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚓",
+        "skin_tone_support": false,
+        "name": "police car",
+        "slug": "police_car",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚔",
+        "skin_tone_support": false,
+        "name": "oncoming police car",
+        "slug": "o
