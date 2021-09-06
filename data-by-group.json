@@ -7528,4 +7528,26 @@
         "emoji": "🚔",
         "skin_tone_support": false,
         "name": "oncoming police car",
-        "slug": "o
+        "slug": "oncoming_police_car",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🚕",
+        "skin_tone_support": false,
+        "name": "taxi",
+        "slug": "taxi",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚖",
+        "skin_tone_support": false,
+        "name": "oncoming taxi",
+        "slug": "oncoming_taxi",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚗",
+        "skin_tone_support": 
