@@ -7550,4 +7550,24 @@
       },
       {
         "emoji": "🚗",
-        "skin_tone_support": 
+        "skin_tone_support": false,
+        "name": "automobile",
+        "slug": "automobile",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚘",
+        "skin_tone_support": false,
+        "name": "oncoming automobile",
+        "slug": "oncoming_automobile",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🚙",
+        "skin_tone_support": false,
+        "name": "sport utility vehicle",
+        "slug": "sport_utility_vehicle",
+        "unicode_version": "0.6",
+      
