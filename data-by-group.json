@@ -7592,4 +7592,27 @@
         "emoji": "🚛",
         "skin_tone_support": false,
         "name": "articulated lorry",
-        "slu
+        "slug": "articulated_lorry",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚜",
+        "skin_tone_support": false,
+        "name": "tractor",
+        "slug": "tractor",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🏎️",
+        "skin_tone_support": false,
+        "name": "racing car",
+        "slug": "racing_car",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🏍️",
+        "skin_tone_support": false,
+        "name": "motorc
