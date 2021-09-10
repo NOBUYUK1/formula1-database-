@@ -7570,4 +7570,26 @@
         "name": "sport utility vehicle",
         "slug": "sport_utility_vehicle",
         "unicode_version": "0.6",
-      
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛻",
+        "skin_tone_support": false,
+        "name": "pickup truck",
+        "slug": "pickup_truck",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🚚",
+        "skin_tone_support": false,
+        "name": "delivery truck",
+        "slug": "delivery_truck",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚛",
+        "skin_tone_support": false,
+        "name": "articulated lorry",
+        "slu
