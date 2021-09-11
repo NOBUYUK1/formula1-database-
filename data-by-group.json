@@ -7638,4 +7638,25 @@
       },
       {
         "emoji": "🦼",
-        "skin
+        "skin_tone_support": false,
+        "name": "motorized wheelchair",
+        "slug": "motorized_wheelchair",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🛺",
+        "skin_tone_support": false,
+        "name": "auto rickshaw",
+        "slug": "auto_rickshaw",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🚲",
+        "skin_tone_support": false,
+        "name": "bicycle",
+        "slug": "bicycle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
