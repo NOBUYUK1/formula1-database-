@@ -7660,3 +7660,25 @@
         "unicode_version": "0.6",
         "emoji_version": "0.6"
       },
+      {
+        "emoji": "🛴",
+        "skin_tone_support": false,
+        "name": "kick scooter",
+        "slug": "kick_scooter",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🛹",
+        "skin_tone_support": false,
+        "name": "skateboard",
+        "slug": "skateboard",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🛼",
+        "skin_tone_support": false,
+        "name": "roller skate",
+        "slug": "roller_skate",
+        "unicode_versi
