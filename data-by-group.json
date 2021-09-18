@@ -7681,4 +7681,26 @@
         "skin_tone_support": false,
         "name": "roller skate",
         "slug": "roller_skate",
-        "unicode_versi
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🚏",
+        "skin_tone_support": false,
+        "name": "bus stop",
+        "slug": "bus_stop",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛣️",
+        "skin_tone_support": false,
+        "name": "motorway",
+        "slug": "motorway",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🛤️",
+        "skin_tone_support": false,
+        "name": "railway track"
