@@ -7703,4 +7703,27 @@
       {
         "emoji": "🛤️",
         "skin_tone_support": false,
-        "name": "railway track"
+        "name": "railway track",
+        "slug": "railway_track",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🛢️",
+        "skin_tone_support": false,
+        "name": "oil drum",
+        "slug": "oil_drum",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⛽",
+        "skin_tone_support": false,
+        "name": "fuel pump",
+        "slug": "fuel_pump",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛞",
+        "sk
