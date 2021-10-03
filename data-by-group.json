@@ -7791,4 +7791,25 @@
       {
         "emoji": "⛵",
         "skin_tone_support": false,
-   
+        "name": "sailboat",
+        "slug": "sailboat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛶",
+        "skin_tone_support": false,
+        "name": "canoe",
+        "slug": "canoe",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🚤",
+        "skin_tone_support": false,
+        "name": "speedboat",
+        "slug": "speedboat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+    
