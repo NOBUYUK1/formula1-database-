@@ -7726,4 +7726,24 @@
       },
       {
         "emoji": "🛞",
-        "sk
+        "skin_tone_support": false,
+        "name": "wheel",
+        "slug": "wheel",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🚨",
+        "skin_tone_support": false,
+        "name": "police car light",
+        "slug": "police_car_light",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚥",
+        "skin_tone_support": false,
+        "name": "horizontal traffic light",
+        "slug": "horizontal_traffic_light",
+        "unicode_version": "0.6",
+        "emo
