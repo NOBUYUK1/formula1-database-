@@ -7746,4 +7746,25 @@
         "name": "horizontal traffic light",
         "slug": "horizontal_traffic_light",
         "unicode_version": "0.6",
-        "emo
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚦",
+        "skin_tone_support": false,
+        "name": "vertical traffic light",
+        "slug": "vertical_traffic_light",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🛑",
+        "skin_tone_support": false,
+        "name": "stop sign",
+        "slug": "stop_sign",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🚧",
+        "skin_tone_support": false,
+        "nam
