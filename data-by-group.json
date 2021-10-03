@@ -7767,4 +7767,28 @@
       {
         "emoji": "🚧",
         "skin_tone_support": false,
-        "nam
+        "name": "construction",
+        "slug": "construction",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⚓",
+        "skin_tone_support": false,
+        "name": "anchor",
+        "slug": "anchor",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛟",
+        "skin_tone_support": false,
+        "name": "ring buoy",
+        "slug": "ring_buoy",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "⛵",
+        "skin_tone_support": false,
+   
