@@ -7834,4 +7834,28 @@
         "name": "motor boat",
         "slug": "motor_boat",
         "unicode_version": "0.7",
-        "e
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🚢",
+        "skin_tone_support": false,
+        "name": "ship",
+        "slug": "ship",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "✈️",
+        "skin_tone_support": false,
+        "name": "airplane",
+        "slug": "airplane",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛩️",
+        "skin_tone_support": false,
+        "name": "small airplane",
+        "slug": "small_airplane",
+        "unicode_version": "0.7",
+ 
