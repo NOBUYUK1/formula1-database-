@@ -7812,4 +7812,26 @@
         "unicode_version": "0.6",
         "emoji_version": "0.6"
       },
-    
+      {
+        "emoji": "🛳️",
+        "skin_tone_support": false,
+        "name": "passenger ship",
+        "slug": "passenger_ship",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⛴️",
+        "skin_tone_support": false,
+        "name": "ferry",
+        "slug": "ferry",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🛥️",
+        "skin_tone_support": false,
+        "name": "motor boat",
+        "slug": "motor_boat",
+        "unicode_version": "0.7",
+        "e
