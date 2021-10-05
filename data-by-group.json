@@ -7858,4 +7858,26 @@
         "name": "small airplane",
         "slug": "small_airplane",
         "unicode_version": "0.7",
- 
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🛫",
+        "skin_tone_support": false,
+        "name": "airplane departure",
+        "slug": "airplane_departure",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🛬",
+        "skin_tone_support": false,
+        "name": "airplane arrival",
+        "slug": "airplane_arrival",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🪂",
+        "skin_tone_support": false,
+        "name": "parachute",
+        "slug": "
