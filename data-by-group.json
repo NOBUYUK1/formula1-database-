@@ -7880,4 +7880,27 @@
         "emoji": "🪂",
         "skin_tone_support": false,
         "name": "parachute",
-        "slug": "
+        "slug": "parachute",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "💺",
+        "skin_tone_support": false,
+        "name": "seat",
+        "slug": "seat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚁",
+        "skin_tone_support": false,
+        "name": "helicopter",
+        "slug": "helicopter",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚟",
+        "skin_tone_support": false,
+        
