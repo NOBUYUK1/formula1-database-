@@ -7903,4 +7903,23 @@
       {
         "emoji": "🚟",
         "skin_tone_support": false,
-        
+        "name": "suspension railway",
+        "slug": "suspension_railway",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚠",
+        "skin_tone_support": false,
+        "name": "mountain cableway",
+        "slug": "mountain_cableway",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚡",
+        "skin_tone_support": false,
+        "name": "aerial tramway",
+        "slug": "aerial_tramway",
+        "unicode_version": "1.0",
+        "emoji_version": 
