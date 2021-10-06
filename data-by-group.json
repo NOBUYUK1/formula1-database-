@@ -7990,4 +7990,24 @@
       },
       {
         "emoji": "⏰",
-        "skin_tone_support": f
+        "skin_tone_support": false,
+        "name": "alarm clock",
+        "slug": "alarm_clock",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⏱️",
+        "skin_tone_support": false,
+        "name": "stopwatch",
+        "slug": "stopwatch",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "⏲️",
+        "skin_tone_support": false,
+        "name": "timer clock",
+        "slug": "timer_clock",
+        "unicode_version": "1.0",
+        "em
