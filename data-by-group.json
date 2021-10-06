@@ -7969,4 +7969,25 @@
         "skin_tone_support": false,
         "name": "hourglass done",
         "slug": "hourglass_done",
-        "unic
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⏳",
+        "skin_tone_support": false,
+        "name": "hourglass not done",
+        "slug": "hourglass_not_done",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⌚",
+        "skin_tone_support": false,
+        "name": "watch",
+        "slug": "watch",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⏰",
+        "skin_tone_support": f
