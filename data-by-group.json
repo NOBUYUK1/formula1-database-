@@ -7922,4 +7922,28 @@
         "name": "aerial tramway",
         "slug": "aerial_tramway",
         "unicode_version": "1.0",
-        "emoji_version": 
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🛰️",
+        "skin_tone_support": false,
+        "name": "satellite",
+        "slug": "satellite",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🚀",
+        "skin_tone_support": false,
+        "name": "rocket",
+        "slug": "rocket",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛸",
+        "skin_tone_support": false,
+        "name": "flying saucer",
+        "slug": "flying_saucer",
+        "unicode_version": "5.0",
+        "emoji_ve
