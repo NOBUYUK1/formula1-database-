@@ -7946,4 +7946,27 @@
         "name": "flying saucer",
         "slug": "flying_saucer",
         "unicode_version": "5.0",
-        "emoji_ve
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🛎️",
+        "skin_tone_support": false,
+        "name": "bellhop bell",
+        "slug": "bellhop_bell",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🧳",
+        "skin_tone_support": false,
+        "name": "luggage",
+        "slug": "luggage",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "⌛",
+        "skin_tone_support": false,
+        "name": "hourglass done",
+        "slug": "hourglass_done",
+        "unic
