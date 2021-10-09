@@ -8010,4 +8010,25 @@
         "name": "timer clock",
         "slug": "timer_clock",
         "unicode_version": "1.0",
-        "em
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🕰️",
+        "skin_tone_support": false,
+        "name": "mantelpiece clock",
+        "slug": "mantelpiece_clock",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🕛",
+        "skin_tone_support": false,
+        "name": "twelve o’clock",
+        "slug": "twelve_o_clock",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕧",
+        "skin_tone_support": false,
+        "name": "twelve-thi
