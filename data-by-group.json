@@ -8031,4 +8031,26 @@
       {
         "emoji": "🕧",
         "skin_tone_support": false,
-        "name": "twelve-thi
+        "name": "twelve-thirty",
+        "slug": "twelve_thirty",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🕐",
+        "skin_tone_support": false,
+        "name": "one o’clock",
+        "slug": "one_o_clock",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕜",
+        "skin_tone_support": false,
+        "name": "one-thirty",
+        "slug": "one_thirty",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+      
