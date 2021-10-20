@@ -8053,4 +8053,25 @@
         "emoji_version": "0.7"
       },
       {
-      
+        "emoji": "🕑",
+        "skin_tone_support": false,
+        "name": "two o’clock",
+        "slug": "two_o_clock",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕝",
+        "skin_tone_support": false,
+        "name": "two-thirty",
+        "slug": "two_thirty",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🕒",
+        "skin_tone_support": false,
+        "name": "three o’clock",
+        "slug": "three_o_clock",
+        "unicode_version": "0.6",
+        "emoji_versio
