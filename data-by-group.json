@@ -8074,4 +8074,26 @@
         "name": "three o’clock",
         "slug": "three_o_clock",
         "unicode_version": "0.6",
-        "emoji_versio
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕞",
+        "skin_tone_support": false,
+        "name": "three-thirty",
+        "slug": "three_thirty",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🕓",
+        "skin_tone_support": false,
+        "name": "four o’clock",
+        "slug": "four_o_clock",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕟",
+        "skin_tone_support": false,
+        "name": "four-thirty",
+        "slug"
