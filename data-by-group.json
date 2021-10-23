@@ -8096,4 +8096,23 @@
         "emoji": "🕟",
         "skin_tone_support": false,
         "name": "four-thirty",
-        "slug"
+        "slug": "four_thirty",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🕔",
+        "skin_tone_support": false,
+        "name": "five o’clock",
+        "slug": "five_o_clock",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕠",
+        "skin_tone_support": false,
+        "name": "five-thirty",
+        "slug": "five_thirty",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+     
