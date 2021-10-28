@@ -8183,4 +8183,27 @@
       {
         "emoji": "🕙",
         "skin_tone_support": false,
-        "name": "ten o’
+        "name": "ten o’clock",
+        "slug": "ten_o_clock",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕥",
+        "skin_tone_support": false,
+        "name": "ten-thirty",
+        "slug": "ten_thirty",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🕚",
+        "skin_tone_support": false,
+        "name": "eleven o’clock",
+        "slug": "eleven_o_clock",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕦",
+        "skin_t
