@@ -8160,4 +8160,27 @@
         "emoji": "🕣",
         "skin_tone_support": false,
         "name": "eight-thirty",
-        "slug": "eight_
+        "slug": "eight_thirty",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🕘",
+        "skin_tone_support": false,
+        "name": "nine o’clock",
+        "slug": "nine_o_clock",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕤",
+        "skin_tone_support": false,
+        "name": "nine-thirty",
+        "slug": "nine_thirty",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🕙",
+        "skin_tone_support": false,
+        "name": "ten o’
