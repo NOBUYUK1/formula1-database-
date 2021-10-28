@@ -8206,4 +8206,24 @@
       },
       {
         "emoji": "🕦",
-        "skin_t
+        "skin_tone_support": false,
+        "name": "eleven-thirty",
+        "slug": "eleven_thirty",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌑",
+        "skin_tone_support": false,
+        "name": "new moon",
+        "slug": "new_moon",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌒",
+        "skin_tone_support": false,
+        "name": "waxing crescent moon",
+        "slug": "waxing_crescent_moon",
+        "unicode_version": "1.0",
+        "emoji_version": "
