@@ -8226,4 +8226,27 @@
         "name": "waxing crescent moon",
         "slug": "waxing_crescent_moon",
         "unicode_version": "1.0",
-        "emoji_version": "
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🌓",
+        "skin_tone_support": false,
+        "name": "first quarter moon",
+        "slug": "first_quarter_moon",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌔",
+        "skin_tone_support": false,
+        "name": "waxing gibbous moon",
+        "slug": "waxing_gibbous_moon",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌕",
+        "skin_tone_support": false,
+        "name": "full moon",
+        "slug": "full_moon",
+        "unicode_v
