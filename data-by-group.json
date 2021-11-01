@@ -8249,4 +8249,25 @@
         "skin_tone_support": false,
         "name": "full moon",
         "slug": "full_moon",
-        "unicode_v
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌖",
+        "skin_tone_support": false,
+        "name": "waning gibbous moon",
+        "slug": "waning_gibbous_moon",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🌗",
+        "skin_tone_support": false,
+        "name": "last quarter moon",
+        "slug": "last_quarter_moon",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🌘",
+        "skin_tone_support": 
