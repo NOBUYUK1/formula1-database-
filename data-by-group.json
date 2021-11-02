@@ -8313,3 +8313,26 @@
         "skin_tone_support": false,
         "name": "thermometer",
         "slug": "thermometer",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "☀️",
+        "skin_tone_support": false,
+        "name": "sun",
+        "slug": "sun",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌝",
+        "skin_tone_support": false,
+        "name": "full moon face",
+        "slug": "full_moon_face",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🌞",
+        "skin_tone_support": false,
+        "name": "sun 
