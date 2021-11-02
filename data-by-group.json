@@ -8293,4 +8293,23 @@
         "emoji_version": "1.0"
       },
       {
-        "emoji":
+        "emoji": "🌛",
+        "skin_tone_support": false,
+        "name": "first quarter moon face",
+        "slug": "first_quarter_moon_face",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌜",
+        "skin_tone_support": false,
+        "name": "last quarter moon face",
+        "slug": "last_quarter_moon_face",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌡️",
+        "skin_tone_support": false,
+        "name": "thermometer",
+        "slug": "thermometer",
