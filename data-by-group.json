@@ -8355,4 +8355,25 @@
         "slug": "star",
         "unicode_version": "0.6",
         "emoji_version": "0.6"
-      }
+      },
+      {
+        "emoji": "🌟",
+        "skin_tone_support": false,
+        "name": "glowing star",
+        "slug": "glowing_star",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌠",
+        "skin_tone_support": false,
+        "name": "shooting star",
+        "slug": "shooting_star",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌌",
+        "skin_tone_support": false,
+        "name": "milky way",
+        "slug": "milky_way
