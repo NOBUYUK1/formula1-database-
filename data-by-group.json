@@ -8376,4 +8376,26 @@
         "emoji": "🌌",
         "skin_tone_support": false,
         "name": "milky way",
-        "slug": "milky_way
+        "slug": "milky_way",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "☁️",
+        "skin_tone_support": false,
+        "name": "cloud",
+        "slug": "cloud",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⛅",
+        "skin_tone_support": false,
+        "name": "sun behind cloud",
+        "slug": "sun_behind_cloud",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⛈️",
+        "skin_tone_support": fal
