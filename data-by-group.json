@@ -8416,4 +8416,26 @@
         "emoji": "🌥️",
         "skin_tone_support": false,
         "name": "sun behind large cloud",
-        "slug": "sun_behind_large_cl
+        "slug": "sun_behind_large_cloud",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌦️",
+        "skin_tone_support": false,
+        "name": "sun behind rain cloud",
+        "slug": "sun_behind_rain_cloud",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌧️",
+        "skin_tone_support": false,
+        "name": "cloud with rain",
+        "slug": "cloud_with_rain",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌨️",
+        "skin_tone_supp
