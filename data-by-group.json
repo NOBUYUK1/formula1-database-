@@ -8438,4 +8438,27 @@
       },
       {
         "emoji": "🌨️",
-        "skin_tone_supp
+        "skin_tone_support": false,
+        "name": "cloud with snow",
+        "slug": "cloud_with_snow",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌩️",
+        "skin_tone_support": false,
+        "name": "cloud with lightning",
+        "slug": "cloud_with_lightning",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌪️",
+        "skin_tone_support": false,
+        "name": "tornado",
+        "slug": "tornado",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emo
