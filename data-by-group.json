@@ -8461,4 +8461,26 @@
         "emoji_version": "0.7"
       },
       {
-        "emo
+        "emoji": "🌫️",
+        "skin_tone_support": false,
+        "name": "fog",
+        "slug": "fog",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌬️",
+        "skin_tone_support": false,
+        "name": "wind face",
+        "slug": "wind_face",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🌀",
+        "skin_tone_support": false,
+        "name": "cyclone",
+        "slug": "cyclone",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      
