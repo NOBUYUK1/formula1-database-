@@ -8505,4 +8505,25 @@
         "skin_tone_support": false,
         "name": "umbrella",
         "slug": "umbrella",
-      
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "☔",
+        "skin_tone_support": false,
+        "name": "umbrella with rain drops",
+        "slug": "umbrella_with_rain_drops",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⛱️",
+        "skin_tone_support": false,
+        "name": "umbrella on ground",
+        "slug": "umbrella_on_ground",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⚡",
+        "skin_to
