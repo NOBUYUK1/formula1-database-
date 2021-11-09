@@ -8483,4 +8483,26 @@
         "slug": "cyclone",
         "unicode_version": "0.6",
         "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌈",
+        "skin_tone_support": false,
+        "name": "rainbow",
+        "slug": "rainbow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌂",
+        "skin_tone_support": false,
+        "name": "closed umbrella",
+        "slug": "closed_umbrella",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "☂️",
+        "skin_tone_support": false,
+        "name": "umbrella",
+        "slug": "umbrella",
       
