@@ -8550,4 +8550,26 @@
       },
       {
         "emoji": "⛄",
- 
+        "skin_tone_support": false,
+        "name": "snowman without snow",
+        "slug": "snowman_without_snow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "☄️",
+        "skin_tone_support": false,
+        "name": "comet",
+        "slug": "comet",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔥",
+        "skin_tone_support": false,
+        "name": "fire",
+        "slug": "fire",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      
