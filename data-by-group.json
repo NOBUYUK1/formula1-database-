@@ -8572,4 +8572,31 @@
         "unicode_version": "0.6",
         "emoji_version": "0.6"
       },
-      
+      {
+        "emoji": "💧",
+        "skin_tone_support": false,
+        "name": "droplet",
+        "slug": "droplet",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🌊",
+        "skin_tone_support": false,
+        "name": "water wave",
+        "slug": "water_wave",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      }
+    ]
+  },
+  {
+    "name": "Activities",
+    "slug": "activities",
+    "emojis": [
+      {
+        "emoji": "🎃",
+        "skin_tone_support": false,
+        "name": "jack-o-lantern",
+        "slug": "jack_o_lantern",
+       
