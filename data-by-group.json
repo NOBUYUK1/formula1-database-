@@ -8526,4 +8526,28 @@
       },
       {
         "emoji": "⚡",
-        "skin_to
+        "skin_tone_support": false,
+        "name": "high voltage",
+        "slug": "high_voltage",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "❄️",
+        "skin_tone_support": false,
+        "name": "snowflake",
+        "slug": "snowflake",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "☃️",
+        "skin_tone_support": false,
+        "name": "snowman",
+        "slug": "snowman",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⛄",
+ 
