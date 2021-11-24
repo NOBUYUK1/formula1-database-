@@ -8599,4 +8599,26 @@
         "skin_tone_support": false,
         "name": "jack-o-lantern",
         "slug": "jack_o_lantern",
-       
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎄",
+        "skin_tone_support": false,
+        "name": "Christmas tree",
+        "slug": "christmas_tree",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎆",
+        "skin_tone_support": false,
+        "name": "fireworks",
+        "slug": "fireworks",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎇",
+        "skin_tone_support": false,
+        "name": "sparkl
