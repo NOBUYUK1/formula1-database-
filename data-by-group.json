@@ -8664,4 +8664,28 @@
         "name": "confetti ball",
         "slug": "confetti_ball",
         "unicode_version": "0.6",
-        "emoji_v
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎋",
+        "skin_tone_support": false,
+        "name": "tanabata tree",
+        "slug": "tanabata_tree",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎍",
+        "skin_tone_support": false,
+        "name": "pine decoration",
+        "slug": "pine_decoration",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎎",
+        "skin_tone_support": false,
+        "name": "Japanese dolls",
+        "slug": "japanese_dolls",
+        "unicode_version": "0.6",
+ 
