@@ -8621,4 +8621,27 @@
       {
         "emoji": "🎇",
         "skin_tone_support": false,
-        "name": "sparkl
+        "name": "sparkler",
+        "slug": "sparkler",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🧨",
+        "skin_tone_support": false,
+        "name": "firecracker",
+        "slug": "firecracker",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "✨",
+        "skin_tone_support": false,
+        "name": "sparkles",
+        "slug": "sparkles",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎈",
+        "s
