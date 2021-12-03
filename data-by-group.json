@@ -8644,4 +8644,24 @@
       },
       {
         "emoji": "🎈",
-        "s
+        "skin_tone_support": false,
+        "name": "balloon",
+        "slug": "balloon",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎉",
+        "skin_tone_support": false,
+        "name": "party popper",
+        "slug": "party_popper",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎊",
+        "skin_tone_support": false,
+        "name": "confetti ball",
+        "slug": "confetti_ball",
+        "unicode_version": "0.6",
+        "emoji_v
