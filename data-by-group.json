@@ -8688,4 +8688,26 @@
         "name": "Japanese dolls",
         "slug": "japanese_dolls",
         "unicode_version": "0.6",
- 
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎏",
+        "skin_tone_support": false,
+        "name": "carp streamer",
+        "slug": "carp_streamer",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎐",
+        "skin_tone_support": false,
+        "name": "wind chime",
+        "slug": "wind_chime",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎑",
+        "skin_tone_support": false,
+        "name": "moon viewing ceremony",
+        "slu
