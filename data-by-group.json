@@ -8734,4 +8734,25 @@
         "emoji": "🎁",
         "skin_tone_support": false,
         "name": "wrapped gift",
- 
+        "slug": "wrapped_gift",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎗️",
+        "skin_tone_support": false,
+        "name": "reminder ribbon",
+        "slug": "reminder_ribbon",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🎟️",
+        "skin_tone_support": false,
+        "name": "admission tickets",
+        "slug": "admission_tickets",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+   
