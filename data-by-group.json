@@ -8775,4 +8775,25 @@
         "skin_tone_support": false,
         "name": "trophy",
         "slug": "trophy",
-        "unicode_version": "
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏅",
+        "skin_tone_support": false,
+        "name": "sports medal",
+        "slug": "sports_medal",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🥇",
+        "skin_tone_support": false,
+        "name": "1st place medal",
+        "slug": "1st_place_medal",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🥈",
+        "skin_tone_support": fals
