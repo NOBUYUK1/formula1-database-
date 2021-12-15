@@ -8796,4 +8796,25 @@
       },
       {
         "emoji": "🥈",
-        "skin_tone_support": fals
+        "skin_tone_support": false,
+        "name": "2nd place medal",
+        "slug": "2nd_place_medal",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🥉",
+        "skin_tone_support": false,
+        "name": "3rd place medal",
+        "slug": "3rd_place_medal",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "⚽",
+        "skin_tone_support": false,
+        "name": "soccer ball",
+        "slug": "soccer_ball",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+  
