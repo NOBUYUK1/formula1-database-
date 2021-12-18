@@ -8817,4 +8817,26 @@
         "slug": "soccer_ball",
         "unicode_version": "0.6",
         "emoji_version": "0.6"
-  
+      },
+      {
+        "emoji": "⚾",
+        "skin_tone_support": false,
+        "name": "baseball",
+        "slug": "baseball",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥎",
+        "skin_tone_support": false,
+        "name": "softball",
+        "slug": "softball",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🏀",
+        "skin_tone_support": false,
+        "name": "basketball",
+        "slug": "basketball",
+        "unicode_versio
