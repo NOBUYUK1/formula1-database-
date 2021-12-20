@@ -8839,4 +8839,26 @@
         "skin_tone_support": false,
         "name": "basketball",
         "slug": "basketball",
-        "unicode_versio
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏐",
+        "skin_tone_support": false,
+        "name": "volleyball",
+        "slug": "volleyball",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🏈",
+        "skin_tone_support": false,
+        "name": "american football",
+        "slug": "american_football",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏉",
+        "skin_tone_support": false,
+        "name": "rugby football"
