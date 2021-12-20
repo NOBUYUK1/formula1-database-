@@ -8861,4 +8861,27 @@
       {
         "emoji": "🏉",
         "skin_tone_support": false,
-        "name": "rugby football"
+        "name": "rugby football",
+        "slug": "rugby_football",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🎾",
+        "skin_tone_support": false,
+        "name": "tennis",
+        "slug": "tennis",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥏",
+        "skin_tone_support": false,
+        "name": "flying disc",
+        "slug": "flying_disc",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🎳",
+     
