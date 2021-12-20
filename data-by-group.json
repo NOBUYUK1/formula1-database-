@@ -8884,4 +8884,27 @@
       },
       {
         "emoji": "🎳",
-     
+        "skin_tone_support": false,
+        "name": "bowling",
+        "slug": "bowling",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏏",
+        "skin_tone_support": false,
+        "name": "cricket game",
+        "slug": "cricket_game",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🏑",
+        "skin_tone_support": false,
+        "name": "field hockey",
+        "slug": "field_hockey",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+   
