@@ -8907,4 +8907,25 @@
         "emoji_version": "1.0"
       },
       {
-   
+        "emoji": "🏒",
+        "skin_tone_support": false,
+        "name": "ice hockey",
+        "slug": "ice_hockey",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🥍",
+        "skin_tone_support": false,
+        "name": "lacrosse",
+        "slug": "lacrosse",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🏓",
+        "skin_tone_support": false,
+        "name": "ping pong",
+        "slug": "ping_pong",
+        "unicode_version": "1.0",
+        "emo
