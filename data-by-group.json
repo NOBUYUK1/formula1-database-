@@ -8973,4 +8973,26 @@
       {
         "emoji": "⛸️",
         "skin_tone_support": false,
-        "name": "i
+        "name": "ice skate",
+        "slug": "ice_skate",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🎣",
+        "skin_tone_support": false,
+        "name": "fishing pole",
+        "slug": "fishing_pole",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🤿",
+        "skin_tone_support": false,
+        "name": "diving mask",
+        "slug": "diving_mask",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+     
