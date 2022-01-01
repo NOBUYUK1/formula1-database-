@@ -8950,3 +8950,27 @@
         "emoji": "🥋",
         "skin_tone_support": false,
         "name": "martial arts uniform",
+        "slug": "martial_arts_uniform",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🥅",
+        "skin_tone_support": false,
+        "name": "goal net",
+        "slug": "goal_net",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "⛳",
+        "skin_tone_support": false,
+        "name": "flag in hole",
+        "slug": "flag_in_hole",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⛸️",
+        "skin_tone_support": false,
+        "name": "i
