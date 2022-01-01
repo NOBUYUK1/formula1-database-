@@ -8928,4 +8928,25 @@
         "name": "ping pong",
         "slug": "ping_pong",
         "unicode_version": "1.0",
-        "emo
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🏸",
+        "skin_tone_support": false,
+        "name": "badminton",
+        "slug": "badminton",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🥊",
+        "skin_tone_support": false,
+        "name": "boxing glove",
+        "slug": "boxing_glove",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🥋",
+        "skin_tone_support": false,
+        "name": "martial arts uniform",
