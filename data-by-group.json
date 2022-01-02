@@ -8995,4 +8995,24 @@
         "emoji_version": "12.0"
       },
       {
-     
+        "emoji": "🎽",
+        "skin_tone_support": false,
+        "name": "running shirt",
+        "slug": "running_shirt",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎿",
+        "skin_tone_support": false,
+        "name": "skis",
+        "slug": "skis",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛷",
+        "skin_tone_support": false,
+        "name": "sled",
+        "slug": "sled",
+        "unicode_v
