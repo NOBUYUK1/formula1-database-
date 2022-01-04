@@ -9060,4 +9060,27 @@
       },
       {
         "emoji": "🎱",
-        "skin_tone_support": 
+        "skin_tone_support": false,
+        "name": "pool 8 ball",
+        "slug": "pool_8_ball",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔮",
+        "skin_tone_support": false,
+        "name": "crystal ball",
+        "slug": "crystal_ball",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪄",
+        "skin_tone_support": false,
+        "name": "magic wand",
+        "slug": "magic_wand",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoj
