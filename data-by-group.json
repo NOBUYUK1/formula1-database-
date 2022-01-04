@@ -9015,4 +9015,26 @@
         "skin_tone_support": false,
         "name": "sled",
         "slug": "sled",
-        "unicode_v
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🥌",
+        "skin_tone_support": false,
+        "name": "curling stone",
+        "slug": "curling_stone",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🎯",
+        "skin_tone_support": false,
+        "name": "bullseye",
+        "slug": "bullseye",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪀",
+        "skin_tone_support": false,
+        "name": "yo-yo
