@@ -9037,4 +9037,27 @@
       {
         "emoji": "🪀",
         "skin_tone_support": false,
-        "name": "yo-yo
+        "name": "yo-yo",
+        "slug": "yo_yo",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🪁",
+        "skin_tone_support": false,
+        "name": "kite",
+        "slug": "kite",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🔫",
+        "skin_tone_support": false,
+        "name": "water pistol",
+        "slug": "water_pistol",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎱",
+        "skin_tone_support": 
