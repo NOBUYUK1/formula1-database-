@@ -9083,4 +9083,25 @@
         "emoji_version": "13.0"
       },
       {
-        "emoj
+        "emoji": "🎮",
+        "skin_tone_support": false,
+        "name": "video game",
+        "slug": "video_game",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕹️",
+        "skin_tone_support": false,
+        "name": "joystick",
+        "slug": "joystick",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🎰",
+        "skin_tone_support": false,
+        "name": "slot machine",
+        "slug": "slot_machine",
+        "unicode_version": "0.6",
+        "emoji_version": "0
