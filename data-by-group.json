@@ -9126,4 +9126,27 @@
         "emoji": "🧸",
         "skin_tone_support": false,
         "name": "teddy bear",
-        "slug"
+        "slug": "teddy_bear",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🪅",
+        "skin_tone_support": false,
+        "name": "piñata",
+        "slug": "pinata",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🪩",
+        "skin_tone_support": false,
+        "name": "mirror ball",
+        "slug": "mirror_ball",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🪆",
+        "skin_tone_support": false,
+        "name
