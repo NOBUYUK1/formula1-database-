@@ -9104,4 +9104,26 @@
         "name": "slot machine",
         "slug": "slot_machine",
         "unicode_version": "0.6",
-        "emoji_version": "0
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎲",
+        "skin_tone_support": false,
+        "name": "game die",
+        "slug": "game_die",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🧩",
+        "skin_tone_support": false,
+        "name": "puzzle piece",
+        "slug": "puzzle_piece",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🧸",
+        "skin_tone_support": false,
+        "name": "teddy bear",
+        "slug"
