@@ -9215,4 +9215,26 @@
         "skin_tone_support": false,
         "name": "flower playing cards",
         "slug": "flower_playing_cards",
-        "unic
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎭",
+        "skin_tone_support": false,
+        "name": "performing arts",
+        "slug": "performing_arts",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🖼️",
+        "skin_tone_support": false,
+        "name": "framed picture",
+        "slug": "framed_picture",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🎨",
+        "skin_tone_support": false,
+        "name": "artist
