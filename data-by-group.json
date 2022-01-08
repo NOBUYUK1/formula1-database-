@@ -9192,4 +9192,27 @@
         "name": "chess pawn",
         "slug": "chess_pawn",
         "unicode_version": "11.0",
-        "emoji_version": 
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🃏",
+        "skin_tone_support": false,
+        "name": "joker",
+        "slug": "joker",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🀄",
+        "skin_tone_support": false,
+        "name": "mahjong red dragon",
+        "slug": "mahjong_red_dragon",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎴",
+        "skin_tone_support": false,
+        "name": "flower playing cards",
+        "slug": "flower_playing_cards",
+        "unic
