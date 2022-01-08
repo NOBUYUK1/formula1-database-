@@ -9171,4 +9171,25 @@
         "emoji_version": "0.6"
       },
       {
-  
+        "emoji": "♦️",
+        "skin_tone_support": false,
+        "name": "diamond suit",
+        "slug": "diamond_suit",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♣️",
+        "skin_tone_support": false,
+        "name": "club suit",
+        "slug": "club_suit",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♟️",
+        "skin_tone_support": false,
+        "name": "chess pawn",
+        "slug": "chess_pawn",
+        "unicode_version": "11.0",
+        "emoji_version": 
