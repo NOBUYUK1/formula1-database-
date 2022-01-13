@@ -9237,4 +9237,24 @@
       {
         "emoji": "🎨",
         "skin_tone_support": false,
-        "name": "artist
+        "name": "artist palette",
+        "slug": "artist_palette",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🧵",
+        "skin_tone_support": false,
+        "name": "thread",
+        "slug": "thread",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🪡",
+        "skin_tone_support": false,
+        "name": "sewing needle",
+        "slug": "sewing_needle",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
