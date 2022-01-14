@@ -9258,3 +9258,30 @@
         "unicode_version": "13.0",
         "emoji_version": "13.0"
       },
+      {
+        "emoji": "🧶",
+        "skin_tone_support": false,
+        "name": "yarn",
+        "slug": "yarn",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🪢",
+        "skin_tone_support": false,
+        "name": "knot",
+        "slug": "knot",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      }
+    ]
+  },
+  {
+    "name": "Objects",
+    "slug": "objects",
+    "emojis": [
+      {
+        "emoji": "👓",
+        "skin_tone_support": false,
+        "name": "glasses",
+ 
