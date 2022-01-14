@@ -9284,4 +9284,26 @@
         "emoji": "👓",
         "skin_tone_support": false,
         "name": "glasses",
- 
+        "slug": "glasses",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕶️",
+        "skin_tone_support": false,
+        "name": "sunglasses",
+        "slug": "sunglasses",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🥽",
+        "skin_tone_support": false,
+        "name": "goggles",
+        "slug": "goggles",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🥼",
+        "skin_tone_support": f
