@@ -9329,4 +9329,28 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji":
+        "emoji": "👕",
+        "skin_tone_support": false,
+        "name": "t-shirt",
+        "slug": "t_shirt",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👖",
+        "skin_tone_support": false,
+        "name": "jeans",
+        "slug": "jeans",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🧣",
+        "skin_tone_support": false,
+        "name": "scarf",
+        "slug": "scarf",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+      
