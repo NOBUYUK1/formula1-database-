@@ -9306,4 +9306,27 @@
       },
       {
         "emoji": "🥼",
-        "skin_tone_support": f
+        "skin_tone_support": false,
+        "name": "lab coat",
+        "slug": "lab_coat",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🦺",
+        "skin_tone_support": false,
+        "name": "safety vest",
+        "slug": "safety_vest",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "👔",
+        "skin_tone_support": false,
+        "name": "necktie",
+        "slug": "necktie",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji":
