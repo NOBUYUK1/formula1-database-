@@ -9353,4 +9353,28 @@
         "emoji_version": "5.0"
       },
       {
-      
+        "emoji": "🧤",
+        "skin_tone_support": false,
+        "name": "gloves",
+        "slug": "gloves",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧥",
+        "skin_tone_support": false,
+        "name": "coat",
+        "slug": "coat",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🧦",
+        "skin_tone_support": false,
+        "name": "socks",
+        "slug": "socks",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": 
