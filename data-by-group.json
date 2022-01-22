@@ -9402,4 +9402,24 @@
       },
       {
         "emoji": "🩱",
-     
+        "skin_tone_support": false,
+        "name": "one-piece swimsuit",
+        "slug": "one_piece_swimsuit",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🩲",
+        "skin_tone_support": false,
+        "name": "briefs",
+        "slug": "briefs",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🩳",
+        "skin_tone_support": false,
+        "name": "shorts",
+        "slug": "shorts",
+        "unicode_version": "12.0",
+        "emoj
