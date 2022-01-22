@@ -9443,4 +9443,26 @@
       {
         "emoji": "🪭",
         "skin_tone_support": false,
-        "name": "folding hand 
+        "name": "folding hand fan",
+        "slug": "folding_hand_fan",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "👛",
+        "skin_tone_support": false,
+        "name": "purse",
+        "slug": "purse",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👜",
+        "skin_tone_support": false,
+        "name": "handbag",
+        "slug": "handbag",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": 
