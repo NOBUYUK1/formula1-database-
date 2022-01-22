@@ -9422,4 +9422,25 @@
         "name": "shorts",
         "slug": "shorts",
         "unicode_version": "12.0",
-        "emoj
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "👙",
+        "skin_tone_support": false,
+        "name": "bikini",
+        "slug": "bikini",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👚",
+        "skin_tone_support": false,
+        "name": "woman’s clothes",
+        "slug": "woman_s_clothes",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪭",
+        "skin_tone_support": false,
+        "name": "folding hand 
