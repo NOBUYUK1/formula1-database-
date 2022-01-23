@@ -9465,4 +9465,25 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji": 
+        "emoji": "👝",
+        "skin_tone_support": false,
+        "name": "clutch bag",
+        "slug": "clutch_bag",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛍️",
+        "skin_tone_support": false,
+        "name": "shopping bags",
+        "slug": "shopping_bags",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🎒",
+        "skin_tone_support": false,
+        "name": "backpack",
+        "slug": "backpack",
+        "unicode_version": "0.6",
+        "emoj
