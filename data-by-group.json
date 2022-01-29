@@ -9486,4 +9486,28 @@
         "name": "backpack",
         "slug": "backpack",
         "unicode_version": "0.6",
-        "emoj
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🩴",
+        "skin_tone_support": false,
+        "name": "thong sandal",
+        "slug": "thong_sandal",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "👞",
+        "skin_tone_support": false,
+        "name": "man’s shoe",
+        "slug": "man_s_shoe",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👟",
+        "skin_tone_support": false,
+        "name": "running shoe",
+        "slug": "running_shoe",
+        "unicode_version": "0.6",
+        "
