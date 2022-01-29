@@ -9510,4 +9510,26 @@
         "name": "running shoe",
         "slug": "running_shoe",
         "unicode_version": "0.6",
-        "
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🥾",
+        "skin_tone_support": false,
+        "name": "hiking boot",
+        "slug": "hiking_boot",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🥿",
+        "skin_tone_support": false,
+        "name": "flat shoe",
+        "slug": "flat_shoe",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "👠",
+        "skin_tone_support": false,
+        "name": "high-heeled shoe",
+        "s
