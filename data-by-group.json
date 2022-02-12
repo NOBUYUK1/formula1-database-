@@ -9532,4 +9532,25 @@
         "emoji": "👠",
         "skin_tone_support": false,
         "name": "high-heeled shoe",
-        "s
+        "slug": "high_heeled_shoe",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👡",
+        "skin_tone_support": false,
+        "name": "woman’s sandal",
+        "slug": "woman_s_sandal",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🩰",
+        "skin_tone_support": false,
+        "name": "ballet shoes",
+        "slug": "ballet_shoes",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "
