@@ -9573,4 +9573,27 @@
         "skin_tone_support": false,
         "name": "crown",
         "slug": "crown",
-        "u
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "👒",
+        "skin_tone_support": false,
+        "name": "woman’s hat",
+        "slug": "woman_s_hat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎩",
+        "skin_tone_support": false,
+        "name": "top hat",
+        "slug": "top_hat",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎓",
+        "skin_tone_support": false,
+        "name": "graduation cap",
+        "slug": "graduation_
