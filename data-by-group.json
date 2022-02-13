@@ -9553,4 +9553,24 @@
         "emoji_version": "12.0"
       },
       {
-        "emoji": "
+        "emoji": "👢",
+        "skin_tone_support": false,
+        "name": "woman’s boot",
+        "slug": "woman_s_boot",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪮",
+        "skin_tone_support": false,
+        "name": "hair pick",
+        "slug": "hair_pick",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "👑",
+        "skin_tone_support": false,
+        "name": "crown",
+        "slug": "crown",
+        "u
