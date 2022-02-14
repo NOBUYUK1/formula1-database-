@@ -9618,4 +9618,26 @@
       },
       {
         "emoji": "⛑️",
-        "skin_tone_support": fa
+        "skin_tone_support": false,
+        "name": "rescue worker’s helmet",
+        "slug": "rescue_worker_s_helmet",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "📿",
+        "skin_tone_support": false,
+        "name": "prayer beads",
+        "slug": "prayer_beads",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "💄",
+        "skin_tone_support": false,
+        "name": "lipstick",
+        "slug": "lipstick",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      
