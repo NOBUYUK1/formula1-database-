@@ -9662,4 +9662,26 @@
         "name": "muted speaker",
         "slug": "muted_speaker",
         "unicode_version": "1.0",
-        "emoj
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔈",
+        "skin_tone_support": false,
+        "name": "speaker low volume",
+        "slug": "speaker_low_volume",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🔉",
+        "skin_tone_support": false,
+        "name": "speaker medium volume",
+        "slug": "speaker_medium_volume",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔊",
+        "skin_tone_support": false,
+        "name": "speaker high volume",
+        "slug": "spe
