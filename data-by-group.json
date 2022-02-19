@@ -9640,4 +9640,26 @@
         "unicode_version": "0.6",
         "emoji_version": "0.6"
       },
-      
+      {
+        "emoji": "💍",
+        "skin_tone_support": false,
+        "name": "ring",
+        "slug": "ring",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💎",
+        "skin_tone_support": false,
+        "name": "gem stone",
+        "slug": "gem_stone",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔇",
+        "skin_tone_support": false,
+        "name": "muted speaker",
+        "slug": "muted_speaker",
+        "unicode_version": "1.0",
+        "emoj
