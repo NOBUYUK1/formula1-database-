@@ -9706,4 +9706,25 @@
       },
       {
         "emoji": "📯",
-       
+        "skin_tone_support": false,
+        "name": "postal horn",
+        "slug": "postal_horn",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔔",
+        "skin_tone_support": false,
+        "name": "bell",
+        "slug": "bell",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔕",
+        "skin_tone_support": false,
+        "name": "bell with slash",
+        "slug": "bell_with_slash",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
