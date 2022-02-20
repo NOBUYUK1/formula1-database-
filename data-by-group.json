@@ -9684,4 +9684,26 @@
         "emoji": "🔊",
         "skin_tone_support": false,
         "name": "speaker high volume",
-        "slug": "spe
+        "slug": "speaker_high_volume",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📢",
+        "skin_tone_support": false,
+        "name": "loudspeaker",
+        "slug": "loudspeaker",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📣",
+        "skin_tone_support": false,
+        "name": "megaphone",
+        "slug": "megaphone",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📯",
+       
