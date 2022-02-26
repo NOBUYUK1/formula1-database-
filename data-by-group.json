@@ -9728,3 +9728,24 @@
         "unicode_version": "1.0",
         "emoji_version": "1.0"
       },
+      {
+        "emoji": "🎼",
+        "skin_tone_support": false,
+        "name": "musical score",
+        "slug": "musical_score",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎵",
+        "skin_tone_support": false,
+        "name": "musical note",
+        "slug": "musical_note",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎶",
+        "skin_tone_support": false,
+        "name": "musical notes",
+        "slug": "musical_note
