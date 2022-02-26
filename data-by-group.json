@@ -9748,4 +9748,26 @@
         "emoji": "🎶",
         "skin_tone_support": false,
         "name": "musical notes",
-        "slug": "musical_note
+        "slug": "musical_notes",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎙️",
+        "skin_tone_support": false,
+        "name": "studio microphone",
+        "slug": "studio_microphone",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🎚️",
+        "skin_tone_support": false,
+        "name": "level slider",
+        "slug": "level_slider",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🎛️",
+        "skin_tone_support"
