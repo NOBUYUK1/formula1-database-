@@ -9794,4 +9794,24 @@
       },
       {
         "emoji": "📻",
-    
+        "skin_tone_support": false,
+        "name": "radio",
+        "slug": "radio",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎷",
+        "skin_tone_support": false,
+        "name": "saxophone",
+        "slug": "saxophone",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪗",
+        "skin_tone_support": false,
+        "name": "accordion",
+        "slug": "accordion",
+        "unicode_version": "13.0",
+        "emoji_v
