@@ -9814,4 +9814,26 @@
         "name": "accordion",
         "slug": "accordion",
         "unicode_version": "13.0",
-        "emoji_v
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🎸",
+        "skin_tone_support": false,
+        "name": "guitar",
+        "slug": "guitar",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎹",
+        "skin_tone_support": false,
+        "name": "musical keyboard",
+        "slug": "musical_keyboard",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎺",
+        "skin_tone_support": false,
+        "name": "trumpet",
+        "slu
