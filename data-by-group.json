@@ -9905,4 +9905,25 @@
         "emoji_version": "0.6"
       },
       {
-        "emoj
+        "emoji": "☎️",
+        "skin_tone_support": false,
+        "name": "telephone",
+        "slug": "telephone",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📞",
+        "skin_tone_support": false,
+        "name": "telephone receiver",
+        "slug": "telephone_receiver",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📟",
+        "skin_tone_support": false,
+        "name": "pager",
+        "slug": "pager",
+        "unicode_version": "0.6",
+        "emoji_versio
