@@ -9882,4 +9882,27 @@
       },
       {
         "emoji": "🪈",
-        "skin_tone_support": false
+        "skin_tone_support": false,
+        "name": "flute",
+        "slug": "flute",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "📱",
+        "skin_tone_support": false,
+        "name": "mobile phone",
+        "slug": "mobile_phone",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📲",
+        "skin_tone_support": false,
+        "name": "mobile phone with arrow",
+        "slug": "mobile_phone_with_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoj
