@@ -9948,3 +9948,26 @@
         "emoji": "🪫",
         "skin_tone_support": false,
         "name": "low battery",
+        "slug": "low_battery",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🔌",
+        "skin_tone_support": false,
+        "name": "electric plug",
+        "slug": "electric_plug",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💻",
+        "skin_tone_support": false,
+        "name": "laptop",
+        "slug": "laptop",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🖥️",
+        "skin_tone_support"
