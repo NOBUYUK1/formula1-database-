@@ -9926,4 +9926,25 @@
         "name": "pager",
         "slug": "pager",
         "unicode_version": "0.6",
-        "emoji_versio
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📠",
+        "skin_tone_support": false,
+        "name": "fax machine",
+        "slug": "fax_machine",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔋",
+        "skin_tone_support": false,
+        "name": "battery",
+        "slug": "battery",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪫",
+        "skin_tone_support": false,
+        "name": "low battery",
