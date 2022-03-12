@@ -9970,4 +9970,27 @@
       },
       {
         "emoji": "🖥️",
-        "skin_tone_support"
+        "skin_tone_support": false,
+        "name": "desktop computer",
+        "slug": "desktop_computer",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🖨️",
+        "skin_tone_support": false,
+        "name": "printer",
+        "slug": "printer",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⌨️",
+        "skin_tone_support": false,
+        "name": "keyboard",
+        "slug": "keyboard",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🖱️"
