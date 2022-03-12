@@ -9993,4 +9993,28 @@
         "emoji_version": "1.0"
       },
       {
-        "emoji": "🖱️"
+        "emoji": "🖱️",
+        "skin_tone_support": false,
+        "name": "computer mouse",
+        "slug": "computer_mouse",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🖲️",
+        "skin_tone_support": false,
+        "name": "trackball",
+        "slug": "trackball",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "💽",
+        "skin_tone_support": false,
+        "name": "computer disk",
+        "slug": "computer_disk",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji
