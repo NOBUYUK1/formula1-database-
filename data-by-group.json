@@ -10017,4 +10017,25 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji
+        "emoji": "💾",
+        "skin_tone_support": false,
+        "name": "floppy disk",
+        "slug": "floppy_disk",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💿",
+        "skin_tone_support": false,
+        "name": "optical disk",
+        "slug": "optical_disk",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📀",
+        "skin_tone_support": false,
+        "name": "dvd",
+        "slug": "dvd",
+        "unicode_version": "0.6",
+        "emoji_ve
