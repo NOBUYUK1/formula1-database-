@@ -10060,4 +10060,26 @@
         "emoji": "🎞️",
         "skin_tone_support": false,
         "name": "film frames",
-        "slug": "film_fra
+        "slug": "film_frames",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "📽️",
+        "skin_tone_support": false,
+        "name": "film projector",
+        "slug": "film_projector",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🎬",
+        "skin_tone_support": false,
+        "name": "clapper board",
+        "slug": "clapper_board",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📺",
+        "skin_tone_su
