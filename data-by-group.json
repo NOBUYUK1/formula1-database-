@@ -10038,4 +10038,26 @@
         "name": "dvd",
         "slug": "dvd",
         "unicode_version": "0.6",
-        "emoji_ve
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🧮",
+        "skin_tone_support": false,
+        "name": "abacus",
+        "slug": "abacus",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🎥",
+        "skin_tone_support": false,
+        "name": "movie camera",
+        "slug": "movie_camera",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎞️",
+        "skin_tone_support": false,
+        "name": "film frames",
+        "slug": "film_fra
