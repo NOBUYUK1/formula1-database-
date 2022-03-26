@@ -10082,4 +10082,27 @@
       },
       {
         "emoji": "📺",
-        "skin_tone_su
+        "skin_tone_support": false,
+        "name": "television",
+        "slug": "television",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📷",
+        "skin_tone_support": false,
+        "name": "camera",
+        "slug": "camera",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📸",
+        "skin_tone_support": false,
+        "name": "camera with flash",
+        "slug": "camera_with_flash",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "
