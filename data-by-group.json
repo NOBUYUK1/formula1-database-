@@ -10125,4 +10125,25 @@
         "skin_tone_support": false,
         "name": "magnifying glass tilted left",
         "slug": "magnifying_glass_tilted_left",
-      
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔎",
+        "skin_tone_support": false,
+        "name": "magnifying glass tilted right",
+        "slug": "magnifying_glass_tilted_right",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🕯️",
+        "skin_tone_support": false,
+        "name": "candle",
+        "slug": "candle",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "💡",
+        "skin_ton
