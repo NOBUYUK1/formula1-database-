@@ -10146,4 +10146,24 @@
       },
       {
         "emoji": "💡",
-        "skin_ton
+        "skin_tone_support": false,
+        "name": "light bulb",
+        "slug": "light_bulb",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔦",
+        "skin_tone_support": false,
+        "name": "flashlight",
+        "slug": "flashlight",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏮",
+        "skin_tone_support": false,
+        "name": "red paper lantern",
+        "slug": "red_paper_lantern",
+        "unicode_version": "0.6",
+        "emoji_version": 
