@@ -10166,4 +10166,25 @@
         "name": "red paper lantern",
         "slug": "red_paper_lantern",
         "unicode_version": "0.6",
-        "emoji_version": 
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪔",
+        "skin_tone_support": false,
+        "name": "diya lamp",
+        "slug": "diya_lamp",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "📔",
+        "skin_tone_support": false,
+        "name": "notebook with decorative cover",
+        "slug": "notebook_with_decorative_cover",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📕",
+        "skin_tone_support": false,
+        "name": "closed
