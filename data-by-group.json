@@ -10187,4 +10187,27 @@
       {
         "emoji": "📕",
         "skin_tone_support": false,
-        "name": "closed
+        "name": "closed book",
+        "slug": "closed_book",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📖",
+        "skin_tone_support": false,
+        "name": "open book",
+        "slug": "open_book",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📗",
+        "skin_tone_support": false,
+        "name": "green book",
+        "slug": "green_book",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📘",
+      
