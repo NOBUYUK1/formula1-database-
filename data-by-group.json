@@ -10210,4 +10210,27 @@
       },
       {
         "emoji": "📘",
-      
+        "skin_tone_support": false,
+        "name": "blue book",
+        "slug": "blue_book",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📙",
+        "skin_tone_support": false,
+        "name": "orange book",
+        "slug": "orange_book",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📚",
+        "skin_tone_support": false,
+        "name": "books",
+        "slug": "books",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+   
