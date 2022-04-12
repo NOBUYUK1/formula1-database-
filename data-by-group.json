@@ -10233,4 +10233,25 @@
         "emoji_version": "0.6"
       },
       {
+        "emoji": "📓",
+        "skin_tone_support": false,
+        "name": "notebook",
+        "slug": "notebook",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📒",
+        "skin_tone_support": false,
+        "name": "ledger",
+        "slug": "ledger",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📃",
+        "skin_tone_support": false,
+        "name": "page with curl",
+        "slug": "page_with_curl",
+        "unicode_version": "0.6",
    
