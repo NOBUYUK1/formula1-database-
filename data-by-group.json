@@ -10254,4 +10254,27 @@
         "name": "page with curl",
         "slug": "page_with_curl",
         "unicode_version": "0.6",
-   
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📜",
+        "skin_tone_support": false,
+        "name": "scroll",
+        "slug": "scroll",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📄",
+        "skin_tone_support": false,
+        "name": "page facing up",
+        "slug": "page_facing_up",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📰",
+        "skin_tone_support": false,
+        "name": "newspaper",
+        "slug": "newspaper",
+        "unic
