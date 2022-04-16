@@ -10277,4 +10277,25 @@
         "skin_tone_support": false,
         "name": "newspaper",
         "slug": "newspaper",
-        "unic
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🗞️",
+        "skin_tone_support": false,
+        "name": "rolled-up newspaper",
+        "slug": "rolled_up_newspaper",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "📑",
+        "skin_tone_support": false,
+        "name": "bookmark tabs",
+        "slug": "bookmark_tabs",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔖",
+        "skin_tone_support": 
