@@ -10298,4 +10298,25 @@
       },
       {
         "emoji": "🔖",
-        "skin_tone_support": 
+        "skin_tone_support": false,
+        "name": "bookmark",
+        "slug": "bookmark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏷️",
+        "skin_tone_support": false,
+        "name": "label",
+        "slug": "label",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "💰",
+        "skin_tone_support": false,
+        "name": "money bag",
+        "slug": "money_bag",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+     
