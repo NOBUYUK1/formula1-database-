@@ -10319,4 +10319,26 @@
         "slug": "money_bag",
         "unicode_version": "0.6",
         "emoji_version": "0.6"
-     
+      },
+      {
+        "emoji": "🪙",
+        "skin_tone_support": false,
+        "name": "coin",
+        "slug": "coin",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "💴",
+        "skin_tone_support": false,
+        "name": "yen banknote",
+        "slug": "yen_banknote",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💵",
+        "skin_tone_support": false,
+        "name": "dollar banknote",
+        "slug": "dollar_banknote",
+      
