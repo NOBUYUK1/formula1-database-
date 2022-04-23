@@ -10409,4 +10409,23 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji": "📨
+        "emoji": "📨",
+        "skin_tone_support": false,
+        "name": "incoming envelope",
+        "slug": "incoming_envelope",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📩",
+        "skin_tone_support": false,
+        "name": "envelope with arrow",
+        "slug": "envelope_with_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📤",
+        "skin_tone_support": false,
+        "name": "outbox tray",
+        "slug":
