@@ -10386,4 +10386,27 @@
       },
       {
         "emoji": "💹",
-        "skin_tone_support": false
+        "skin_tone_support": false,
+        "name": "chart increasing with yen",
+        "slug": "chart_increasing_with_yen",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "✉️",
+        "skin_tone_support": false,
+        "name": "envelope",
+        "slug": "envelope",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📧",
+        "skin_tone_support": false,
+        "name": "e-mail",
+        "slug": "e_mail",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📨
