@@ -10489,4 +10489,26 @@
         "emoji_version": "0.6"
       },
       {
-        "e
+        "emoji": "🗳️",
+        "skin_tone_support": false,
+        "name": "ballot box with ballot",
+        "slug": "ballot_box_with_ballot",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "✏️",
+        "skin_tone_support": false,
+        "name": "pencil",
+        "slug": "pencil",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "✒️",
+        "skin_tone_support": false,
+        "name": "black nib",
+        "slug": "black_nib",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+   
