@@ -10451,4 +10451,21 @@
       {
         "emoji": "📫",
         "skin_tone_support": false,
-        "name": "clos
+        "name": "closed mailbox with raised flag",
+        "slug": "closed_mailbox_with_raised_flag",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📪",
+        "skin_tone_support": false,
+        "name": "closed mailbox with lowered flag",
+        "slug": "closed_mailbox_with_lowered_flag",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📬",
+        "skin_tone_support": false,
+        "name": "open mailbox with raised flag",
+        "slug": "open_ma
