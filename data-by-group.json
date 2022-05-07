@@ -10468,4 +10468,25 @@
         "emoji": "📬",
         "skin_tone_support": false,
         "name": "open mailbox with raised flag",
-        "slug": "open_ma
+        "slug": "open_mailbox_with_raised_flag",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "📭",
+        "skin_tone_support": false,
+        "name": "open mailbox with lowered flag",
+        "slug": "open_mailbox_with_lowered_flag",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "📮",
+        "skin_tone_support": false,
+        "name": "postbox",
+        "slug": "postbox",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "e
