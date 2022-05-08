@@ -10533,4 +10533,26 @@
         "skin_tone_support": false,
         "name": "paintbrush",
         "slug": "paintbrush",
-      
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🖍️",
+        "skin_tone_support": false,
+        "name": "crayon",
+        "slug": "crayon",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "📝",
+        "skin_tone_support": false,
+        "name": "memo",
+        "slug": "memo",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💼",
+        "skin_tone_support": false,
+        "name": "briefcas
