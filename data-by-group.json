@@ -10511,4 +10511,26 @@
         "slug": "black_nib",
         "unicode_version": "0.6",
         "emoji_version": "0.6"
-   
+      },
+      {
+        "emoji": "🖋️",
+        "skin_tone_support": false,
+        "name": "fountain pen",
+        "slug": "fountain_pen",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🖊️",
+        "skin_tone_support": false,
+        "name": "pen",
+        "slug": "pen",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🖌️",
+        "skin_tone_support": false,
+        "name": "paintbrush",
+        "slug": "paintbrush",
+      
