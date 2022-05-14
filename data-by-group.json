@@ -10621,4 +10621,25 @@
         "skin_tone_support": false,
         "name": "card index",
         "slug": "card_index",
-        "uni
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📈",
+        "skin_tone_support": false,
+        "name": "chart increasing",
+        "slug": "chart_increasing",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📉",
+        "skin_tone_support": false,
+        "name": "chart decreasing",
+        "slug": "chart_decreasing",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📊",
+        "skin_tone_support": 
