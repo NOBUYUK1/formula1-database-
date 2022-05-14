@@ -10555,4 +10555,27 @@
       {
         "emoji": "💼",
         "skin_tone_support": false,
-        "name": "briefcas
+        "name": "briefcase",
+        "slug": "briefcase",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📁",
+        "skin_tone_support": false,
+        "name": "file folder",
+        "slug": "file_folder",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📂",
+        "skin_tone_support": false,
+        "name": "open file folder",
+        "slug": "open_file_folder",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🗂️",
+        "s
