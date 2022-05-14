@@ -10578,4 +10578,27 @@
       },
       {
         "emoji": "🗂️",
-        "s
+        "skin_tone_support": false,
+        "name": "card index dividers",
+        "slug": "card_index_dividers",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "📅",
+        "skin_tone_support": false,
+        "name": "calendar",
+        "slug": "calendar",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📆",
+        "skin_tone_support": false,
+        "name": "tear-off calendar",
+        "slug": "tear_off_calendar",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "
