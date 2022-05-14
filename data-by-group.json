@@ -10601,4 +10601,24 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji": "
+        "emoji": "🗒️",
+        "skin_tone_support": false,
+        "name": "spiral notepad",
+        "slug": "spiral_notepad",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🗓️",
+        "skin_tone_support": false,
+        "name": "spiral calendar",
+        "slug": "spiral_calendar",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "📇",
+        "skin_tone_support": false,
+        "name": "card index",
+        "slug": "card_index",
+        "uni
