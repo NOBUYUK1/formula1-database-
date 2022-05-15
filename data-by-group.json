@@ -10642,4 +10642,27 @@
       },
       {
         "emoji": "📊",
-        "skin_tone_support": 
+        "skin_tone_support": false,
+        "name": "bar chart",
+        "slug": "bar_chart",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📋",
+        "skin_tone_support": false,
+        "name": "clipboard",
+        "slug": "clipboard",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📌",
+        "skin_tone_support": false,
+        "name": "pushpin",
+        "slug": "pushpin",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji"
