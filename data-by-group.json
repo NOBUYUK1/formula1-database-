@@ -10709,4 +10709,26 @@
         "skin_tone_support": false,
         "name": "scissors",
         "slug": "scissors",
-    
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🗃️",
+        "skin_tone_support": false,
+        "name": "card file box",
+        "slug": "card_file_box",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🗄️",
+        "skin_tone_support": false,
+        "name": "file cabinet",
+        "slug": "file_cabinet",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🗑️",
+        "skin_tone_support": false,
+   
