@@ -10686,4 +10686,27 @@
         "name": "linked paperclips",
         "slug": "linked_paperclips",
         "unicode_version": "0.7",
- 
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "📏",
+        "skin_tone_support": false,
+        "name": "straight ruler",
+        "slug": "straight_ruler",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📐",
+        "skin_tone_support": false,
+        "name": "triangular ruler",
+        "slug": "triangular_ruler",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "✂️",
+        "skin_tone_support": false,
+        "name": "scissors",
+        "slug": "scissors",
+    
