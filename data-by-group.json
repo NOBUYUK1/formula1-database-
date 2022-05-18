@@ -10665,4 +10665,25 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji"
+        "emoji": "📍",
+        "skin_tone_support": false,
+        "name": "round pushpin",
+        "slug": "round_pushpin",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📎",
+        "skin_tone_support": false,
+        "name": "paperclip",
+        "slug": "paperclip",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🖇️",
+        "skin_tone_support": false,
+        "name": "linked paperclips",
+        "slug": "linked_paperclips",
+        "unicode_version": "0.7",
+ 
