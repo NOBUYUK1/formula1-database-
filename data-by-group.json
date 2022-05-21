@@ -10777,4 +10777,27 @@
         "emoji_version": "0.6"
       },
       {
-        "e
+        "emoji": "🗝️",
+        "skin_tone_support": false,
+        "name": "old key",
+        "slug": "old_key",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🔨",
+        "skin_tone_support": false,
+        "name": "hammer",
+        "slug": "hammer",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪓",
+        "skin_tone_support": false,
+        "name": "axe",
+        "slug": "axe",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
