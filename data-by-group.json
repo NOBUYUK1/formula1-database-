@@ -10754,4 +10754,27 @@
       },
       {
         "emoji": "🔏",
-        "skin_tone
+        "skin_tone_support": false,
+        "name": "locked with pen",
+        "slug": "locked_with_pen",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔐",
+        "skin_tone_support": false,
+        "name": "locked with key",
+        "slug": "locked_with_key",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔑",
+        "skin_tone_support": false,
+        "name": "key",
+        "slug": "key",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "e
