@@ -10844,4 +10844,26 @@
         "emoji": "💣",
         "skin_tone_support": false,
         "name": "bomb",
-        "slug": "bo
+        "slug": "bomb",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪃",
+        "skin_tone_support": false,
+        "name": "boomerang",
+        "slug": "boomerang",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🏹",
+        "skin_tone_support": false,
+        "name": "bow and arrow",
+        "slug": "bow_and_arrow",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🛡️",
+       
