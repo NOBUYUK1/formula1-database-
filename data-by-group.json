@@ -10821,4 +10821,27 @@
         "skin_tone_support": false,
         "name": "hammer and wrench",
         "slug": "hammer_and_wrench",
-        "un
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🗡️",
+        "skin_tone_support": false,
+        "name": "dagger",
+        "slug": "dagger",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⚔️",
+        "skin_tone_support": false,
+        "name": "crossed swords",
+        "slug": "crossed_swords",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "💣",
+        "skin_tone_support": false,
+        "name": "bomb",
+        "slug": "bo
