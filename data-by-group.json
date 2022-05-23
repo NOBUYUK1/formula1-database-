@@ -10866,4 +10866,28 @@
       },
       {
         "emoji": "🛡️",
-       
+        "skin_tone_support": false,
+        "name": "shield",
+        "slug": "shield",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🪚",
+        "skin_tone_support": false,
+        "name": "carpentry saw",
+        "slug": "carpentry_saw",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🔧",
+        "skin_tone_support": false,
+        "name": "wrench",
+        "slug": "wrench",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪛",
+        "sk
