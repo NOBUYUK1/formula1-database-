@@ -10915,4 +10915,27 @@
       {
         "emoji": "🗜️",
         "skin_tone_support": false,
-        "name
+        "name": "clamp",
+        "slug": "clamp",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⚖️",
+        "skin_tone_support": false,
+        "name": "balance scale",
+        "slug": "balance_scale",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🦯",
+        "skin_tone_support": false,
+        "name": "white cane",
+        "slug": "white_cane",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🔗",
+        "ski
