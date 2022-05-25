@@ -10890,4 +10890,29 @@
       },
       {
         "emoji": "🪛",
-        "sk
+        "skin_tone_support": false,
+        "name": "screwdriver",
+        "slug": "screwdriver",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🔩",
+        "skin_tone_support": false,
+        "name": "nut and bolt",
+        "slug": "nut_and_bolt",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⚙️",
+        "skin_tone_support": false,
+        "name": "gear",
+        "slug": "gear",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🗜️",
+        "skin_tone_support": false,
+        "name
