@@ -10938,4 +10938,29 @@
       },
       {
         "emoji": "🔗",
-        "ski
+        "skin_tone_support": false,
+        "name": "link",
+        "slug": "link",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⛓️",
+        "skin_tone_support": false,
+        "name": "chains",
+        "slug": "chains",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🪝",
+        "skin_tone_support": false,
+        "name": "hook",
+        "slug": "hook",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🧰",
+        "skin_tone_support": false,
+        "name"
