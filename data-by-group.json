@@ -11008,3 +11008,26 @@
         "unicode_version": "11.0",
         "emoji_version": "11.0"
       },
+      {
+        "emoji": "🧬",
+        "skin_tone_support": false,
+        "name": "dna",
+        "slug": "dna",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🔬",
+        "skin_tone_support": false,
+        "name": "microscope",
+        "slug": "microscope",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔭",
+        "skin_tone_support": false,
+        "name": "telescope",
+        "slug": "telescope",
+        "unicode_version": "1.0",
+    
