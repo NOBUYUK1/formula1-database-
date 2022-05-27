@@ -10986,4 +10986,25 @@
       },
       {
         "emoji": "⚗️",
-        "skin_tone
+        "skin_tone_support": false,
+        "name": "alembic",
+        "slug": "alembic",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🧪",
+        "skin_tone_support": false,
+        "name": "test tube",
+        "slug": "test_tube",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🧫",
+        "skin_tone_support": false,
+        "name": "petri dish",
+        "slug": "petri_dish",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
