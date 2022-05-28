@@ -11052,4 +11052,26 @@
         "emoji": "🩸",
         "skin_tone_support": false,
         "name": "drop of blood",
-       
+        "slug": "drop_of_blood",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "💊",
+        "skin_tone_support": false,
+        "name": "pill",
+        "slug": "pill",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🩹",
+        "skin_tone_support": false,
+        "name": "adhesive bandage",
+        "slug": "adhesive_bandage",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🩼",
+        "skin_tone_
