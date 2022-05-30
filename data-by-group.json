@@ -11118,4 +11118,30 @@
         "name": "mirror",
         "slug": "mirror",
         "unicode_version": "13.0",
-        "emoji_version
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🪟",
+        "skin_tone_support": false,
+        "name": "window",
+        "slug": "window",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🛏️",
+        "skin_tone_support": false,
+        "name": "bed",
+        "slug": "bed",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🛋️",
+        "skin_tone_support": false,
+        "name": "couch and lamp",
+        "slug": "couch_and_lamp",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+  
