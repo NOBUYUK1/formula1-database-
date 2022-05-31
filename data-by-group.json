@@ -11167,4 +11167,27 @@
         "slug": "plunger",
         "unicode_version": "13.0",
         "emoji_version": "13.0"
-   
+      },
+      {
+        "emoji": "🚿",
+        "skin_tone_support": false,
+        "name": "shower",
+        "slug": "shower",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🛁",
+        "skin_tone_support": false,
+        "name": "bathtub",
+        "slug": "bathtub",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🪤",
+        "skin_tone_support": false,
+        "name": "mouse trap",
+        "slug": "mouse_trap",
+        "unicode_version": "13.0",
+        "emoji_version
