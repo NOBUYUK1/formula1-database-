@@ -11190,4 +11190,27 @@
         "name": "mouse trap",
         "slug": "mouse_trap",
         "unicode_version": "13.0",
-        "emoji_version
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🪒",
+        "skin_tone_support": false,
+        "name": "razor",
+        "slug": "razor",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🧴",
+        "skin_tone_support": false,
+        "name": "lotion bottle",
+        "slug": "lotion_bottle",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🧷",
+        "skin_tone_support": false,
+        "name": "safety pin",
+        "slug": "safety_pin",
+    
