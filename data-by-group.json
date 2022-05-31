@@ -11213,4 +11213,26 @@
         "skin_tone_support": false,
         "name": "safety pin",
         "slug": "safety_pin",
-    
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🧹",
+        "skin_tone_support": false,
+        "name": "broom",
+        "slug": "broom",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🧺",
+        "skin_tone_support": false,
+        "name": "basket",
+        "slug": "basket",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🧻",
+        "skin_tone_support": false,
+        "name": "roll
