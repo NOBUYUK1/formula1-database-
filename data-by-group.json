@@ -11259,4 +11259,27 @@
       {
         "emoji": "🫧",
         "skin_tone_support": false,
-        
+        "name": "bubbles",
+        "slug": "bubbles",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🪥",
+        "skin_tone_support": false,
+        "name": "toothbrush",
+        "slug": "toothbrush",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🧽",
+        "skin_tone_support": false,
+        "name": "sponge",
+        "slug": "sponge",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🧯",
+        "skin_tone_
