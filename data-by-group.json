@@ -11235,4 +11235,28 @@
       {
         "emoji": "🧻",
         "skin_tone_support": false,
-        "name": "roll
+        "name": "roll of paper",
+        "slug": "roll_of_paper",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🪣",
+        "skin_tone_support": false,
+        "name": "bucket",
+        "slug": "bucket",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🧼",
+        "skin_tone_support": false,
+        "name": "soap",
+        "slug": "soap",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🫧",
+        "skin_tone_support": false,
+        
