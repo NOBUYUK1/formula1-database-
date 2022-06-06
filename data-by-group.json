@@ -11282,4 +11282,23 @@
       },
       {
         "emoji": "🧯",
-        "skin_tone_
+        "skin_tone_support": false,
+        "name": "fire extinguisher",
+        "slug": "fire_extinguisher",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🛒",
+        "skin_tone_support": false,
+        "name": "shopping cart",
+        "slug": "shopping_cart",
+        "unicode_version": "3.0",
+        "emoji_version": "3.0"
+      },
+      {
+        "emoji": "🚬",
+        "skin_tone_support": false,
+        "name": "cigarette",
+        "slug": "cigarette",
+        "unicode
