@@ -11301,4 +11301,26 @@
         "skin_tone_support": false,
         "name": "cigarette",
         "slug": "cigarette",
-        "unicode
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⚰️",
+        "skin_tone_support": false,
+        "name": "coffin",
+        "slug": "coffin",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🪦",
+        "skin_tone_support": false,
+        "name": "headstone",
+        "slug": "headstone",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "⚱️",
+        "skin_tone_support": false,
+        "name": "funeral 
