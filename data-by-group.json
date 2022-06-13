@@ -11346,4 +11346,24 @@
       },
       {
         "emoji": "🗿",
-        "skin_tone_support": false
+        "skin_tone_support": false,
+        "name": "moai",
+        "slug": "moai",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪧",
+        "skin_tone_support": false,
+        "name": "placard",
+        "slug": "placard",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🪪",
+        "skin_tone_support": false,
+        "name": "identification card",
+        "slug": "identification_card",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0
