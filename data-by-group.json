@@ -11323,4 +11323,27 @@
       {
         "emoji": "⚱️",
         "skin_tone_support": false,
-        "name": "funeral 
+        "name": "funeral urn",
+        "slug": "funeral_urn",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🧿",
+        "skin_tone_support": false,
+        "name": "nazar amulet",
+        "slug": "nazar_amulet",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🪬",
+        "skin_tone_support": false,
+        "name": "hamsa",
+        "slug": "hamsa",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "🗿",
+        "skin_tone_support": false
