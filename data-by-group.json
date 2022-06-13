@@ -11366,4 +11366,30 @@
         "name": "identification card",
         "slug": "identification_card",
         "unicode_version": "14.0",
-        "emoji_version": "14.0
+        "emoji_version": "14.0"
+      }
+    ]
+  },
+  {
+    "name": "Symbols",
+    "slug": "symbols",
+    "emojis": [
+      {
+        "emoji": "🏧",
+        "skin_tone_support": false,
+        "name": "ATM sign",
+        "slug": "atm_sign",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚮",
+        "skin_tone_support": false,
+        "name": "litter in bin sign",
+        "slug": "litter_in_bin_sign",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚰",
+        "skin_tone_support": false
