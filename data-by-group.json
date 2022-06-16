@@ -11392,4 +11392,26 @@
       },
       {
         "emoji": "🚰",
-        "skin_tone_support": false
+        "skin_tone_support": false,
+        "name": "potable water",
+        "slug": "potable_water",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "♿",
+        "skin_tone_support": false,
+        "name": "wheelchair symbol",
+        "slug": "wheelchair_symbol",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚹",
+        "skin_tone_support": false,
+        "name": "men’s room",
+        "slug": "men_s_room",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
