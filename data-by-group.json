@@ -11415,3 +11415,25 @@
         "emoji_version": "0.6"
       },
       {
+        "emoji": "🚺",
+        "skin_tone_support": false,
+        "name": "women’s room",
+        "slug": "women_s_room",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚻",
+        "skin_tone_support": false,
+        "name": "restroom",
+        "slug": "restroom",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚼",
+        "skin_tone_support": false,
+        "name": "baby symbol",
+        "slug": "baby_symbol",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
