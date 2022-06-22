@@ -11458,4 +11458,27 @@
         "emoji": "🛃",
         "skin_tone_support": false,
         "name": "customs",
-        "slug": 
+        "slug": "customs",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🛄",
+        "skin_tone_support": false,
+        "name": "baggage claim",
+        "slug": "baggage_claim",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🛅",
+        "skin_tone_support": false,
+        "name": "left luggage",
+        "slug": "left_luggage",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "⚠️",
+        "skin_tone_support": false,
+    
