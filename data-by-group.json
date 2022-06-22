@@ -11504,4 +11504,24 @@
       },
       {
         "emoji": "🚫",
-        "skin_tone_sup
+        "skin_tone_support": false,
+        "name": "prohibited",
+        "slug": "prohibited",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚳",
+        "skin_tone_support": false,
+        "name": "no bicycles",
+        "slug": "no_bicycles",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚭",
+        "skin_tone_support": false,
+        "name": "no smoking",
+        "slug": "no_smoking",
+        "unicode_version": "0.6",
+        "emoji_version
