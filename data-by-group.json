@@ -11524,4 +11524,27 @@
         "name": "no smoking",
         "slug": "no_smoking",
         "unicode_version": "0.6",
-        "emoji_version
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚯",
+        "skin_tone_support": false,
+        "name": "no littering",
+        "slug": "no_littering",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚱",
+        "skin_tone_support": false,
+        "name": "non-potable water",
+        "slug": "non_potable_water",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🚷",
+        "skin_tone_support": false,
+        "name": "no pedestrians",
+        "slug": "no_pedestrians",
+        "unicode_version
