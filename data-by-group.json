@@ -11547,4 +11547,25 @@
         "skin_tone_support": false,
         "name": "no pedestrians",
         "slug": "no_pedestrians",
-        "unicode_version
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "📵",
+        "skin_tone_support": false,
+        "name": "no mobile phones",
+        "slug": "no_mobile_phones",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔞",
+        "skin_tone_support": false,
+        "name": "no one under eighteen",
+        "slug": "no_one_under_eighteen",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "☢️",
+        "skin_tone_support": fals
