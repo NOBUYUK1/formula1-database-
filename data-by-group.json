@@ -11592,4 +11592,27 @@
       },
       {
         "emoji": "↗️",
-        
+        "skin_tone_support": false,
+        "name": "up-right arrow",
+        "slug": "up_right_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "➡️",
+        "skin_tone_support": false,
+        "name": "right arrow",
+        "slug": "right_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "↘️",
+        "skin_tone_support": false,
+        "name": "down-right arrow",
+        "slug": "down_right_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⬇️"
