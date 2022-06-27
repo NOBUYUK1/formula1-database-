@@ -11568,4 +11568,28 @@
       },
       {
         "emoji": "☢️",
-        "skin_tone_support": fals
+        "skin_tone_support": false,
+        "name": "radioactive",
+        "slug": "radioactive",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "☣️",
+        "skin_tone_support": false,
+        "name": "biohazard",
+        "slug": "biohazard",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "⬆️",
+        "skin_tone_support": false,
+        "name": "up arrow",
+        "slug": "up_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "↗️",
+        
