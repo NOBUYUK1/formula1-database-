@@ -11659,4 +11659,25 @@
         "skin_tone_support": false,
         "name": "left-right arrow",
         "slug": "left_right_arrow",
-     
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "↩️",
+        "skin_tone_support": false,
+        "name": "right arrow curving left",
+        "slug": "right_arrow_curving_left",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "↪️",
+        "skin_tone_support": false,
+        "name": "left arrow curving right",
+        "slug": "left_arrow_curving_right",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⤴️",
+        
