@@ -11615,4 +11615,25 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji": "⬇️"
+        "emoji": "⬇️",
+        "skin_tone_support": false,
+        "name": "down arrow",
+        "slug": "down_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "↙️",
+        "skin_tone_support": false,
+        "name": "down-left arrow",
+        "slug": "down_left_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⬅️",
+        "skin_tone_support": false,
+        "name": "left arrow",
+        "slug": "left_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.
