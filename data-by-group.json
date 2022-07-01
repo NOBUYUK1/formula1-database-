@@ -11742,3 +11742,24 @@
         "unicode_version": "0.6",
         "emoji_version": "0.6"
       },
+      {
+        "emoji": "🔝",
+        "skin_tone_support": false,
+        "name": "TOP arrow",
+        "slug": "top_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛐",
+        "skin_tone_support": false,
+        "name": "place of worship",
+        "slug": "place_of_worship",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "⚛️",
+        "skin_tone_support": false,
+        "name": "atom symbol",
+      
