@@ -11720,4 +11720,25 @@
       },
       {
         "emoji": "🔚",
-    
+        "skin_tone_support": false,
+        "name": "END arrow",
+        "slug": "end_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔛",
+        "skin_tone_support": false,
+        "name": "ON! arrow",
+        "slug": "on_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔜",
+        "skin_tone_support": false,
+        "name": "SOON arrow",
+        "slug": "soon_arrow",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
