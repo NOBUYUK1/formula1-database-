@@ -11762,4 +11762,27 @@
         "emoji": "⚛️",
         "skin_tone_support": false,
         "name": "atom symbol",
-      
+        "slug": "atom_symbol",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🕉️",
+        "skin_tone_support": false,
+        "name": "om",
+        "slug": "om",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "✡️",
+        "skin_tone_support": false,
+        "name": "star of David",
+        "slug": "star_of_david",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "☸️",
+        "skin_tone_support": false,
+    
