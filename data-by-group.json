@@ -11785,4 +11785,26 @@
       {
         "emoji": "☸️",
         "skin_tone_support": false,
+        "name": "wheel of dharma",
+        "slug": "wheel_of_dharma",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "☯️",
+        "skin_tone_support": false,
+        "name": "yin yang",
+        "slug": "yin_yang",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "✝️",
+        "skin_tone_support": false,
+        "name": "latin cross",
+        "slug": "latin_cross",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
     
