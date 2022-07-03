@@ -11826,4 +11826,26 @@
         "emoji": "☮️",
         "skin_tone_support": false,
         "name": "peace symbol",
-        "slug": "peace_symb
+        "slug": "peace_symbol",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🕎",
+        "skin_tone_support": false,
+        "name": "menorah",
+        "slug": "menorah",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔯",
+        "skin_tone_support": false,
+        "name": "dotted six-pointed star",
+        "slug": "dotted_six_pointed_star",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🪯",
+        "skin_ton
