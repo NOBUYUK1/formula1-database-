@@ -11807,4 +11807,23 @@
         "emoji_version": "0.7"
       },
       {
-    
+        "emoji": "☦️",
+        "skin_tone_support": false,
+        "name": "orthodox cross",
+        "slug": "orthodox_cross",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "☪️",
+        "skin_tone_support": false,
+        "name": "star and crescent",
+        "slug": "star_and_crescent",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "☮️",
+        "skin_tone_support": false,
+        "name": "peace symbol",
+        "slug": "peace_symb
