@@ -11848,4 +11848,28 @@
       },
       {
         "emoji": "🪯",
-        "skin_ton
+        "skin_tone_support": false,
+        "name": "khanda",
+        "slug": "khanda",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "♈",
+        "skin_tone_support": false,
+        "name": "Aries",
+        "slug": "aries",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♉",
+        "skin_tone_support": false,
+        "name": "Taurus",
+        "slug": "taurus",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♊",
+        "skin_to
