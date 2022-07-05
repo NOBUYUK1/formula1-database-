@@ -11896,4 +11896,28 @@
       },
       {
         "emoji": "♍",
-        "skin_to
+        "skin_tone_support": false,
+        "name": "Virgo",
+        "slug": "virgo",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♎",
+        "skin_tone_support": false,
+        "name": "Libra",
+        "slug": "libra",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♏",
+        "skin_tone_support": false,
+        "name": "Scorpio",
+        "slug": "scorpio",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♐",
+        
