@@ -11920,4 +11920,25 @@
       },
       {
         "emoji": "♐",
-        
+        "skin_tone_support": false,
+        "name": "Sagittarius",
+        "slug": "sagittarius",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♑",
+        "skin_tone_support": false,
+        "name": "Capricorn",
+        "slug": "capricorn",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♒",
+        "skin_tone_support": false,
+        "name": "Aquarius",
+        "slug": "aquarius",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
