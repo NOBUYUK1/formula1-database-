@@ -11942,3 +11942,26 @@
         "unicode_version": "0.6",
         "emoji_version": "0.6"
       },
+      {
+        "emoji": "♓",
+        "skin_tone_support": false,
+        "name": "Pisces",
+        "slug": "pisces",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⛎",
+        "skin_tone_support": false,
+        "name": "Ophiuchus",
+        "slug": "ophiuchus",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔀",
+        "skin_tone_support": false,
+        "name": "shuffle tracks button",
+        "slug": "shuffle_tracks_button",
+        "unicode_version": "1.0",
+     
