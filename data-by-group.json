@@ -11964,4 +11964,27 @@
         "name": "shuffle tracks button",
         "slug": "shuffle_tracks_button",
         "unicode_version": "1.0",
-     
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔁",
+        "skin_tone_support": false,
+        "name": "repeat button",
+        "slug": "repeat_button",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔂",
+        "skin_tone_support": false,
+        "name": "repeat single button",
+        "slug": "repeat_single_button",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "▶️",
+        "skin_tone_support": false,
+        "name": "play button",
+        "slug": "play_button",
+       
