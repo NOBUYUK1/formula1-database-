@@ -12008,4 +12008,24 @@
       },
       {
         "emoji": "⏯️",
-        "skin_tone_su
+        "skin_tone_support": false,
+        "name": "play or pause button",
+        "slug": "play_or_pause_button",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "◀️",
+        "skin_tone_support": false,
+        "name": "reverse button",
+        "slug": "reverse_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⏪",
+        "skin_tone_support": false,
+        "name": "fast reverse button",
+        "slug": "fast_reverse_button",
+        "unicode_version": "0.6",
+    
