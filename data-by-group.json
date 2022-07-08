@@ -11987,4 +11987,25 @@
         "skin_tone_support": false,
         "name": "play button",
         "slug": "play_button",
-       
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⏩",
+        "skin_tone_support": false,
+        "name": "fast-forward button",
+        "slug": "fast_forward_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⏭️",
+        "skin_tone_support": false,
+        "name": "next track button",
+        "slug": "next_track_button",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⏯️",
+        "skin_tone_su
