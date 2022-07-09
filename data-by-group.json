@@ -12028,4 +12028,25 @@
         "name": "fast reverse button",
         "slug": "fast_reverse_button",
         "unicode_version": "0.6",
-    
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⏮️",
+        "skin_tone_support": false,
+        "name": "last track button",
+        "slug": "last_track_button",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🔼",
+        "skin_tone_support": false,
+        "name": "upwards button",
+        "slug": "upwards_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⏫",
+        "skin_tone_support": false,
+        "name": "fast up butto
