@@ -12115,4 +12115,27 @@
         "skin_tone_support": false,
         "name": "dim button",
         "slug": "dim_button",
-      
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔆",
+        "skin_tone_support": false,
+        "name": "bright button",
+        "slug": "bright_button",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "📶",
+        "skin_tone_support": false,
+        "name": "antenna bars",
+        "slug": "antenna_bars",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🛜",
+        "skin_tone_support": false,
+        "name": "wireless",
+        "slu
