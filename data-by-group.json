@@ -12049,4 +12049,26 @@
       {
         "emoji": "⏫",
         "skin_tone_support": false,
-        "name": "fast up butto
+        "name": "fast up button",
+        "slug": "fast_up_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔽",
+        "skin_tone_support": false,
+        "name": "downwards button",
+        "slug": "downwards_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⏬",
+        "skin_tone_support": false,
+        "name": "fast down button",
+        "slug": "fast_down_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoj
