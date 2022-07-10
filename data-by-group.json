@@ -12092,4 +12092,27 @@
         "name": "record button",
         "slug": "record_button",
         "unicode_version": "0.7",
-        "emoji_
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⏏️",
+        "skin_tone_support": false,
+        "name": "eject button",
+        "slug": "eject_button",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🎦",
+        "skin_tone_support": false,
+        "name": "cinema",
+        "slug": "cinema",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔅",
+        "skin_tone_support": false,
+        "name": "dim button",
+        "slug": "dim_button",
+      
