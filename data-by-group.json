@@ -12071,4 +12071,25 @@
         "emoji_version": "0.6"
       },
       {
-        "emoj
+        "emoji": "⏸️",
+        "skin_tone_support": false,
+        "name": "pause button",
+        "slug": "pause_button",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⏹️",
+        "skin_tone_support": false,
+        "name": "stop button",
+        "slug": "stop_button",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "⏺️",
+        "skin_tone_support": false,
+        "name": "record button",
+        "slug": "record_button",
+        "unicode_version": "0.7",
+        "emoji_
