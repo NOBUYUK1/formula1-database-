@@ -12138,4 +12138,26 @@
         "emoji": "🛜",
         "skin_tone_support": false,
         "name": "wireless",
-        "slu
+        "slug": "wireless",
+        "unicode_version": "15.0",
+        "emoji_version": "15.0"
+      },
+      {
+        "emoji": "📳",
+        "skin_tone_support": false,
+        "name": "vibration mode",
+        "slug": "vibration_mode",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📴",
+        "skin_tone_support": false,
+        "name": "mobile phone off",
+        "slug": "mobile_phone_off",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "♀️",
+        "skin_tone_support": fals
