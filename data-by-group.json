@@ -12160,4 +12160,25 @@
       },
       {
         "emoji": "♀️",
-        "skin_tone_support": fals
+        "skin_tone_support": false,
+        "name": "female sign",
+        "slug": "female_sign",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "♂️",
+        "skin_tone_support": false,
+        "name": "male sign",
+        "slug": "male_sign",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "⚧️",
+        "skin_tone_support": false,
+        "name": "transgender symbol",
+        "slug": "transgender_symbol",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+  
