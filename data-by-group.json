@@ -12181,4 +12181,26 @@
         "slug": "transgender_symbol",
         "unicode_version": "13.0",
         "emoji_version": "13.0"
-  
+      },
+      {
+        "emoji": "✖️",
+        "skin_tone_support": false,
+        "name": "multiply",
+        "slug": "multiply",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "➕",
+        "skin_tone_support": false,
+        "name": "plus",
+        "slug": "plus",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "➖",
+        "skin_tone_support": false,
+        "name": "minus",
+        "slug": "minus",
+        "unicode_version": "0.6
