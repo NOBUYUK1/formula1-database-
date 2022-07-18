@@ -12203,4 +12203,28 @@
         "skin_tone_support": false,
         "name": "minus",
         "slug": "minus",
-        "unicode_version": "0.6
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "➗",
+        "skin_tone_support": false,
+        "name": "divide",
+        "slug": "divide",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🟰",
+        "skin_tone_support": false,
+        "name": "heavy equals sign",
+        "slug": "heavy_equals_sign",
+        "unicode_version": "14.0",
+        "emoji_version": "14.0"
+      },
+      {
+        "emoji": "♾️",
+        "skin_tone_support": false,
+        "name": "infinity",
+        "slug": "infinity",
+        "unicode_ver
