@@ -12287,4 +12287,25 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji
+        "emoji": "💱",
+        "skin_tone_support": false,
+        "name": "currency exchange",
+        "slug": "currency_exchange",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💲",
+        "skin_tone_support": false,
+        "name": "heavy dollar sign",
+        "slug": "heavy_dollar_sign",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⚕️",
+        "skin_tone_support": false,
+        "name": "medical symbol",
+        "slug": "medical_symbol",
+        "unicode_version": "4.0",
+        "emoji_version
