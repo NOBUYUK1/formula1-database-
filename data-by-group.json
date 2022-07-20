@@ -12247,4 +12247,23 @@
         "emoji_version": "0.6"
       },
       {
-        "emoji": 
+        "emoji": "❓",
+        "skin_tone_support": false,
+        "name": "red question mark",
+        "slug": "red_question_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "❔",
+        "skin_tone_support": false,
+        "name": "white question mark",
+        "slug": "white_question_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "❕",
+        "skin_tone_support": false,
+        "name": "white exclamation mark",
+        "slug": "white_excl
