@@ -12266,4 +12266,25 @@
         "emoji": "❕",
         "skin_tone_support": false,
         "name": "white exclamation mark",
-        "slug": "white_excl
+        "slug": "white_exclamation_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "❗",
+        "skin_tone_support": false,
+        "name": "red exclamation mark",
+        "slug": "red_exclamation_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "〰️",
+        "skin_tone_support": false,
+        "name": "wavy dash",
+        "slug": "wavy_dash",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji
