@@ -12227,4 +12227,24 @@
         "skin_tone_support": false,
         "name": "infinity",
         "slug": "infinity",
-        "unicode_ver
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "‼️",
+        "skin_tone_support": false,
+        "name": "double exclamation mark",
+        "slug": "double_exclamation_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⁉️",
+        "skin_tone_support": false,
+        "name": "exclamation question mark",
+        "slug": "exclamation_question_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": 
