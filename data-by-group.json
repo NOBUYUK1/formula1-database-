@@ -12308,4 +12308,26 @@
         "name": "medical symbol",
         "slug": "medical_symbol",
         "unicode_version": "4.0",
-        "emoji_version
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "♻️",
+        "skin_tone_support": false,
+        "name": "recycling symbol",
+        "slug": "recycling_symbol",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⚜️",
+        "skin_tone_support": false,
+        "name": "fleur-de-lis",
+        "slug": "fleur_de_lis",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🔱",
+        "skin_tone_support": false,
+        "name": "trident emblem",
+        "slug": "tri
