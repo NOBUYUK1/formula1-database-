@@ -12330,4 +12330,25 @@
         "emoji": "🔱",
         "skin_tone_support": false,
         "name": "trident emblem",
-        "slug": "tri
+        "slug": "trident_emblem",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "📛",
+        "skin_tone_support": false,
+        "name": "name badge",
+        "slug": "name_badge",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔰",
+        "skin_tone_support": false,
+        "name": "Japanese symbol for beginner",
+        "slug": "japanese_symbol_for_beginner",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+      
