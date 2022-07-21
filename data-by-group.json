@@ -12351,4 +12351,23 @@
         "emoji_version": "0.6"
       },
       {
-      
+        "emoji": "⭕",
+        "skin_tone_support": false,
+        "name": "hollow red circle",
+        "slug": "hollow_red_circle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "✅",
+        "skin_tone_support": false,
+        "name": "check mark button",
+        "slug": "check_mark_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "☑️",
+        "skin_tone_support": false,
+        "name": "check box with check",
+        "slug": "check_box_wi
