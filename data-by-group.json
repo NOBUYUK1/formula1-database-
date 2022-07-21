@@ -12370,4 +12370,27 @@
         "emoji": "☑️",
         "skin_tone_support": false,
         "name": "check box with check",
-        "slug": "check_box_wi
+        "slug": "check_box_with_check",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "✔️",
+        "skin_tone_support": false,
+        "name": "check mark",
+        "slug": "check_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "❌",
+        "skin_tone_support": false,
+        "name": "cross mark",
+        "slug": "cross_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "❎",
+        "skin_tone_support": false,
+        "name": "c
