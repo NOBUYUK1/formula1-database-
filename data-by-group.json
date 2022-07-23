@@ -12434,4 +12434,29 @@
         "emoji": "✴️",
         "skin_tone_support": false,
         "name": "eight-pointed star",
-        "slug":
+        "slug": "eight_pointed_star",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "❇️",
+        "skin_tone_support": false,
+        "name": "sparkle",
+        "slug": "sparkle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "©️",
+        "skin_tone_support": false,
+        "name": "copyright",
+        "slug": "copyright",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "®️",
+        "skin_tone_support": false,
+        "name": "registered",
+        "slug": "registered",
+        
