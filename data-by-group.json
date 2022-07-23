@@ -12415,4 +12415,23 @@
         "emoji_version": "1.0"
       },
       {
-        
+        "emoji": "〽️",
+        "skin_tone_support": false,
+        "name": "part alternation mark",
+        "slug": "part_alternation_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "✳️",
+        "skin_tone_support": false,
+        "name": "eight-spoked asterisk",
+        "slug": "eight_spoked_asterisk",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "✴️",
+        "skin_tone_support": false,
+        "name": "eight-pointed star",
+        "slug":
