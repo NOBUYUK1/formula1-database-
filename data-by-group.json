@@ -12393,4 +12393,26 @@
       {
         "emoji": "❎",
         "skin_tone_support": false,
-        "name": "c
+        "name": "cross mark button",
+        "slug": "cross_mark_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "➰",
+        "skin_tone_support": false,
+        "name": "curly loop",
+        "slug": "curly_loop",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "➿",
+        "skin_tone_support": false,
+        "name": "double curly loop",
+        "slug": "double_curly_loop",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        
