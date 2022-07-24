@@ -12459,4 +12459,25 @@
         "skin_tone_support": false,
         "name": "registered",
         "slug": "registered",
-        
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "™️",
+        "skin_tone_support": false,
+        "name": "trade mark",
+        "slug": "trade_mark",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "#️⃣",
+        "skin_tone_support": false,
+        "name": "keycap #",
+        "slug": "keycap_number_sign",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "*️⃣",
+        "skin_tone_support": false,
