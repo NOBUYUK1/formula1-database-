@@ -12528,4 +12528,27 @@
       },
       {
         "emoji": "5️⃣",
-        "skin_tone_support": 
+        "skin_tone_support": false,
+        "name": "keycap 5",
+        "slug": "keycap_5",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "6️⃣",
+        "skin_tone_support": false,
+        "name": "keycap 6",
+        "slug": "keycap_6",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "7️⃣",
+        "skin_tone_support": false,
+        "name": "keycap 7",
+        "slug": "keycap_7",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        
