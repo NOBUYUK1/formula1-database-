@@ -12551,4 +12551,25 @@
         "emoji_version": "0.6"
       },
       {
-        
+        "emoji": "8️⃣",
+        "skin_tone_support": false,
+        "name": "keycap 8",
+        "slug": "keycap_8",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "9️⃣",
+        "skin_tone_support": false,
+        "name": "keycap 9",
+        "slug": "keycap_9",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔟",
+        "skin_tone_support": false,
+        "name": "keycap 10",
+        "slug": "keycap_10",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
