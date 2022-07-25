@@ -12594,4 +12594,27 @@
         "emoji": "🔢",
         "skin_tone_support": false,
         "name": "input numbers",
-   
+        "slug": "input_numbers",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔣",
+        "skin_tone_support": false,
+        "name": "input symbols",
+        "slug": "input_symbols",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔤",
+        "skin_tone_support": false,
+        "name": "input latin letters",
+        "slug": "input_latin_letters",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🅰️",
+        "skin_tone_support": false,
+  
