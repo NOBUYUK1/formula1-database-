@@ -12617,4 +12617,23 @@
       {
         "emoji": "🅰️",
         "skin_tone_support": false,
-  
+        "name": "A button (blood type)",
+        "slug": "a_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🆎",
+        "skin_tone_support": false,
+        "name": "AB button (blood type)",
+        "slug": "ab_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🅱️",
+        "skin_tone_support": false,
+        "name": "B button (blood type)",
+        "slug": "b_button",
+        "unicode_version": "0.6",
+        "emoji_versio
