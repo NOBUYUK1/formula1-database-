@@ -12636,4 +12636,26 @@
         "name": "B button (blood type)",
         "slug": "b_button",
         "unicode_version": "0.6",
-        "emoji_versio
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🆑",
+        "skin_tone_support": false,
+        "name": "CL button",
+        "slug": "cl_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🆒",
+        "skin_tone_support": false,
+        "name": "COOL button",
+        "slug": "cool_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🆓",
+        "skin_tone_support": false,
+        "name": "FREE button",
+        "slug":
