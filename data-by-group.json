@@ -12705,4 +12705,27 @@
       {
         "emoji": "🅾️",
         "skin_tone_support": false,
-        "name": "O button (bl
+        "name": "O button (blood type)",
+        "slug": "o_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🆗",
+        "skin_tone_support": false,
+        "name": "OK button",
+        "slug": "ok_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🅿️",
+        "skin_tone_support": false,
+        "name": "P button",
+        "slug": "p_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🆘",
+        "
