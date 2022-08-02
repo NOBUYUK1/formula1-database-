@@ -12658,4 +12658,28 @@
         "emoji": "🆓",
         "skin_tone_support": false,
         "name": "FREE button",
-        "slug":
+        "slug": "free_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "ℹ️",
+        "skin_tone_support": false,
+        "name": "information",
+        "slug": "information",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🆔",
+        "skin_tone_support": false,
+        "name": "ID button",
+        "slug": "id_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "Ⓜ️",
+        "skin_tone_support": false,
+        "name": "circled M",
+        "slug": 
