@@ -12682,4 +12682,27 @@
         "emoji": "Ⓜ️",
         "skin_tone_support": false,
         "name": "circled M",
-        "slug": 
+        "slug": "circled_m",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🆕",
+        "skin_tone_support": false,
+        "name": "NEW button",
+        "slug": "new_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🆖",
+        "skin_tone_support": false,
+        "name": "NG button",
+        "slug": "ng_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🅾️",
+        "skin_tone_support": false,
+        "name": "O button (bl
