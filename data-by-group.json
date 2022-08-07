@@ -12750,3 +12750,23 @@
         "unicode_version": "0.6",
         "emoji_version": "0.6"
       },
+      {
+        "emoji": "🈁",
+        "skin_tone_support": false,
+        "name": "Japanese “here” button",
+        "slug": "japanese_here_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🈂️",
+        "skin_tone_support": false,
+        "name": "Japanese “service charge” button",
+        "slug": "japanese_service_charge_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🈷️",
+        "skin_tone_support": false,
+        "name": "Japanese “monthly amoun
