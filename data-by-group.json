@@ -12808,4 +12808,22 @@
       },
       {
         "emoji": "🈚",
-        
+        "skin_tone_support": false,
+        "name": "Japanese “free of charge” button",
+        "slug": "japanese_free_of_charge_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🈲",
+        "skin_tone_support": false,
+        "name": "Japanese “prohibited” button",
+        "slug": "japanese_prohibited_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🉑",
+        "skin_tone_support": false,
+        "name": "Japanese “acceptable” button",
+        "s
