@@ -12769,4 +12769,22 @@
       {
         "emoji": "🈷️",
         "skin_tone_support": false,
-        "name": "Japanese “monthly amoun
+        "name": "Japanese “monthly amount” button",
+        "slug": "japanese_monthly_amount_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🈶",
+        "skin_tone_support": false,
+        "name": "Japanese “not free of charge” button",
+        "slug": "japanese_not_free_of_charge_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🈯",
+        "skin_tone_support": false,
+        "name": "Japanese “reserved” button",
+        "slug": "japanese_reserved_button",
+        "unicod
