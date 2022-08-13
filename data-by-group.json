@@ -12865,4 +12865,21 @@
       {
         "emoji": "㊙️",
         "skin_tone_support": false,
-        "name": "Japanese “sec
+        "name": "Japanese “secret” button",
+        "slug": "japanese_secret_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🈺",
+        "skin_tone_support": false,
+        "name": "Japanese “open for business” button",
+        "slug": "japanese_open_for_business_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🈵",
+        "skin_tone_support": false,
+        "name": "Japanese “no vacancy” button",
+        "slug": "japanese_no_vac
