@@ -12844,4 +12844,25 @@
         "name": "Japanese “passing grade” button",
         "slug": "japanese_passing_grade_button",
         "unicode_version": "0.6",
-        "
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🈳",
+        "skin_tone_support": false,
+        "name": "Japanese “vacancy” button",
+        "slug": "japanese_vacancy_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "㊗️",
+        "skin_tone_support": false,
+        "name": "Japanese “congratulations” button",
+        "slug": "japanese_congratulations_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "㊙️",
+        "skin_tone_support": false,
+        "name": "Japanese “sec
