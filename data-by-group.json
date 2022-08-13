@@ -12882,4 +12882,26 @@
         "emoji": "🈵",
         "skin_tone_support": false,
         "name": "Japanese “no vacancy” button",
-        "slug": "japanese_no_vac
+        "slug": "japanese_no_vacancy_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔴",
+        "skin_tone_support": false,
+        "name": "red circle",
+        "slug": "red_circle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🟠",
+        "skin_tone_support": false,
+        "name": "orange circle",
+        "slug": "orange_circle",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🟡",
+        "skin_tone_support": 
