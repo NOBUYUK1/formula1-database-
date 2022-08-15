@@ -12904,4 +12904,27 @@
       },
       {
         "emoji": "🟡",
-        "skin_tone_support": 
+        "skin_tone_support": false,
+        "name": "yellow circle",
+        "slug": "yellow_circle",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🟢",
+        "skin_tone_support": false,
+        "name": "green circle",
+        "slug": "green_circle",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🔵",
+        "skin_tone_support": false,
+        "name": "blue circle",
+        "slug": "blue_circle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+ 
