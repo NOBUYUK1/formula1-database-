@@ -12988,4 +12988,26 @@
         "name": "green square",
         "slug": "green_square",
         "unicode_version": "12.0",
-        "emoji_version": "12.0
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🟦",
+        "skin_tone_support": false,
+        "name": "blue square",
+        "slug": "blue_square",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🟪",
+        "skin_tone_support": false,
+        "name": "purple square",
+        "slug": "purple_square",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🟫",
+        "skin_tone_support": false,
+        "name": "brown square",
+        "slug": "brow
