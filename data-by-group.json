@@ -12968,4 +12968,24 @@
       },
       {
         "emoji": "🟧",
-        "skin_tone
+        "skin_tone_support": false,
+        "name": "orange square",
+        "slug": "orange_square",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🟨",
+        "skin_tone_support": false,
+        "name": "yellow square",
+        "slug": "yellow_square",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🟩",
+        "skin_tone_support": false,
+        "name": "green square",
+        "slug": "green_square",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0
