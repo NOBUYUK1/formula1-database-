@@ -12946,4 +12946,26 @@
         "emoji": "⚫",
         "skin_tone_support": false,
         "name": "black circle",
-       
+        "slug": "black_circle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⚪",
+        "skin_tone_support": false,
+        "name": "white circle",
+        "slug": "white_circle",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🟥",
+        "skin_tone_support": false,
+        "name": "red square",
+        "slug": "red_square",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "🟧",
+        "skin_tone
