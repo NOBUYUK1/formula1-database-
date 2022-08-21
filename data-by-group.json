@@ -13010,4 +13010,26 @@
         "emoji": "🟫",
         "skin_tone_support": false,
         "name": "brown square",
-        "slug": "brow
+        "slug": "brown_square",
+        "unicode_version": "12.0",
+        "emoji_version": "12.0"
+      },
+      {
+        "emoji": "⬛",
+        "skin_tone_support": false,
+        "name": "black large square",
+        "slug": "black_large_square",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "⬜",
+        "skin_tone_support": false,
+        "name": "white large square",
+        "slug": "white_large_square",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "◼️",
+        "sk
