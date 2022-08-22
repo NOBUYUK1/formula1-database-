@@ -13032,4 +13032,22 @@
       },
       {
         "emoji": "◼️",
-        "sk
+        "skin_tone_support": false,
+        "name": "black medium square",
+        "slug": "black_medium_square",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "◻️",
+        "skin_tone_support": false,
+        "name": "white medium square",
+        "slug": "white_medium_square",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "◾",
+        "skin_tone_support": false,
+        "name": "black medium-small square",
+        "slug": "black_medium_small
