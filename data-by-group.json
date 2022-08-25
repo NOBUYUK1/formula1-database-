@@ -13050,4 +13050,26 @@
         "emoji": "◾",
         "skin_tone_support": false,
         "name": "black medium-small square",
-        "slug": "black_medium_small
+        "slug": "black_medium_small_square",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "◽",
+        "skin_tone_support": false,
+        "name": "white medium-small square",
+        "slug": "white_medium_small_square",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "▪️",
+        "skin_tone_support": false,
+        "name": "black small square",
+        "slug": "black_small_square",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "▫️",
+        "skin_tone_support"
