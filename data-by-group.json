@@ -13072,4 +13072,24 @@
       },
       {
         "emoji": "▫️",
-        "skin_tone_support"
+        "skin_tone_support": false,
+        "name": "white small square",
+        "slug": "white_small_square",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔶",
+        "skin_tone_support": false,
+        "name": "large orange diamond",
+        "slug": "large_orange_diamond",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔷",
+        "skin_tone_support": false,
+        "name": "large blue diamond",
+        "slug": "large_blue_diamond",
+        "unicode_version": "0.6",
+        "emoji
