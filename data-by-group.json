@@ -13132,4 +13132,26 @@
         "name": "diamond with a dot",
         "slug": "diamond_with_a_dot",
         "unicode_version": "0.6",
-        "emoji_version"
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔘",
+        "skin_tone_support": false,
+        "name": "radio button",
+        "slug": "radio_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔳",
+        "skin_tone_support": false,
+        "name": "white square button",
+        "slug": "white_square_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔲",
+        "skin_tone_support": false,
+        "name": "black square button",
+    
