@@ -13154,4 +13154,27 @@
         "emoji": "🔲",
         "skin_tone_support": false,
         "name": "black square button",
-    
+        "slug": "black_square_button",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      }
+    ]
+  },
+  {
+    "name": "Flags",
+    "slug": "flags",
+    "emojis": [
+      {
+        "emoji": "🏁",
+        "skin_tone_support": false,
+        "name": "chequered flag",
+        "slug": "chequered_flag",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🚩",
+        "skin_tone_support": false,
+        "name": "triangular flag",
+        "slug": "triangular_flag",
+        "unicode_version"
