@@ -13113,4 +13113,23 @@
       {
         "emoji": "🔺",
         "skin_tone_support": false,
-     
+        "name": "red triangle pointed up",
+        "slug": "red_triangle_pointed_up",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🔻",
+        "skin_tone_support": false,
+        "name": "red triangle pointed down",
+        "slug": "red_triangle_pointed_down",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "💠",
+        "skin_tone_support": false,
+        "name": "diamond with a dot",
+        "slug": "diamond_with_a_dot",
+        "unicode_version": "0.6",
+        "emoji_version"
