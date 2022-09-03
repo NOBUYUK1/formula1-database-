@@ -13177,4 +13177,26 @@
         "skin_tone_support": false,
         "name": "triangular flag",
         "slug": "triangular_flag",
-        "unicode_version"
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🎌",
+        "skin_tone_support": false,
+        "name": "crossed flags",
+        "slug": "crossed_flags",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🏴",
+        "skin_tone_support": false,
+        "name": "black flag",
+        "slug": "black_flag",
+        "unicode_version": "1.0",
+        "emoji_version": "1.0"
+      },
+      {
+        "emoji": "🏳️",
+        "skin_tone_support": false,
+        "name": "white flag
