@@ -13199,4 +13199,27 @@
       {
         "emoji": "🏳️",
         "skin_tone_support": false,
-        "name": "white flag
+        "name": "white flag",
+        "slug": "white_flag",
+        "unicode_version": "0.7",
+        "emoji_version": "0.7"
+      },
+      {
+        "emoji": "🏳️‍🌈",
+        "skin_tone_support": false,
+        "name": "rainbow flag",
+        "slug": "rainbow_flag",
+        "unicode_version": "4.0",
+        "emoji_version": "4.0"
+      },
+      {
+        "emoji": "🏳️‍⚧️",
+        "skin_tone_support": false,
+        "name": "transgender flag",
+        "slug": "transgender_flag",
+        "unicode_version": "13.0",
+        "emoji_version": "13.0"
+      },
+      {
+        "emoji": "🏴‍☠️",
+      
