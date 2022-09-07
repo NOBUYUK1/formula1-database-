@@ -13222,4 +13222,24 @@
       },
       {
         "emoji": "🏴‍☠️",
-      
+        "skin_tone_support": false,
+        "name": "pirate flag",
+        "slug": "pirate_flag",
+        "unicode_version": "11.0",
+        "emoji_version": "11.0"
+      },
+      {
+        "emoji": "🇦🇨",
+        "skin_tone_support": false,
+        "name": "flag Ascension Island",
+        "slug": "flag_ascension_island",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇩",
+        "skin_tone_support": false,
+        "name": "flag Andorra",
+        "slug": "flag_andorra",
+        "unicode_version": "2.0",
+        "emo
