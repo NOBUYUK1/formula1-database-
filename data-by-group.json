@@ -13242,4 +13242,23 @@
         "name": "flag Andorra",
         "slug": "flag_andorra",
         "unicode_version": "2.0",
-        "emo
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇪",
+        "skin_tone_support": false,
+        "name": "flag United Arab Emirates",
+        "slug": "flag_united_arab_emirates",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇫",
+        "skin_tone_support": false,
+        "name": "flag Afghanistan",
+        "slug": "flag_afghanistan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇬"
