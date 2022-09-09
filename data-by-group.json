@@ -13281,4 +13281,26 @@
         "skin_tone_support": false,
         "name": "flag Albania",
         "slug": "flag_albania",
-        "unic
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇲",
+        "skin_tone_support": false,
+        "name": "flag Armenia",
+        "slug": "flag_armenia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇴",
+        "skin_tone_support": false,
+        "name": "flag Angola",
+        "slug": "flag_angola",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇶",
+        "skin_tone_support": false,
+        "
