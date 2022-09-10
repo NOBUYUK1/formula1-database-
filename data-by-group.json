@@ -13303,4 +13303,23 @@
       {
         "emoji": "🇦🇶",
         "skin_tone_support": false,
-        "
+        "name": "flag Antarctica",
+        "slug": "flag_antarctica",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇷",
+        "skin_tone_support": false,
+        "name": "flag Argentina",
+        "slug": "flag_argentina",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇸",
+        "skin_tone_support": false,
+        "name": "flag American Samoa",
+        "slug": "flag_american_samoa",
+        "unicode_version": "2.0",
+        "emoji_ve
