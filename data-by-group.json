@@ -13345,4 +13345,26 @@
         "skin_tone_support": false,
         "name": "flag Aruba",
         "slug": "flag_aruba",
-        "unic
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇽",
+        "skin_tone_support": false,
+        "name": "flag Åland Islands",
+        "slug": "flag_aland_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇿",
+        "skin_tone_support": false,
+        "name": "flag Azerbaijan",
+        "slug": "flag_azerbaijan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇦",
+        "skin_tone_support": false,
+        "na
