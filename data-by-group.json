@@ -13367,4 +13367,23 @@
       {
         "emoji": "🇧🇦",
         "skin_tone_support": false,
-        "na
+        "name": "flag Bosnia & Herzegovina",
+        "slug": "flag_bosnia_herzegovina",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇧",
+        "skin_tone_support": false,
+        "name": "flag Barbados",
+        "slug": "flag_barbados",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇩",
+        "skin_tone_support": false,
+        "name": "flag Bangladesh",
+        "slug": "flag_bangladesh",
+        "unicode_version": "2.0",
+        "emoji_v
