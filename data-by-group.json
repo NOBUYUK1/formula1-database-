@@ -13322,4 +13322,27 @@
         "name": "flag American Samoa",
         "slug": "flag_american_samoa",
         "unicode_version": "2.0",
-        "emoji_ve
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇹",
+        "skin_tone_support": false,
+        "name": "flag Austria",
+        "slug": "flag_austria",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇺",
+        "skin_tone_support": false,
+        "name": "flag Australia",
+        "slug": "flag_australia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇦🇼",
+        "skin_tone_support": false,
+        "name": "flag Aruba",
+        "slug": "flag_aruba",
+        "unic
