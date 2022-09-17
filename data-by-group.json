@@ -13386,4 +13386,26 @@
         "name": "flag Bangladesh",
         "slug": "flag_bangladesh",
         "unicode_version": "2.0",
-        "emoji_v
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇪",
+        "skin_tone_support": false,
+        "name": "flag Belgium",
+        "slug": "flag_belgium",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇫",
+        "skin_tone_support": false,
+        "name": "flag Burkina Faso",
+        "slug": "flag_burkina_faso",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇬",
+        "skin_tone_support": false,
+        "name": "flag Bulgaria",
+    
