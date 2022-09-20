@@ -13429,4 +13429,24 @@
         "emoji_version": "2.0"
       },
       {
-        "emoj
+        "emoji": "🇧🇯",
+        "skin_tone_support": false,
+        "name": "flag Benin",
+        "slug": "flag_benin",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇱",
+        "skin_tone_support": false,
+        "name": "flag St. Barthélemy",
+        "slug": "flag_st_barthelemy",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇲",
+        "skin_tone_support": false,
+        "name": "flag Bermuda",
+        "slug": "flag_bermuda",
+    
