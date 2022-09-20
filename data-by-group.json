@@ -13408,4 +13408,25 @@
         "emoji": "🇧🇬",
         "skin_tone_support": false,
         "name": "flag Bulgaria",
-    
+        "slug": "flag_bulgaria",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇭",
+        "skin_tone_support": false,
+        "name": "flag Bahrain",
+        "slug": "flag_bahrain",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇮",
+        "skin_tone_support": false,
+        "name": "flag Burundi",
+        "slug": "flag_burundi",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoj
