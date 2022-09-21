@@ -13449,4 +13449,25 @@
         "skin_tone_support": false,
         "name": "flag Bermuda",
         "slug": "flag_bermuda",
-    
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇳",
+        "skin_tone_support": false,
+        "name": "flag Brunei",
+        "slug": "flag_brunei",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇴",
+        "skin_tone_support": false,
+        "name": "flag Bolivia",
+        "slug": "flag_bolivia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇶",
+        "skin_tone_su
