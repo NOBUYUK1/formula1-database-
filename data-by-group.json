@@ -13470,4 +13470,23 @@
       },
       {
         "emoji": "🇧🇶",
-        "skin_tone_su
+        "skin_tone_support": false,
+        "name": "flag Caribbean Netherlands",
+        "slug": "flag_caribbean_netherlands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇷",
+        "skin_tone_support": false,
+        "name": "flag Brazil",
+        "slug": "flag_brazil",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇸",
+        "skin_tone_support": false,
+        "name": "flag Bahamas",
+        "slug": "flag_bahamas",
+        "unicode_version": "2.0",
