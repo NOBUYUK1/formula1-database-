@@ -13490,3 +13490,26 @@
         "name": "flag Bahamas",
         "slug": "flag_bahamas",
         "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇹",
+        "skin_tone_support": false,
+        "name": "flag Bhutan",
+        "slug": "flag_bhutan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇻",
+        "skin_tone_support": false,
+        "name": "flag Bouvet Island",
+        "slug": "flag_bouvet_island",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇼",
+        "skin_tone_support": false,
+        "name": "flag Botswana",
+        "slug":
