@@ -13512,4 +13512,27 @@
         "emoji": "🇧🇼",
         "skin_tone_support": false,
         "name": "flag Botswana",
-        "slug":
+        "slug": "flag_botswana",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇾",
+        "skin_tone_support": false,
+        "name": "flag Belarus",
+        "slug": "flag_belarus",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇧🇿",
+        "skin_tone_support": false,
+        "name": "flag Belize",
+        "slug": "flag_belize",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇦",
+        "skin_tone_support": false,
+        "name": "flag Canada
