@@ -13576,4 +13576,25 @@
         "emoji": "🇨🇭",
         "skin_tone_support": false,
         "name": "flag Switzerland",
-      
+        "slug": "flag_switzerland",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇮",
+        "skin_tone_support": false,
+        "name": "flag Côte d’Ivoire",
+        "slug": "flag_cote_d_ivoire",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇰",
+        "skin_tone_support": false,
+        "name": "flag Cook Islands",
+        "slug": "flag_cook_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "
