@@ -13554,4 +13554,26 @@
         "name": "flag Congo - Kinshasa",
         "slug": "flag_congo_kinshasa",
         "unicode_version": "2.0",
-        "emoji_version": 
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇫",
+        "skin_tone_support": false,
+        "name": "flag Central African Republic",
+        "slug": "flag_central_african_republic",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇬",
+        "skin_tone_support": false,
+        "name": "flag Congo - Brazzaville",
+        "slug": "flag_congo_brazzaville",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇭",
+        "skin_tone_support": false,
+        "name": "flag Switzerland",
+      
