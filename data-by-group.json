@@ -13597,4 +13597,25 @@
         "emoji_version": "2.0"
       },
       {
-        "emoji": "
+        "emoji": "🇨🇱",
+        "skin_tone_support": false,
+        "name": "flag Chile",
+        "slug": "flag_chile",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇲",
+        "skin_tone_support": false,
+        "name": "flag Cameroon",
+        "slug": "flag_cameroon",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇳",
+        "skin_tone_support": false,
+        "name": "flag China",
+        "slug": "flag_china",
+        "unicode_version": "0.6",
+     
