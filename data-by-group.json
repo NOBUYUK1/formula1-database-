@@ -13618,4 +13618,27 @@
         "name": "flag China",
         "slug": "flag_china",
         "unicode_version": "0.6",
-     
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🇨🇴",
+        "skin_tone_support": false,
+        "name": "flag Colombia",
+        "slug": "flag_colombia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇵",
+        "skin_tone_support": false,
+        "name": "flag Clipperton Island",
+        "slug": "flag_clipperton_island",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇷",
+        "skin_tone_support": false,
+        "name": "flag Costa Rica",
+        "slug": "flag_costa_rica",
+ 
