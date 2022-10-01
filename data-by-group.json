@@ -13641,4 +13641,27 @@
         "skin_tone_support": false,
         "name": "flag Costa Rica",
         "slug": "flag_costa_rica",
- 
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇺",
+        "skin_tone_support": false,
+        "name": "flag Cuba",
+        "slug": "flag_cuba",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇻",
+        "skin_tone_support": false,
+        "name": "flag Cape Verde",
+        "slug": "flag_cape_verde",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇼",
+        "skin_tone_support": false,
+        "name": "flag Curaçao",
+        "slug
