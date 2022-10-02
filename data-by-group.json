@@ -13684,4 +13684,25 @@
         "unicode_version": "2.0",
         "emoji_version": "2.0"
       },
-      
+      {
+        "emoji": "🇨🇿",
+        "skin_tone_support": false,
+        "name": "flag Czechia",
+        "slug": "flag_czechia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇩🇪",
+        "skin_tone_support": false,
+        "name": "flag Germany",
+        "slug": "flag_germany",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🇩🇬",
+        "skin_tone_support": false,
+        "name": "flag Diego Garcia",
+        "slug": "flag_diego_garcia",
+        "unicode_version": "2
