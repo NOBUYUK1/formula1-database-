@@ -13727,4 +13727,25 @@
       {
         "emoji": "🇩🇲",
         "skin_tone_support": false,
-        "name":
+        "name": "flag Dominica",
+        "slug": "flag_dominica",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇩🇴",
+        "skin_tone_support": false,
+        "name": "flag Dominican Republic",
+        "slug": "flag_dominican_republic",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇩🇿",
+        "skin_tone_support": false,
+        "name": "flag Algeria",
+        "slug": "flag_algeria",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+  
