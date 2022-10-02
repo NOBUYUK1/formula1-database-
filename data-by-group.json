@@ -13664,4 +13664,24 @@
         "emoji": "🇨🇼",
         "skin_tone_support": false,
         "name": "flag Curaçao",
-        "slug
+        "slug": "flag_curacao",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇽",
+        "skin_tone_support": false,
+        "name": "flag Christmas Island",
+        "slug": "flag_christmas_island",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇨🇾",
+        "skin_tone_support": false,
+        "name": "flag Cyprus",
+        "slug": "flag_cyprus",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      
