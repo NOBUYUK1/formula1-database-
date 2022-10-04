@@ -13748,4 +13748,25 @@
         "unicode_version": "2.0",
         "emoji_version": "2.0"
       },
-  
+      {
+        "emoji": "🇪🇦",
+        "skin_tone_support": false,
+        "name": "flag Ceuta & Melilla",
+        "slug": "flag_ceuta_melilla",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇪🇨",
+        "skin_tone_support": false,
+        "name": "flag Ecuador",
+        "slug": "flag_ecuador",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇪🇪",
+        "skin_tone_support": false,
+        "name": "flag Estonia",
+        "slug": "flag_estonia",
+        "unicode_vers
