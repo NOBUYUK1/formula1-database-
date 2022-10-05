@@ -13769,4 +13769,25 @@
         "skin_tone_support": false,
         "name": "flag Estonia",
         "slug": "flag_estonia",
-        "unicode_vers
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇪🇬",
+        "skin_tone_support": false,
+        "name": "flag Egypt",
+        "slug": "flag_egypt",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇪🇭",
+        "skin_tone_support": false,
+        "name": "flag Western Sahara",
+        "slug": "flag_western_sahara",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇪🇷",
+        "skin_tone_s
