@@ -13810,4 +13810,25 @@
         "name": "flag Ethiopia",
         "slug": "flag_ethiopia",
         "unicode_version": "2.0",
-        "emoji_ve
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇪🇺",
+        "skin_tone_support": false,
+        "name": "flag European Union",
+        "slug": "flag_european_union",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇫🇮",
+        "skin_tone_support": false,
+        "name": "flag Finland",
+        "slug": "flag_finland",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇫🇯",
+        "skin_tone_support": false,
+        "na
