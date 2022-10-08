@@ -13790,4 +13790,24 @@
       },
       {
         "emoji": "🇪🇷",
-        "skin_tone_s
+        "skin_tone_support": false,
+        "name": "flag Eritrea",
+        "slug": "flag_eritrea",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇪🇸",
+        "skin_tone_support": false,
+        "name": "flag Spain",
+        "slug": "flag_spain",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🇪🇹",
+        "skin_tone_support": false,
+        "name": "flag Ethiopia",
+        "slug": "flag_ethiopia",
+        "unicode_version": "2.0",
+        "emoji_ve
