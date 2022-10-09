@@ -13831,4 +13831,26 @@
       {
         "emoji": "🇫🇯",
         "skin_tone_support": false,
-        "na
+        "name": "flag Fiji",
+        "slug": "flag_fiji",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇫🇰",
+        "skin_tone_support": false,
+        "name": "flag Falkland Islands",
+        "slug": "flag_falkland_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇫🇲",
+        "skin_tone_support": false,
+        "name": "flag Micronesia",
+        "slug": "flag_micronesia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+       
