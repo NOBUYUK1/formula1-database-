@@ -13853,4 +13853,26 @@
         "emoji_version": "2.0"
       },
       {
-       
+        "emoji": "🇫🇴",
+        "skin_tone_support": false,
+        "name": "flag Faroe Islands",
+        "slug": "flag_faroe_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇫🇷",
+        "skin_tone_support": false,
+        "name": "flag France",
+        "slug": "flag_france",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🇬🇦",
+        "skin_tone_support": false,
+        "name": "flag Gabon",
+        "slug": "flag_gabon",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
