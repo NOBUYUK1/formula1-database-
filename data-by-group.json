@@ -13876,3 +13876,24 @@
         "unicode_version": "2.0",
         "emoji_version": "2.0"
       },
+      {
+        "emoji": "🇬🇧",
+        "skin_tone_support": false,
+        "name": "flag United Kingdom",
+        "slug": "flag_united_kingdom",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🇬🇩",
+        "skin_tone_support": false,
+        "name": "flag Grenada",
+        "slug": "flag_grenada",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇪",
+        "skin_tone_support": false,
+        "name": "flag Georgia",
+        "slug": "f
