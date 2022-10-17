@@ -13918,4 +13918,27 @@
       },
       {
         "emoji": "🇬🇭",
-        "skin_tone_sup
+        "skin_tone_support": false,
+        "name": "flag Ghana",
+        "slug": "flag_ghana",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇮",
+        "skin_tone_support": false,
+        "name": "flag Gibraltar",
+        "slug": "flag_gibraltar",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇱",
+        "skin_tone_support": false,
+        "name": "flag Greenland",
+        "slug": "flag_greenland",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emo
