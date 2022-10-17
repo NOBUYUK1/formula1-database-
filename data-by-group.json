@@ -13896,4 +13896,26 @@
         "emoji": "🇬🇪",
         "skin_tone_support": false,
         "name": "flag Georgia",
-        "slug": "f
+        "slug": "flag_georgia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇫",
+        "skin_tone_support": false,
+        "name": "flag French Guiana",
+        "slug": "flag_french_guiana",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇬",
+        "skin_tone_support": false,
+        "name": "flag Guernsey",
+        "slug": "flag_guernsey",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇭",
+        "skin_tone_sup
