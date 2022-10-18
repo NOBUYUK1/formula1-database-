@@ -13941,4 +13941,25 @@
         "emoji_version": "2.0"
       },
       {
-        "emo
+        "emoji": "🇬🇲",
+        "skin_tone_support": false,
+        "name": "flag Gambia",
+        "slug": "flag_gambia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇳",
+        "skin_tone_support": false,
+        "name": "flag Guinea",
+        "slug": "flag_guinea",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇵",
+        "skin_tone_support": false,
+        "name": "flag Guadeloupe",
+        "slug": "flag_guadeloupe",
+        "unicode_version": "2.0",
+        "emoji_versi
