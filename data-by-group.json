@@ -13983,4 +13983,23 @@
       {
         "emoji": "🇬🇸",
         "skin_tone_support": false,
-        "name": "flag South Ge
+        "name": "flag South Georgia & South Sandwich Islands",
+        "slug": "flag_south_georgia_south_sandwich_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇹",
+        "skin_tone_support": false,
+        "name": "flag Guatemala",
+        "slug": "flag_guatemala",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇺",
+        "skin_tone_support": false,
+        "name": "flag Guam",
+        "slug": "flag_guam",
+        "unicode_version": "2.0",
+        "emoji_version"
