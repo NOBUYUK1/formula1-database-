@@ -14002,4 +14002,27 @@
         "name": "flag Guam",
         "slug": "flag_guam",
         "unicode_version": "2.0",
-        "emoji_version"
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇼",
+        "skin_tone_support": false,
+        "name": "flag Guinea-Bissau",
+        "slug": "flag_guinea_bissau",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇬🇾",
+        "skin_tone_support": false,
+        "name": "flag Guyana",
+        "slug": "flag_guyana",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇭🇰",
+        "skin_tone_support": false,
+        "name": "flag Hong Kong SAR China",
+        "slug": "flag_hong_kong_sar_china",
+        "un
