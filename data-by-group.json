@@ -14025,4 +14025,25 @@
         "skin_tone_support": false,
         "name": "flag Hong Kong SAR China",
         "slug": "flag_hong_kong_sar_china",
-        "un
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇭🇲",
+        "skin_tone_support": false,
+        "name": "flag Heard & McDonald Islands",
+        "slug": "flag_heard_mcdonald_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇭🇳",
+        "skin_tone_support": false,
+        "name": "flag Honduras",
+        "slug": "flag_honduras",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇭🇷",
+        "skin_tone_su
