@@ -14046,4 +14046,26 @@
       },
       {
         "emoji": "🇭🇷",
-        "skin_tone_su
+        "skin_tone_support": false,
+        "name": "flag Croatia",
+        "slug": "flag_croatia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇭🇹",
+        "skin_tone_support": false,
+        "name": "flag Haiti",
+        "slug": "flag_haiti",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇭🇺",
+        "skin_tone_support": false,
+        "name": "flag Hungary",
+        "slug": "flag_hungary",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
