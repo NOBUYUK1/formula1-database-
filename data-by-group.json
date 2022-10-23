@@ -14069,3 +14069,23 @@
         "emoji_version": "2.0"
       },
       {
+        "emoji": "🇮🇨",
+        "skin_tone_support": false,
+        "name": "flag Canary Islands",
+        "slug": "flag_canary_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇮🇩",
+        "skin_tone_support": false,
+        "name": "flag Indonesia",
+        "slug": "flag_indonesia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇮🇪",
+        "skin_tone_support": false,
+        "name": "flag Ireland",
+        "slug": "flag_ire
