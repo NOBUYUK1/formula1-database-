@@ -14088,4 +14088,27 @@
         "emoji": "🇮🇪",
         "skin_tone_support": false,
         "name": "flag Ireland",
-        "slug": "flag_ire
+        "slug": "flag_ireland",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇮🇱",
+        "skin_tone_support": false,
+        "name": "flag Israel",
+        "slug": "flag_israel",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇮🇲",
+        "skin_tone_support": false,
+        "name": "flag Isle of Man",
+        "slug": "flag_isle_of_man",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇮🇳",
+        "skin_tone_support": false,
+   
