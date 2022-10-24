@@ -14111,4 +14111,22 @@
       {
         "emoji": "🇮🇳",
         "skin_tone_support": false,
-   
+        "name": "flag India",
+        "slug": "flag_india",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇮🇴",
+        "skin_tone_support": false,
+        "name": "flag British Indian Ocean Territory",
+        "slug": "flag_british_indian_ocean_territory",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇮🇶",
+        "skin_tone_support": false,
+        "name": "flag Iraq",
+        "slug": "flag_iraq",
+        "unicode_version": "2.0"
