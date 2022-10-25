@@ -14153,4 +14153,27 @@
         "skin_tone_support": false,
         "name": "flag Italy",
         "slug": "flag_italy",
-        "unicode_version":
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🇯🇪",
+        "skin_tone_support": false,
+        "name": "flag Jersey",
+        "slug": "flag_jersey",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇯🇲",
+        "skin_tone_support": false,
+        "name": "flag Jamaica",
+        "slug": "flag_jamaica",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇯🇴",
+        "skin_tone_support": false,
+        "name": "flag Jordan",
+        "slug": "
