@@ -14129,4 +14129,28 @@
         "skin_tone_support": false,
         "name": "flag Iraq",
         "slug": "flag_iraq",
-        "unicode_version": "2.0"
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇮🇷",
+        "skin_tone_support": false,
+        "name": "flag Iran",
+        "slug": "flag_iran",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇮🇸",
+        "skin_tone_support": false,
+        "name": "flag Iceland",
+        "slug": "flag_iceland",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇮🇹",
+        "skin_tone_support": false,
+        "name": "flag Italy",
+        "slug": "flag_italy",
+        "unicode_version":
