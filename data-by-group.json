@@ -14176,4 +14176,26 @@
         "emoji": "🇯🇴",
         "skin_tone_support": false,
         "name": "flag Jordan",
-        "slug": "
+        "slug": "flag_jordan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇯🇵",
+        "skin_tone_support": false,
+        "name": "flag Japan",
+        "slug": "flag_japan",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🇰🇪",
+        "skin_tone_support": false,
+        "name": "flag Kenya",
+        "slug": "flag_kenya",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇰🇬",
+        "skin_tone_support
