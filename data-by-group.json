@@ -14198,4 +14198,24 @@
       },
       {
         "emoji": "🇰🇬",
-        "skin_tone_support
+        "skin_tone_support": false,
+        "name": "flag Kyrgyzstan",
+        "slug": "flag_kyrgyzstan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇰🇭",
+        "skin_tone_support": false,
+        "name": "flag Cambodia",
+        "slug": "flag_cambodia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇰🇮",
+        "skin_tone_support": false,
+        "name": "flag Kiribati",
+        "slug": "flag_kiribati",
+        "unicode_version": "2.0",
+        "emoji_version": "2
