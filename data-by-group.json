@@ -14218,4 +14218,26 @@
         "name": "flag Kiribati",
         "slug": "flag_kiribati",
         "unicode_version": "2.0",
-        "emoji_version": "2
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇰🇲",
+        "skin_tone_support": false,
+        "name": "flag Comoros",
+        "slug": "flag_comoros",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇰🇳",
+        "skin_tone_support": false,
+        "name": "flag St. Kitts & Nevis",
+        "slug": "flag_st_kitts_nevis",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇰🇵",
+        "skin_tone_support": false,
+        "name": "flag North Korea",
+        "slug": "flag_north_kor
