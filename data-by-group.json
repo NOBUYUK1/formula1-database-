@@ -14263,4 +14263,25 @@
       {
         "emoji": "🇰🇾",
         "skin_tone_support": false,
-        "name": "flag Cayman Isla
+        "name": "flag Cayman Islands",
+        "slug": "flag_cayman_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇰🇿",
+        "skin_tone_support": false,
+        "name": "flag Kazakhstan",
+        "slug": "flag_kazakhstan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇱🇦",
+        "skin_tone_support": false,
+        "name": "flag Laos",
+        "slug": "flag_laos",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+ 
