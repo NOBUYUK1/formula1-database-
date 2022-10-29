@@ -14240,4 +14240,27 @@
         "emoji": "🇰🇵",
         "skin_tone_support": false,
         "name": "flag North Korea",
-        "slug": "flag_north_kor
+        "slug": "flag_north_korea",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇰🇷",
+        "skin_tone_support": false,
+        "name": "flag South Korea",
+        "slug": "flag_south_korea",
+        "unicode_version": "0.6",
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🇰🇼",
+        "skin_tone_support": false,
+        "name": "flag Kuwait",
+        "slug": "flag_kuwait",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇰🇾",
+        "skin_tone_support": false,
+        "name": "flag Cayman Isla
