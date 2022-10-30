@@ -14284,4 +14284,24 @@
         "unicode_version": "2.0",
         "emoji_version": "2.0"
       },
- 
+      {
+        "emoji": "🇱🇧",
+        "skin_tone_support": false,
+        "name": "flag Lebanon",
+        "slug": "flag_lebanon",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇱🇨",
+        "skin_tone_support": false,
+        "name": "flag St. Lucia",
+        "slug": "flag_st_lucia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇱🇮",
+        "skin_tone_support": false,
+        "name": "flag Liechtenstein",
+        "slug": "flag_liechten
