@@ -14304,4 +14304,26 @@
         "emoji": "🇱🇮",
         "skin_tone_support": false,
         "name": "flag Liechtenstein",
-        "slug": "flag_liechten
+        "slug": "flag_liechtenstein",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇱🇰",
+        "skin_tone_support": false,
+        "name": "flag Sri Lanka",
+        "slug": "flag_sri_lanka",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇱🇷",
+        "skin_tone_support": false,
+        "name": "flag Liberia",
+        "slug": "flag_liberia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇱🇸",
+        "skin_tone_support
