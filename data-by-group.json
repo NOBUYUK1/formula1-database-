@@ -14326,4 +14326,24 @@
       },
       {
         "emoji": "🇱🇸",
-        "skin_tone_support
+        "skin_tone_support": false,
+        "name": "flag Lesotho",
+        "slug": "flag_lesotho",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇱🇹",
+        "skin_tone_support": false,
+        "name": "flag Lithuania",
+        "slug": "flag_lithuania",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇱🇺",
+        "skin_tone_support": false,
+        "name": "flag Luxembourg",
+        "slug": "flag_luxembourg",
+        "unicode_version": "2.0",
+        "emoji_versi
