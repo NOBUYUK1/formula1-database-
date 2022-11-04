@@ -14392,4 +14392,26 @@
         "emoji": "🇲🇪",
         "skin_tone_support": false,
         "name": "flag Montenegro",
-        
+        "slug": "flag_montenegro",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇫",
+        "skin_tone_support": false,
+        "name": "flag St. Martin",
+        "slug": "flag_st_martin",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇬",
+        "skin_tone_support": false,
+        "name": "flag Madagascar",
+        "slug": "flag_madagascar",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇭",
+        "skin_tone_sup
