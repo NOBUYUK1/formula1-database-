@@ -14370,4 +14370,26 @@
         "name": "flag Morocco",
         "slug": "flag_morocco",
         "unicode_version": "2.0",
-   
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇨",
+        "skin_tone_support": false,
+        "name": "flag Monaco",
+        "slug": "flag_monaco",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇩",
+        "skin_tone_support": false,
+        "name": "flag Moldova",
+        "slug": "flag_moldova",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇪",
+        "skin_tone_support": false,
+        "name": "flag Montenegro",
+        
