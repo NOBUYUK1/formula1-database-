@@ -14414,4 +14414,24 @@
       },
       {
         "emoji": "🇲🇭",
-        "skin_tone_sup
+        "skin_tone_support": false,
+        "name": "flag Marshall Islands",
+        "slug": "flag_marshall_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇰",
+        "skin_tone_support": false,
+        "name": "flag North Macedonia",
+        "slug": "flag_north_macedonia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇱",
+        "skin_tone_support": false,
+        "name": "flag Mali",
+        "slug": "flag_mali",
+        "unicode_version": "2.0",
+        "emoji_versio
