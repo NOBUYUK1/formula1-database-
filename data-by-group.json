@@ -14457,4 +14457,25 @@
         "skin_tone_support": false,
         "name": "flag Macao SAR China",
         "slug": "flag_macao_sar_china",
-        "un
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇵",
+        "skin_tone_support": false,
+        "name": "flag Northern Mariana Islands",
+        "slug": "flag_northern_mariana_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇶",
+        "skin_tone_support": false,
+        "name": "flag Martinique",
+        "slug": "flag_martinique",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇷",
+        "ski
