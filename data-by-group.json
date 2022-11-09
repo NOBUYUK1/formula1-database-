@@ -14478,4 +14478,26 @@
       },
       {
         "emoji": "🇲🇷",
-        "ski
+        "skin_tone_support": false,
+        "name": "flag Mauritania",
+        "slug": "flag_mauritania",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇸",
+        "skin_tone_support": false,
+        "name": "flag Montserrat",
+        "slug": "flag_montserrat",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇹",
+        "skin_tone_support": false,
+        "name": "flag Malta",
+        "slug": "flag_malta",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+   
