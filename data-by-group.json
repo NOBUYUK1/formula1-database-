@@ -14500,4 +14500,26 @@
         "unicode_version": "2.0",
         "emoji_version": "2.0"
       },
-   
+      {
+        "emoji": "🇲🇺",
+        "skin_tone_support": false,
+        "name": "flag Mauritius",
+        "slug": "flag_mauritius",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇻",
+        "skin_tone_support": false,
+        "name": "flag Maldives",
+        "slug": "flag_maldives",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇲🇼",
+        "skin_tone_support": false,
+        "name": "flag Malawi",
+        "slug": "flag_malawi",
+        "unicode_version": "2.0",
+        "emoji
