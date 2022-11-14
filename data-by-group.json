@@ -14567,4 +14567,26 @@
       {
         "emoji": "🇳🇪",
         "skin_tone_support": false,
-        
+        "name": "flag Niger",
+        "slug": "flag_niger",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇳🇫",
+        "skin_tone_support": false,
+        "name": "flag Norfolk Island",
+        "slug": "flag_norfolk_island",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇳🇬",
+        "skin_tone_support": false,
+        "name": "flag Nigeria",
+        "slug": "flag_nigeria",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇳🇮"
