@@ -14544,4 +14544,27 @@
         "emoji": "🇲🇿",
         "skin_tone_support": false,
         "name": "flag Mozambique",
- 
+        "slug": "flag_mozambique",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇳🇦",
+        "skin_tone_support": false,
+        "name": "flag Namibia",
+        "slug": "flag_namibia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇳🇨",
+        "skin_tone_support": false,
+        "name": "flag New Caledonia",
+        "slug": "flag_new_caledonia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇳🇪",
+        "skin_tone_support": false,
+        
