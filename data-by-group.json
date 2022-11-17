@@ -14610,4 +14610,25 @@
         "name": "flag Norway",
         "slug": "flag_norway",
         "unicode_version": "2.0",
-   
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇳🇵",
+        "skin_tone_support": false,
+        "name": "flag Nepal",
+        "slug": "flag_nepal",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇳🇷",
+        "skin_tone_support": false,
+        "name": "flag Nauru",
+        "slug": "flag_nauru",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇳🇺",
+        "skin_tone_support": false,
+        "name": "fla
