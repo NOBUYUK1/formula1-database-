@@ -14631,4 +14631,26 @@
       {
         "emoji": "🇳🇺",
         "skin_tone_support": false,
-        "name": "fla
+        "name": "flag Niue",
+        "slug": "flag_niue",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇳🇿",
+        "skin_tone_support": false,
+        "name": "flag New Zealand",
+        "slug": "flag_new_zealand",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇴🇲",
+        "skin_tone_support": false,
+        "name": "flag Oman",
+        "slug": "flag_oman",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "e
