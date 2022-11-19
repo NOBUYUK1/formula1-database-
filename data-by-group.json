@@ -14653,4 +14653,24 @@
         "emoji_version": "2.0"
       },
       {
-        "e
+        "emoji": "🇵🇦",
+        "skin_tone_support": false,
+        "name": "flag Panama",
+        "slug": "flag_panama",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇪",
+        "skin_tone_support": false,
+        "name": "flag Peru",
+        "slug": "flag_peru",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇫",
+        "skin_tone_support": false,
+        "name": "flag French Polynesia",
+        "slug": "flag_french_polynesia",
+   
