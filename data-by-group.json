@@ -14696,3 +14696,25 @@
         "emoji": "🇵🇰",
         "skin_tone_support": false,
         "name": "flag Pakistan",
+        "slug": "flag_pakistan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇱",
+        "skin_tone_support": false,
+        "name": "flag Poland",
+        "slug": "flag_poland",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇲",
+        "skin_tone_support": false,
+        "name": "flag St. Pierre & Miquelon",
+        "slug": "flag_st_pierre_miquelon",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+    
