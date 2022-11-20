@@ -14673,4 +14673,26 @@
         "skin_tone_support": false,
         "name": "flag French Polynesia",
         "slug": "flag_french_polynesia",
-   
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇬",
+        "skin_tone_support": false,
+        "name": "flag Papua New Guinea",
+        "slug": "flag_papua_new_guinea",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇭",
+        "skin_tone_support": false,
+        "name": "flag Philippines",
+        "slug": "flag_philippines",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇰",
+        "skin_tone_support": false,
+        "name": "flag Pakistan",
