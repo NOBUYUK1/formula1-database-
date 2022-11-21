@@ -14717,4 +14717,23 @@
         "emoji_version": "2.0"
       },
       {
-    
+        "emoji": "🇵🇳",
+        "skin_tone_support": false,
+        "name": "flag Pitcairn Islands",
+        "slug": "flag_pitcairn_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇷",
+        "skin_tone_support": false,
+        "name": "flag Puerto Rico",
+        "slug": "flag_puerto_rico",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇸",
+        "skin_tone_support": false,
+        "name": "flag Palestinian Territories",
+        "slug": "flag_pales
