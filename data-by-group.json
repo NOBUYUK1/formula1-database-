@@ -14736,4 +14736,26 @@
         "emoji": "🇵🇸",
         "skin_tone_support": false,
         "name": "flag Palestinian Territories",
-        "slug": "flag_pales
+        "slug": "flag_palestinian_territories",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇹",
+        "skin_tone_support": false,
+        "name": "flag Portugal",
+        "slug": "flag_portugal",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇼",
+        "skin_tone_support": false,
+        "name": "flag Palau",
+        "slug": "flag_palau",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇵🇾",
+        "skin_
