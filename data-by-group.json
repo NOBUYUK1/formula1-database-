@@ -14758,4 +14758,24 @@
       },
       {
         "emoji": "🇵🇾",
-        "skin_
+        "skin_tone_support": false,
+        "name": "flag Paraguay",
+        "slug": "flag_paraguay",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇶🇦",
+        "skin_tone_support": false,
+        "name": "flag Qatar",
+        "slug": "flag_qatar",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇷🇪",
+        "skin_tone_support": false,
+        "name": "flag Réunion",
+        "slug": "flag_reunion",
+        "unicode_version": "2.0",
+        "emoji_version": "
