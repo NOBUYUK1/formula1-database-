@@ -14778,4 +14778,28 @@
         "name": "flag Réunion",
         "slug": "flag_reunion",
         "unicode_version": "2.0",
-        "emoji_version": "
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇷🇴",
+        "skin_tone_support": false,
+        "name": "flag Romania",
+        "slug": "flag_romania",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇷🇸",
+        "skin_tone_support": false,
+        "name": "flag Serbia",
+        "slug": "flag_serbia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇷🇺",
+        "skin_tone_support": false,
+        "name": "flag Russia",
+        "slug": "flag_russia",
+        "unicode_version": "0.6",
+        "emoji
