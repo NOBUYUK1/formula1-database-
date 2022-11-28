@@ -14823,4 +14823,23 @@
       {
         "emoji": "🇸🇧",
         "skin_tone_support": false,
-        "name": "fla
+        "name": "flag Solomon Islands",
+        "slug": "flag_solomon_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇨",
+        "skin_tone_support": false,
+        "name": "flag Seychelles",
+        "slug": "flag_seychelles",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇩",
+        "skin_tone_support": false,
+        "name": "flag Sudan",
+        "slug": "flag_sudan",
+        "unicode_version": "2.0",
+        "emoji_versi
