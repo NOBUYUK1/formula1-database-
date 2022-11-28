@@ -14802,4 +14802,25 @@
         "name": "flag Russia",
         "slug": "flag_russia",
         "unicode_version": "0.6",
-        "emoji
+        "emoji_version": "0.6"
+      },
+      {
+        "emoji": "🇷🇼",
+        "skin_tone_support": false,
+        "name": "flag Rwanda",
+        "slug": "flag_rwanda",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇦",
+        "skin_tone_support": false,
+        "name": "flag Saudi Arabia",
+        "slug": "flag_saudi_arabia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇧",
+        "skin_tone_support": false,
+        "name": "fla
