@@ -14842,4 +14842,26 @@
         "name": "flag Sudan",
         "slug": "flag_sudan",
         "unicode_version": "2.0",
-        "emoji_versi
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇪",
+        "skin_tone_support": false,
+        "name": "flag Sweden",
+        "slug": "flag_sweden",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇬",
+        "skin_tone_support": false,
+        "name": "flag Singapore",
+        "slug": "flag_singapore",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇭",
+        "skin_tone_support": false,
+        "name": "flag St. Helena",
+        "slug": "flag_st_hele
