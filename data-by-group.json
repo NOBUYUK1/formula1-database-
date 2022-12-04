@@ -14864,4 +14864,25 @@
         "emoji": "🇸🇭",
         "skin_tone_support": false,
         "name": "flag St. Helena",
-        "slug": "flag_st_hele
+        "slug": "flag_st_helena",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇮",
+        "skin_tone_support": false,
+        "name": "flag Slovenia",
+        "slug": "flag_slovenia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇯",
+        "skin_tone_support": false,
+        "name": "flag Svalbard & Jan Mayen",
+        "slug": "flag_svalbard_jan_mayen",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+  
