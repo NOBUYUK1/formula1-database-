@@ -14905,4 +14905,27 @@
         "skin_tone_support": false,
         "name": "flag San Marino",
         "slug": "flag_san_marino",
-       
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇳",
+        "skin_tone_support": false,
+        "name": "flag Senegal",
+        "slug": "flag_senegal",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇴",
+        "skin_tone_support": false,
+        "name": "flag Somalia",
+        "slug": "flag_somalia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇷",
+        "skin_tone_support": false,
+        "name": "flag Suriname",
+        
