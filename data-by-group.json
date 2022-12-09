@@ -14928,4 +14928,25 @@
         "emoji": "🇸🇷",
         "skin_tone_support": false,
         "name": "flag Suriname",
-        
+        "slug": "flag_suriname",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇸",
+        "skin_tone_support": false,
+        "name": "flag South Sudan",
+        "slug": "flag_south_sudan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇹",
+        "skin_tone_support": false,
+        "name": "flag São Tomé & Príncipe",
+        "slug": "flag_sao_tome_principe",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+      
