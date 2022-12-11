@@ -14990,4 +14990,23 @@
       },
       {
         "emoji": "🇹🇨",
-        "skin_
+        "skin_tone_support": false,
+        "name": "flag Turks & Caicos Islands",
+        "slug": "flag_turks_caicos_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇩",
+        "skin_tone_support": false,
+        "name": "flag Chad",
+        "slug": "flag_chad",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇫",
+        "skin_tone_support": false,
+        "name": "flag French Southern Territories",
+        "slug": "flag_french_southern_territories",
+ 
