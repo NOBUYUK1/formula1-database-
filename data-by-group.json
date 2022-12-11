@@ -14967,4 +14967,27 @@
       {
         "emoji": "🇸🇾",
         "skin_tone_support": false,
-        "name": "flag S
+        "name": "flag Syria",
+        "slug": "flag_syria",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇸🇿",
+        "skin_tone_support": false,
+        "name": "flag Eswatini",
+        "slug": "flag_eswatini",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇦",
+        "skin_tone_support": false,
+        "name": "flag Tristan da Cunha",
+        "slug": "flag_tristan_da_cunha",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇨",
+        "skin_
