@@ -15009,4 +15009,25 @@
         "skin_tone_support": false,
         "name": "flag French Southern Territories",
         "slug": "flag_french_southern_territories",
- 
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇬",
+        "skin_tone_support": false,
+        "name": "flag Togo",
+        "slug": "flag_togo",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇭",
+        "skin_tone_support": false,
+        "name": "flag Thailand",
+        "slug": "flag_thailand",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇯",
+        "skin_
