@@ -15030,4 +15030,23 @@
       },
       {
         "emoji": "🇹🇯",
-        "skin_
+        "skin_tone_support": false,
+        "name": "flag Tajikistan",
+        "slug": "flag_tajikistan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇰",
+        "skin_tone_support": false,
+        "name": "flag Tokelau",
+        "slug": "flag_tokelau",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇱",
+        "skin_tone_support": false,
+        "name": "flag Timor-Leste",
+        "slug": "flag_timor_leste",
+   
