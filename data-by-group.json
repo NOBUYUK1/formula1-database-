@@ -15071,3 +15071,24 @@
       {
         "emoji": "🇹🇴",
         "skin_tone_support": false,
+        "name": "flag Tonga",
+        "slug": "flag_tonga",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇷",
+        "skin_tone_support": false,
+        "name": "flag Turkey",
+        "slug": "flag_turkey",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇹",
+        "skin_tone_support": false,
+        "name": "flag Trinidad & Tobago",
+        "slug": "flag_trinidad_tobago",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+     
