@@ -15049,4 +15049,25 @@
         "skin_tone_support": false,
         "name": "flag Timor-Leste",
         "slug": "flag_timor_leste",
-   
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇲",
+        "skin_tone_support": false,
+        "name": "flag Turkmenistan",
+        "slug": "flag_turkmenistan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇳",
+        "skin_tone_support": false,
+        "name": "flag Tunisia",
+        "slug": "flag_tunisia",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇹🇴",
+        "skin_tone_support": false,
