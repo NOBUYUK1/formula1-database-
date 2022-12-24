@@ -15157,4 +15157,24 @@
         "emoji_version": "0.6"
       },
       {
- 
+        "emoji": "🇺🇾",
+        "skin_tone_support": false,
+        "name": "flag Uruguay",
+        "slug": "flag_uruguay",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇺🇿",
+        "skin_tone_support": false,
+        "name": "flag Uzbekistan",
+        "slug": "flag_uzbekistan",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇻🇦",
+        "skin_tone_support": false,
+        "name": "flag Vatican City",
+        "slug": "flag_vatican_city",
+        "unicode_vers
