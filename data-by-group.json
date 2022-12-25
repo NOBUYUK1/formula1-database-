@@ -15177,4 +15177,26 @@
         "skin_tone_support": false,
         "name": "flag Vatican City",
         "slug": "flag_vatican_city",
-        "unicode_vers
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇻🇨",
+        "skin_tone_support": false,
+        "name": "flag St. Vincent & Grenadines",
+        "slug": "flag_st_vincent_grenadines",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇻🇪",
+        "skin_tone_support": false,
+        "name": "flag Venezuela",
+        "slug": "flag_venezuela",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇻🇬",
+        "skin_tone_support": false,
+        "name": "flag British 
