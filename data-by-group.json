@@ -15199,4 +15199,23 @@
       {
         "emoji": "🇻🇬",
         "skin_tone_support": false,
-        "name": "flag British 
+        "name": "flag British Virgin Islands",
+        "slug": "flag_british_virgin_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇻🇮",
+        "skin_tone_support": false,
+        "name": "flag U.S. Virgin Islands",
+        "slug": "flag_u_s_virgin_islands",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇻🇳",
+        "skin_tone_support": false,
+        "name": "flag Vietnam",
+        "slug": "flag_vietnam",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
