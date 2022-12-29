@@ -15240,4 +15240,25 @@
         "emoji": "🇼🇸",
         "skin_tone_support": false,
         "name": "flag Samoa",
-        "slug": "flag_samo
+        "slug": "flag_samoa",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇽🇰",
+        "skin_tone_support": false,
+        "name": "flag Kosovo",
+        "slug": "flag_kosovo",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇾🇪",
+        "skin_tone_support": false,
+        "name": "flag Yemen",
+        "slug": "flag_yemen",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": 
