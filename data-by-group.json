@@ -15219,3 +15219,25 @@
         "slug": "flag_vietnam",
         "unicode_version": "2.0",
         "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇻🇺",
+        "skin_tone_support": false,
+        "name": "flag Vanuatu",
+        "slug": "flag_vanuatu",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇼🇫",
+        "skin_tone_support": false,
+        "name": "flag Wallis & Futuna",
+        "slug": "flag_wallis_futuna",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇼🇸",
+        "skin_tone_support": false,
+        "name": "flag Samoa",
+        "slug": "flag_samo
