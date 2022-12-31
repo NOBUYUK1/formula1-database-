@@ -15261,4 +15261,24 @@
         "emoji_version": "2.0"
       },
       {
-        "emoji": 
+        "emoji": "🇾🇹",
+        "skin_tone_support": false,
+        "name": "flag Mayotte",
+        "slug": "flag_mayotte",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇿🇦",
+        "skin_tone_support": false,
+        "name": "flag South Africa",
+        "slug": "flag_south_africa",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇿🇲",
+        "skin_tone_support": false,
+        "name": "flag Zambia",
+        "slug": "flag_zambia",
+        "unicode_version": "2.0
