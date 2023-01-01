@@ -15281,4 +15281,25 @@
         "skin_tone_support": false,
         "name": "flag Zambia",
         "slug": "flag_zambia",
-        "unicode_version": "2.0
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🇿🇼",
+        "skin_tone_support": false,
+        "name": "flag Zimbabwe",
+        "slug": "flag_zimbabwe",
+        "unicode_version": "2.0",
+        "emoji_version": "2.0"
+      },
+      {
+        "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "skin_tone_support": false,
+        "name": "flag England",
+        "slug": "flag_england",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "skin_tone_support
