@@ -15302,4 +15302,20 @@
       },
       {
         "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-        "skin_tone_support
+        "skin_tone_support": false,
+        "name": "flag Scotland",
+        "slug": "flag_scotland",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      },
+      {
+        "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "skin_tone_support": false,
+        "name": "flag Wales",
+        "slug": "flag_wales",
+        "unicode_version": "5.0",
+        "emoji_version": "5.0"
+      }
+    ]
+  }
+]
