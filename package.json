@@ -21,4 +21,11 @@
   "author": "Mu-An Chiou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com
+    "url": "https://github.com/muan/unicode-emoji-json/issues"
+  },
+  "homepage": "https://github.com/muan/unicode-emoji-json#readme",
+  "devDependencies": {
+    "fast-html-parser": "^1.0.1",
+    "tape": "^4.11.0"
+  }
+}
