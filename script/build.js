@@ -36,4 +36,25 @@ groupedEmojiData.split('\n').forEach(line => {
   if (groupMatch) {
     currentGroup = groupMatch.groups.name
   } else {
-    const emojiMatch = line.
+    const emojiMatch = line.match(EMOJI_REGEX)
+    if (emojiMatch) {
+      const {groups: {type, emoji, desc, emojiversion}} = emojiMatch
+      if (type === 'fully-qualified') {
+        if (line.match(SKIN_TONE_VARIATION_DESC)) return
+        dataByEmoji[emoji] = {
+          name: null,
+          slug: null,
+          group: currentGroup,
+          emoji_version: emojiversion,
+          unicode_version: null,
+          skin_tone_support: null
+        }
+      } else if (type === 'component') {
+        emojiComponents[slugify(desc)] = emoji
+      }
+    }
+  }
+})
+
+
+// 'flag: St. Kitts & Nevis' -> 'flag_st_kit
