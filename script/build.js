@@ -57,4 +57,23 @@ groupedEmojiData.split('\n').forEach(line => {
 })
 
 
-// 'flag: St. Kitts & Nevis' -> 'flag_st_kit
+// 'flag: St. Kitts & Nevis' -> 'flag_st_kitts_nevis'
+// 'family: woman, woman, boy, boy' -> 'family_woman_woman_boy_boy'
+// 'A button (blood type)' -> 'a_button'
+// 'Cocos (Keeling) Islands' -> 'cocos_islands'
+// 'keycap *' -> 'keycap_asterisk'
+//
+// Returns machine readable emoji short code
+function slugify(str) {
+  const SLUGIFY_REPLACEMENT = {
+    "*": "asterisk",
+    "#": "number sign"
+  }
+
+  for (key in SLUGIFY_REPLACEMENT) {
+    str = str.replace(key, SLUGIFY_REPLACEMENT[key])
+  }
+
+  return str.normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\(.+\
