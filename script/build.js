@@ -104,4 +104,15 @@ orderedEmojiData.split('\n').forEach(line => {
   const fullName = desc && !isSkinToneVariation ? [name, desc].join(' ') : name
   if (isSkinToneVariation) {
     dataByEmoji[currentEmoji].skin_tone_support = true
-    dataByEmoji[currentEmoji].skin_tone_support_unicod
+    dataByEmoji[currentEmoji].skin_tone_support_unicode_version = version
+  } else {
+    // Workaround for ordered data missing VARIATION_16 (smiling_face)
+    emojiWithOptionalVariation16 = dataByEmoji[emoji] ? emoji : emoji + VARIATION_16
+    const emojiEntry = dataByEmoji[emojiWithOptionalVariation16]
+    if (!emojiEntry) {
+      if (Object.values(emojiComponents).includes(emoji)) return
+      throw `${emoji} entry from emoji-order.txt match not found in emoji-group.txt`
+    }
+    currentEmoji = emojiWithOptionalVariation16
+    orderedEmoji.push(currentEmoji)
+  
