@@ -92,4 +92,16 @@ function slugify(str) {
 //
 const ORDERED_EMOJI_REGEX = /.+\s;\s(?<version>[0-9.]+)\s#\s(?<emoji>\S+)\s(?<name>[^:]+)(?::\s)?(?<desc>.+)?/
 
-let curren
+let currentEmoji = null
+
+orderedEmojiData.split('\n').forEach(line => {
+  if (line.length === 0) return
+  const match = line.match(ORDERED_EMOJI_REGEX)
+  if (!match) return
+
+  const {groups: {version, emoji, name, desc}} = match
+  const isSkinToneVariation = desc && !!desc.match(SKIN_TONE_VARIATION_DESC)
+  const fullName = desc && !isSkinToneVariation ? [name, desc].join(' ') : name
+  if (isSkinToneVariation) {
+    dataByEmoji[currentEmoji].skin_tone_support = true
+    dataByEmoji[currentEmoji].skin_tone_support_unicod
