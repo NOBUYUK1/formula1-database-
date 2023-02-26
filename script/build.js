@@ -76,4 +76,20 @@ function slugify(str) {
 
   return str.normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
-    .replace(/\(.+\
+    .replace(/\(.+\)/g, '')
+    .trim()
+    .replace(/[\W|_]+/g, '_').toLowerCase()
+}
+
+// U+1F44B ; 6.0 # 👋 waving hand
+//          |1--| |2-|3----------|
+//
+// U+1F442 U+1F3FB ; 8.0 # 👂🏻 ear: light skin tone
+//                  |1--| |2-|3--||4--------------|
+//
+// U+1F469 U+200D U+1F467 U+200D U+1F467 ; 6.0 # 👩‍👧‍👧 family: woman, girl, girl
+//                                        |1--| |2-|3-----||4----------------|
+//
+const ORDERED_EMOJI_REGEX = /.+\s;\s(?<version>[0-9.]+)\s#\s(?<emoji>\S+)\s(?<name>[^:]+)(?::\s)?(?<desc>.+)?/
+
+let curren
