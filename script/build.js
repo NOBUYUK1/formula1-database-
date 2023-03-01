@@ -115,4 +115,16 @@ orderedEmojiData.split('\n').forEach(line => {
     }
     currentEmoji = emojiWithOptionalVariation16
     orderedEmoji.push(currentEmoji)
-  
+    dataByEmoji[currentEmoji].name = fullName
+    dataByEmoji[currentEmoji].slug = slugify(fullName)
+    dataByEmoji[currentEmoji].unicode_version = version
+    dataByEmoji[currentEmoji].skin_tone_support = false
+  }
+})
+
+for (const emoji of orderedEmoji) {
+  const {group, skin_tone_support, skin_tone_support_unicode_version, name, slug, emoji_version, unicode_version} = dataByEmoji[emoji]
+  let groupIndex = dataByGroup.findIndex((element) => element.name === group)
+  if (groupIndex === - 1) {
+    dataByGroup.push({ name: group, slug: slugify(group), emojis: [] })
+    gro
