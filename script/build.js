@@ -127,4 +127,33 @@ for (const emoji of orderedEmoji) {
   let groupIndex = dataByGroup.findIndex((element) => element.name === group)
   if (groupIndex === - 1) {
     dataByGroup.push({ name: group, slug: slugify(group), emojis: [] })
-    gro
+    groupIndex = dataByGroup.findIndex((element) => element.name === group)
+  }
+  dataByGroup[groupIndex].emojis.push({
+    emoji,
+    skin_tone_support,
+    skin_tone_support_unicode_version,
+    name,
+    slug,
+    unicode_version,
+    emoji_version
+  })
+}
+
+// {
+//   "😀": {
+//     "group": "Smileys & Emotion",
+//     "name": "grinning face",
+//     "slug": "grinning_face",
+//     "version": "6.1",
+//     "skin_tone_support": false
+//   },
+//   ...
+// }
+fs.writeFileSync('data-by-emoji.json', JSON.stringify(dataByEmoji, null, 2))
+
+// {
+//   "Smileys & Emotion": [
+//     {
+//       "emoji": "😀",
+//       "skin_t
