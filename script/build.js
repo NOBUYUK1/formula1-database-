@@ -156,4 +156,26 @@ fs.writeFileSync('data-by-emoji.json', JSON.stringify(dataByEmoji, null, 2))
 //   "Smileys & Emotion": [
 //     {
 //       "emoji": "😀",
-//       "skin_t
+//       "skin_tone_support": false,
+//       "name": "grinning face",
+//       "slug": "grinning_face",
+//       "version": "6.1"
+//     },
+//   ],
+//   ...
+// }
+fs.writeFileSync('data-by-group.json', JSON.stringify(dataByGroup, null, 2))
+
+// [
+//   "😀",
+//   "😃",
+//   ...
+// ]
+fs.writeFileSync('data-ordered-emoji.json', JSON.stringify(orderedEmoji, null, 2))
+
+// {
+//   "light_skin_tone": "🏻",
+//   "medium_light_skin_tone": "🏼",
+//   ...
+// }
+fs.writeFileSync('data-emoji-components.json', JSON.stringify(emojiComponents, null, 2))
